@@ -2,12 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <Garrett Boatman> -- <Developer> -- <garrettboatman>
-
-# THANKS
-
-    <Run The Jewels 2>
+	
+	<Sean Park> -- <Developer> -- <spark33>
+    <Garrett Boatman> -- <Template Developer> -- <garrettboatman>
 
 # TECHNOLOGY COLOPHON
 
