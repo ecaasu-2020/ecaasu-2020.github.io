@@ -48,23 +48,6 @@
 		left: 50%;
 		width: 80%;
 	}
-
-	.curve-vector {
-		position: absolute;
-		left: 0vw;
-		width: 100vw;
-	}
-
-	&::after {
-		content: "";
-		background: url(../img/curve.svg);
-		/*width: 100vw;*/
-		position: absolute;
-		top: 85%;
-		left: -10%;
-		width: 100vw;
-		height: 300px;
-	}
 }
 
 @media screen and (max-width: 900px) {
@@ -84,11 +67,6 @@
 		#home-conference-intro-text {
 			width: 100%;
 			margin: 0;
-		}
-
-		&::after {
-			content: "";
-			background: none;
 		}
 	}
 }
