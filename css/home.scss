@@ -1,0 +1,71 @@
+---
+---
+
+@import 'variables.scss';
+
+#home-banner {
+
+	justify-content: center;
+	align-items: center;
+
+	#home-banner-text {
+		vertical-align: middle;
+		padding-right: 10%;
+
+		> h3 {
+			font-weight: bolder;
+		}
+	}
+}
+
+#home-what-is-ecaasu {
+
+	justify-content: center;
+	align-items: center;
+
+	#home-what-is-ecaasu-text {
+		vertical-align: middle;
+		padding-left: 10%;
+
+		> h3 {
+			font-weight: bolder;
+		}
+	}
+}
+
+#home-conference-intro {
+	background: $light-blue;
+	position: relative;
+
+	#home-conference-intro-text {
+		width: 35%;
+		margin: 10%;
+	}
+
+	#home-conference-intro-logo {
+		position: absolute;
+		bottom: 5%;
+		left: 50%;
+		width: 80%;
+	}
+
+	.curve-vector {
+		position: absolute;
+		left: 0vw;
+		width: 100vw;
+	}
+
+	&::after {
+		content: "";
+		background: url(../img/curve.svg);
+		/*width: 100vw;*/
+		position: absolute;
+		top: 85%;
+		left: -10%;
+		width: 100vw;
+		height: 300px;
+	}
+}
+
+
+
