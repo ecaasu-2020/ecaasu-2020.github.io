@@ -9,7 +9,7 @@ sections:
   label: Team Photos
   create: all
   match: "**/*"
-  new_doc_ext: ".png"
+  new_doc_ext: png
 - type: document
   path: _data/team_list.yaml
   label: Team List
