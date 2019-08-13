@@ -46,6 +46,7 @@ Curve vectors should be placed as <img> tags
 at the end of <section> tags. The parent <section>
 should have relative positioning.
 */
+
 .curve-vector {
 	position: absolute;
 	left: -25%; // dependent on section width being 80vw
@@ -67,6 +68,10 @@ should have relative positioning.
 		padding: 0;
 	}
 
+	.not-on-mobile {
+		display: none;
+	}
+
 	section, div {
 		width: 100%;
 		padding: 20px;
@@ -78,9 +83,5 @@ should have relative positioning.
 		margin: 0 !important;
 		width: 100% !important;
 		padding: 5vh 20px !important;
-	}
-
-	.not-on-mobile {
-		display: none;
 	}
 }
