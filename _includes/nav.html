@@ -1,0 +1,18 @@
+<header>
+	<a class="nonhoverable" href="index.html">
+		<img src="img/logo.svg">
+	</a>
+	<nav>
+		{% include nav_links.html %}
+		<a class="nav-toggle nonhoverable">
+			<i class="fas fa-bars"></i>
+		</a>
+	</nav>
+</header>
+
+<div id="mobile-nav-screen">
+	<a class="nav-toggle nonhoverable">
+		<i class="fas fa-times"></i>
+	</a>
+	{% include nav_links.html %}
+</div>

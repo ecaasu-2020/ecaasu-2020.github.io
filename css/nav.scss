@@ -1,0 +1,83 @@
+---
+---
+
+@import 'variables.scss';
+
+body.nav-open { // don't scroll when the mobile nav is open
+	overflow: hidden;
+}
+
+header {
+	width: 100%;
+	padding: 3vw;
+	display: flex;
+	justify-content: space-between;
+
+	.logo img {
+		width: 50px;
+	}
+
+	.nav-toggle {
+		display: none;
+		font-size: 25px;
+	}
+
+	nav {
+		justify-content: flex-end;
+		align-items: stretch;
+	}
+
+	ul {
+		padding: 0;
+		margin: 0;
+
+		li {
+			display: inline-block;
+			margin: 0 30px;
+		}
+	}
+}
+
+#mobile-nav-screen {
+	// position
+	position: fixed;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 100vw;
+	height: 100%;
+	z-index: 999;
+
+	// style
+	text-align: center;
+	padding: 3vw;
+	background: $gold;
+	color: white;
+	ul {
+		font-size: 1.5em;
+		padding: 0;
+		list-style: none;
+		li {
+			margin: 5vh 0;
+		}
+	}
+
+	// visibility
+	display: none;
+
+	&.visible {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	nav {
+		padding: 10px;
+		ul {
+			display: none;
+		}
+		.nav-toggle {
+			display: block;
+		}
+	}
+}

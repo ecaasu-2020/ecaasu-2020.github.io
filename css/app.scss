@@ -1,20 +1,30 @@
 ---
 ---
 
-/*
-*******
-None of these variable are being imported anywhere, they're just here for your convenience.
-*******
-*/
+* {
+	box-sizing: border-box;
+}
 
 body{
 	margin: 0;
+	font-family: 'Raleway', sans-serif;
 }
 
-// Some Style Variables
-$primary-color: #36465f;
-$secondary-color: #464646;
-$error: #de3535;
-$success: #d5f5d7;
+a {
+	color: inherit;
+	text-decoration: none;
+	padding-bottom: 3px;
+	border-bottom: 2px solid transparent;
+	cursor: pointer;
 
-$max-width: 960px;
+	&:hover {
+		border-color: inherit;
+	}
+}
+
+.nonhoverable:hover {
+	border: none !important;
+}
+
+@import 'variables.scss';
+@import 'nav.css';

@@ -1,0 +1,7 @@
+<ul id="nav-links">
+	{% for page in site.pages %}
+		{% if page.title and page.title != "Home" %}
+			<li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+</ul>
