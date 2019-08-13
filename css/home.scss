@@ -5,6 +5,7 @@
 
 #home-banner {
 
+	display: flex;
 	justify-content: center;
 	align-items: center;
 
@@ -20,6 +21,7 @@
 
 #home-what-is-ecaasu {
 
+	display: flex;
 	justify-content: center;
 	align-items: center;
 
@@ -34,6 +36,8 @@
 }
 
 #home-conference-intro {
+
+	display: flex;
 	background: $light-blue;
 	position: relative;
 

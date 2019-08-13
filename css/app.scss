@@ -16,7 +16,6 @@ section {
 	width: 80%;
 	margin: 3vh auto 15vh;
 	max-width: 100vw;
-	display: flex;
 }
 
 .nonhoverable:hover {
@@ -58,6 +57,7 @@ should have relative positioning.
 
 @import 'nav.css';
 @import 'home.css';
+@import 'team.css';
 
 @media screen and (max-width: 900px) {
 	

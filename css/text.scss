@@ -4,9 +4,14 @@
 @import 'variables.scss';
 
 h1, h2, h3, h4, h5, h6 {
+	display: block;
 	color: $orange;
 	margin: 0;
 	margin-bottom: 5px;
+}
+
+p {
+	margin-bottom: 3px;
 }
 
 h1 {
