@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: img
-  label: Team Photos
-  create: all
-  match: "**/*"
-  new_doc_ext: png
 - type: document
   path: _data/team_list.yaml
   label: Team List
