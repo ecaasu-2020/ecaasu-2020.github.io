@@ -43,7 +43,7 @@
 
 	#home-conference-intro-text {
 		width: 35%;
-		margin: 10%;
+		margin: 10vw;
 	}
 
 	#home-conference-intro-logo {
@@ -52,6 +52,12 @@
 		left: 50%;
 		width: 80%;
 	}
+}
+
+#home-faq {
+	width: 100vw;
+	background: $light-blue;
+	padding: 10vw;
 }
 
 @media screen and (max-width: 900px) {

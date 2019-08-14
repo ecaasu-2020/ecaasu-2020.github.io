@@ -47,6 +47,7 @@ should have relative positioning.
 */
 
 .curve-vector {
+	pointer-events: none;
 	position: absolute;
 	left: -25%; // dependent on section width being 80vw
 	top: 80%;
