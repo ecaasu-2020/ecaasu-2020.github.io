@@ -13,8 +13,12 @@
 		vertical-align: middle;
 		padding-right: 10%;
 
-		> h3 {
-			font-weight: bolder;
+		h2 {
+			margin-left: -2px; // fix alignment because of first character kerning
+		}
+
+		h6 {
+			margin-left: 1px;
 		}
 	}
 }
@@ -43,7 +47,7 @@
 
 	#home-conference-intro-text {
 		width: 35%;
-		margin: 10vw;
+		margin: 3vw 0 10vw 5vw;
 	}
 
 	#home-conference-intro-logo {
@@ -57,7 +61,15 @@
 #home-faq {
 	width: 100vw;
 	background: $light-blue;
-	padding: 10vw;
+	padding: 3vw 10vw;
+
+	#home-faq-text {
+		width: 60%;
+
+		p {
+			margin-bottom: 30px;
+		}
+	}
 }
 
 @media screen and (max-width: 900px) {

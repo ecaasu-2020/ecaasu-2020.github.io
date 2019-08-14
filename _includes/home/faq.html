@@ -1,7 +1,9 @@
 <section id="home-faq">
-	<h2>FAQ</h2>
-	{% for q in site.data.faq.questions %}
-		<h4>{{ q.question }}</h4>
-		<p>{{ q.answer }}</p>
-	{% endfor %}
+	<h3>FAQ</h3>
+	<div id="home-faq-text">
+		{% for q in site.data.faq.questions %}
+			<p><b>{{ q.question }}</b></p>
+			<p>{{ q.answer }}</p>
+		{% endfor %}
+	</div>
 </section>
