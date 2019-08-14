@@ -72,6 +72,23 @@
 	}
 }
 
+#home-sponsors {
+	#home-sponsors-logos {
+		
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+
+		.sponsor {
+			margin-bottom: 30px;
+
+			> img {
+				max-width: 300px;
+			}
+		}
+	}
+}
+
 @media screen and (max-width: 900px) {
 
 	#home-banner {
