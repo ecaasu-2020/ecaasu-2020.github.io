@@ -1,6 +1,6 @@
 events:
-- date: xx/xx
-  day_in_week: Friday
+- day_in_week: Friday
+  date: xx/xx
   events:
   - start_time: x PM
     end_time: x PM
@@ -20,8 +20,8 @@ events:
     subtitle: Mandatory for all participants
     location: Tepper 2700
     description: This is some description!
-- date: xx/xx
-  day_in_week: Saturday
+- day_in_week: Saturday
+  date: xx/xx
   events:
   - start_time: x PM
     end_time: x PM
