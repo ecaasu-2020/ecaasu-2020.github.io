@@ -1,0 +1,43 @@
+events:
+- date: xx/xx
+  day_in_week: Friday
+  events:
+  - start_time: x PM
+    end_time: x PM
+    title: Registration
+    subtitle: Mandatory for all participants
+    location: Tepper 2700
+    description: This is some description!
+  - start_time: x PM
+    end_time: x PM
+    title: Registration
+    subtitle: Mandatory for all participants
+    location: Tepper 2700
+    description: This is some description!
+  - start_time: x PM
+    end_time: x PM
+    title: Registration
+    subtitle: Mandatory for all participants
+    location: Tepper 2700
+    description: This is some description!
+- date: xx/xx
+  day_in_week: Saturday
+  events:
+  - start_time: x PM
+    end_time: x PM
+    title: Registration
+    subtitle: Mandatory for all participants
+    location: Tepper 2700
+    description: This is some description!
+  - start_time: x PM
+    end_time: x PM
+    title: Registration
+    subtitle: Mandatory for all participants
+    location: Tepper 2700
+    description: This is some description!
+  - start_time: x PM
+    end_time: x PM
+    title: Registration
+    subtitle: Mandatory for all participants
+    location: Tepper 2700
+    description: This is some description!

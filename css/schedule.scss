@@ -1,0 +1,16 @@
+---
+---
+
+@import 'variables.scss';
+
+#schedule-event-list {
+	.schedule-event {
+		padding: 20px 40px;
+		margin: 10px 0;
+		background: $light-blue;
+
+		p {
+			margin: 0;
+		}
+	}
+}
