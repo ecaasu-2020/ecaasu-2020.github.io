@@ -73,6 +73,9 @@
 }
 
 #home-sponsors {
+
+	margin-bottom: 0;
+
 	#home-sponsors-logos {
 		
 		display: flex;
@@ -86,6 +89,34 @@
 				max-width: 300px;
 			}
 		}
+	}
+}
+
+#home-call-to-action {
+
+  	width: 100%;
+  	margin: 0;
+  	position: relative;
+  	display: flex;
+  	justify-content: flex-end;
+
+	#home-call-to-action-logo {
+		position: absolute;
+		top: 30%;
+		left: -10%;
+		width: 75%;
+	}
+
+	#home-call-to-action-blob {
+		width: 70%;
+		align-self: flex-end;
+	}
+
+	#home-call-to-action-text {
+		position: absolute;
+		top: 20%;
+		right: 10%;
+		width: 30%;
 	}
 }
 
