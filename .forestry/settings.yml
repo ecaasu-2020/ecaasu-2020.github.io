@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: _data/sponsor_list.yaml
+  label: Sponsors
+  match: "**/*"
+- type: document
   path: _data/event_list.yaml
   label: Schedule
-  match: "**/*"
 - type: document
   path: _data/team_list.yaml
   label: Team List
