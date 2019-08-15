@@ -60,7 +60,7 @@ function updateWorkshopListDOM() {
 	$(".workshop").each(function() {
 		block = $(this)[0].getAttribute("data-block");
 		track = $(this)[0].getAttribute("data-track");
-		if(selectedBlocks.includes(block) || selectedTracks.includes(track)) {
+		if(selectedBlocks.includes(block) && selectedTracks.includes(track)) {
 			$(this).removeClass("not-displayed");
 		} else {
 			$(this).addClass("not-displayed");

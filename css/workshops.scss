@@ -51,7 +51,33 @@
 }
 
 #workshop-list {
-	.not-displayed {
-		display: none;
+
+	padding: 0 5%;
+
+	.workshop {
+
+		display: flex;
+		margin-bottom: 100px;
+
+		.workshop-image {
+			position: relative;
+			width: 30%;
+
+			.circle {
+				position: absolute;
+				top: -10%;
+				left: -10%;
+				width: 50%;
+				z-index: -1;
+			}
+
+			.workshop-photo {
+				width: 80%;
+			}
+		}
+
+		&.not-displayed {
+			display: none;
+		}
 	}
 }

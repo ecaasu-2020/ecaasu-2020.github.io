@@ -1,7 +1,37 @@
 workshops:
-- name: Workshop 1
+- name: Test Workshop
   block: 1
   track: Track 1
+  host: Sean Park
+  location: Tepper 2700
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+- name: Test Workshop
+  block: 1
+  track: Track 2
+  host: Sean Park
+  location: Tepper 2700
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+- name: Test Workshop
+  block: 1
+  track: Track 3
+  host: Sean Park
+  location: Tepper 2700
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+- name: Test Workshop
+  block: 2
+  track: Track 1
+  host: Sean Park
+  location: Tepper 2700
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+- name: Test Workshop
+  block: 2
+  track: Track 1
+  host: Sean Park
+  location: Tepper 2700
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+- name: Test Workshop
+  block: 3
+  track: Track 3
   host: Sean Park
   location: Tepper 2700
   description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
