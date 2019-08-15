@@ -131,12 +131,32 @@
 	}
 	
 	#home-conference-intro {
-
-		padding: 5vh 0;
+		padding-bottom: 5vh;
 
 		#home-conference-intro-text {
 			width: 100%;
 			margin: 0;
+		}
+	}
+
+	#home-faq {
+		#home-faq-text {
+			width: 100%;
+			padding: 0;
+		}
+	}
+
+	#home-sponsors {
+		#home-sponsors-logos > a {
+			text-align: center;
+		}
+	}
+
+	#home-call-to-action {
+		#home-call-to-action-text {
+			width: 100% !important;
+			top: 0 !important;
+			right: 0 !important;
 		}
 	}
 }
