@@ -1,0 +1,42 @@
+---
+---
+
+@import 'variables.scss';
+
+#speakers-speaker-list {
+
+	.speaker {
+
+		display: flex;
+		flex: 1;
+		margin-bottom: 30px;
+		justify-content: space-around;
+
+		.speaker-image {
+			position: relative;
+
+			.speaker-photo {
+				position: absolute;
+				left: 25%;
+				top: 0;
+				width: 100%;
+			}
+		}
+
+		.speaker-text {
+			width: 40%;
+		}
+
+		&:nth-of-type(even) {
+
+			flex-direction: row-reverse;
+
+			.speaker-image {
+				-webkit-transform: scaleX(-1);
+				   -moz-transform: scaleX(-1);
+					 -o-transform: scaleX(-1);
+						transform: scaleX(-1);
+			}
+		}
+	}
+}
