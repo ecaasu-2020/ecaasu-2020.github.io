@@ -120,7 +120,7 @@
 	}
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: $breakpoint) {
 
 	#home-banner {
 		flex-direction: column;

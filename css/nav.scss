@@ -94,7 +94,7 @@ header {
 	}
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: $breakpoint) {
 	header {
 		padding: 10px;
 		ul {

@@ -2,9 +2,18 @@ $gold: #FFB800;
 $orange: #FF6000;
 $light-blue: #EEF5F6;
 
+$breakpoint: 900px;
+
 @mixin transition($transition...) {
     -moz-transition:    $transition;
     -o-transition:      $transition;
     -webkit-transition: $transition;
     transition:         $transition;
+}
+
+@mixin transform($transform...) {
+    -moz-transform:    $transform;
+    -o-transform:      $transform;
+    -webkit-transform: $transform;
+    transform:         $transform;
 }
