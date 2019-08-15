@@ -1,15 +1,16 @@
-<section id="speakers-speaker-list">
-	<h3>Speakers</h3>
+<div class="speaker-list">
 	{% for speaker in site.data.speaker_list.speakers %}
-		<div class="speaker">
-			<div class="speaker-image">
-				<img class="speaker-circle" src="img/speaker_circle.svg" />
-				<img class="speaker-photo" src="img/speakers/{{ speaker.name }}.png" />
+		{% if include.featured_only == false or speaker.featured == true %}
+			<div class="speaker">
+				<div class="speaker-image">
+					<img class="speaker-circle" src="img/speaker_circle.svg" />
+					<img class="speaker-photo" src="img/speakers/{{ speaker.name }}.png" />
+				</div>
+				<div class="speaker-text">
+					<h1>{{ speaker.name }}</h1>
+					<p>{{ speaker.intro }}</p>
+				</div>
 			</div>
-			<div class="speaker-text">
-				<h1>{{ speaker.name }}</h1>
-				<p>{{ speaker.intro }}</p>
-			</div>
-		</div>
+		{% endif %}
 	{% endfor %}
-</section>
+</div>
