@@ -34,6 +34,10 @@ header {
 		li {
 			display: inline-block;
 			margin: 0 30px;
+
+			.active {
+				font-weight: bold;
+			}
 		}
 	}
 }
