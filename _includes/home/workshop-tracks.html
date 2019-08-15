@@ -1,0 +1,12 @@
+<section id="home-workshop-tracks">
+	{% for track in site.data.workshop_tracks.tracks %}
+		<div class="home-workshop-track">
+			<div class="home-workshop-track-image">
+				<img src="img/workshop_track_circle.svg" />
+				<img class="home-workshop-track-icon" src="img/{{ track.name }}.svg" />
+			</div>
+			<h5>{{ track.name }}</h5>
+			<p>{{ track.description }}</p>
+		</div>
+	{% endfor %}
+</section>

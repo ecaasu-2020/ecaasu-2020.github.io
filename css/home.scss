@@ -58,6 +58,26 @@
 	}
 }
 
+#home-workshop-tracks {
+	display: flex;
+
+	.home-workshop-track {
+		margin-right: 10px;
+
+		.home-workshop-track-image {
+			position: relative;
+
+			.home-workshop-track-icon {
+				position: absolute;
+				top: 0;
+				left: 0;
+			}
+		}
+	}
+}
+
+// featured speaker list is styled as _includes/speakers/speaker-list.html
+
 #home-faq {
 	width: 100vw;
 	background: $light-blue;
