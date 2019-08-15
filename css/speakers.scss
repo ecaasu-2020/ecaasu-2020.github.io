@@ -40,3 +40,25 @@
 		}
 	}
 }
+
+@media screen and (max-width: 900px) {
+
+	.speaker {
+		flex-direction: column !important;
+		padding: 0;
+
+		.speaker-image {
+			-webkit-transform: scaleX(-1);
+			   -moz-transform: scaleX(-1);
+				 -o-transform: scaleX(-1);
+					transform: scaleX(-1);
+		}
+
+		.speaker-text {
+			width: 100% !important;
+			padding: 0;
+		}
+	}
+}
+
+
