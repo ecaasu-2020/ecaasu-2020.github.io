@@ -9,17 +9,34 @@ body.nav-open { // don't scroll when the mobile nav is open
 
 header {
 	width: 100%;
-	padding: 3vw;
+	padding: 2vw;
 	display: flex;
 	justify-content: space-between;
+	position: fixed;
+	top: 0;
+	height: 100px;
+	z-index: 999;
+	background: rgba(255,255,255,0.7);
 
-	.logo img {
-		width: 50px;
+	@include transition(0.5s);
+
+	&.nav-up {
+		top: -100px;
+	}
+
+	.logo {
+
+		border: none;
+
+		> img {
+			width: 75px;
+		}
 	}
 
 	.nav-toggle {
 		display: none;
-		font-size: 25px;
+		font-size: 35px;
+		margin: 5px;
 	}
 
 	nav {
@@ -49,8 +66,10 @@ header {
 	left: 0;
 	overflow: hidden;
 	width: 100vw;
-	height: 100%;
+	height: 0;
 	z-index: 999;
+
+	@include transition(0.5s);
 
 	// style
 	text-align: center;
@@ -71,17 +90,24 @@ header {
 
 	&.visible {
 		display: block;
+		height: 100%;
 	}
 }
 
 @media screen and (max-width: 900px) {
-	nav {
+	header {
 		padding: 10px;
 		ul {
 			display: none;
 		}
+
+		.logo {
+			padding: 3px;
+		}
+		
 		.nav-toggle {
-			display: block;
+			display: flex;
+			line-height: 100%;
 		}
 	}
 }

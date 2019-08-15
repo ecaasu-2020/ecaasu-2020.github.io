@@ -7,10 +7,14 @@
 	box-sizing: border-box;
 }
 
-body{
+body {
 	margin: 0;
 	font-family: 'Raleway', sans-serif;
 	overflow-x: hidden !important;
+}
+
+main {
+	padding-top: 100px; // make up for fixed header
 }
 
 section {
