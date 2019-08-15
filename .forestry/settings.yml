@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: _data/faq.yaml
+  label: FAQ
+  match: "**/*"
+- type: document
   path: _data/speaker-list.yaml
   label: Speakers
   match: "**/*"
