@@ -1,0 +1,18 @@
+<section id="workshops-header">
+	<h3>Workshops</h3>
+	<div id="workshops-search-filters">
+		<div id="block-filter-section" class="filter-section">
+			<h6>Block </h6>
+			<a class="block-tag filter-tag tag">1</a>
+			<a class="block-tag filter-tag tag">2</a>
+			<a class="block-tag filter-tag tag">3</a>
+		</div>
+		<div id="track-filter-section" class="filter-section">
+			<h6>Track </h6>
+			{% for track in site.data.workshop_tracks.tracks %}
+				<a class="track-tag filter-tag tag">{{ track.name }}</a>
+			{% endfor %}
+		</div>
+		<a id="workshops-deselect-all">Deselect All</a>
+	</div>
+</section>

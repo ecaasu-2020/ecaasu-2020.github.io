@@ -1,0 +1,7 @@
+workshops:
+- name: Workshop 1
+  block: 1
+  track: Track 1
+  host: Sean Park
+  location: Tepper 2700
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 

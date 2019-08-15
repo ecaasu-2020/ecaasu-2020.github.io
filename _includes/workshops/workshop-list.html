@@ -1,0 +1,12 @@
+<section id="workshop-list">
+	{% for workshop in site.data.workshop_list.workshops %}
+
+	<div class="workshop" data-block="{{ workshop.block }}" data-track="{{ workshop.track }}">
+		<small>Block {{ workshop.block }}</small>
+		<h5>{{ workshop.name }}</h5>
+		<p>{{ workshop.description }}</p>
+		<p class="tag">{{ workshop.track }}</p>
+		<p>Hosted by <b>{{ workshop.host }}</b> in <b>{{ workshop.location }}</b></p>
+	</div>	
+	{% endfor %}
+</section>

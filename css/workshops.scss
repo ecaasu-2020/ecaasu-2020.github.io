@@ -1,0 +1,57 @@
+---
+---
+
+@import 'variables.scss';
+
+.tag {
+	border-radius: 3px;
+	padding: 5px 10px;
+	background: $gold;
+	border: 1px solid $gold;
+	color: white;
+	display: inline-block;
+
+	@include transition(0.3s);
+
+	&.unselected {
+		color: $gold;
+		background: white;
+	}
+
+	&:hover {
+		color: $gold;
+		background: rgba($gold, 0.2);
+	}
+}
+
+#workshops-header {
+
+	display: flex;
+	align-items: stretch;
+	justify-content: space-between;
+
+	#workshops-search-filters {
+
+		display: flex;
+
+		.filter-section {
+
+			margin-right: 30px;
+
+			h6 {
+				margin-right: 3px;
+				display: inline-flex;
+			}
+		}
+
+		> a {
+			align-self: center;
+		}
+	}
+}
+
+#workshop-list {
+	.not-displayed {
+		display: none;
+	}
+}
