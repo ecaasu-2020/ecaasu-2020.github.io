@@ -7,11 +7,9 @@ sections:
 - type: document
   path: _data/faq.yaml
   label: FAQ
-  match: "**/*"
 - type: document
-  path: _data/speaker-list.yaml
+  path: _data/speaker_list.yaml
   label: Speakers
-  match: "**/*"
 - type: document
   path: _data/sponsor_list.yaml
   label: Sponsors
