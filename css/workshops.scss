@@ -79,5 +79,28 @@
 		&.not-displayed {
 			display: none;
 		}
+
+		.workshop-text {
+			
+			small {
+				color: $dark-grey;
+			}
+
+			h5 {
+				margin-top: 5px;
+			}
+
+			p {
+				margin-top: 0;
+
+				&:last-of-type {
+					color: $dark-grey;
+				}
+			}
+
+			h6 {
+				margin: 10px 0;
+			}
+		}
 	}
 }
