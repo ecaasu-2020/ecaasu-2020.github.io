@@ -45,6 +45,7 @@
 	display: flex;
 	background: $light-blue;
 	position: relative;
+	margin-bottom: 5vh;
 
 	#home-conference-intro-text {
 		width: 35%;
@@ -53,14 +54,15 @@
 
 	#home-conference-intro-logo {
 		position: absolute;
-		bottom: 5%;
+		bottom: 0;
 		left: 50%;
-		width: 80%;
+		width: 75%;
 	}
 }
 
 #home-workshop-tracks {
 	display: flex;
+	margin-top: 5vh;
 
 	.home-workshop-track {
 		margin-right: 10px;
@@ -123,9 +125,9 @@
 
 	#home-call-to-action-logo {
 		position: absolute;
-		top: 30%;
+		top: 20%;
 		left: -10%;
-		width: 75%;
+		width: 70%;
 	}
 
 	#home-call-to-action-blob {
