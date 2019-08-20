@@ -4,13 +4,44 @@
 @import 'variables.scss';
 
 #schedule-event-list {
-	.schedule-event {
-		padding: 20px 40px;
-		margin: 10px 0;
-		background: $light-blue;
 
-		p {
-			margin: 0;
+	.schedule-day {
+
+		background: $light-blue;
+		padding: 5vh 8vw;
+		margin: 5vh 0;
+
+		h3 {
+			color: black;
+		}
+
+		.schedule-event {
+			margin: 3vh 0;
+			display: flex;
+
+			.event-time-location {
+
+				flex: 1 1 0;
+
+				h6 {
+					color: $orange;
+					font-weight: bold;
+					margin: 0 0 5px;
+				}
+
+				p {
+					margin-top: 0;
+				}
+			}
+
+			.event-info {
+
+				flex: 4 1 0;
+
+				p {
+					margin-top: 0;
+				}
+			}
 		}
 	}
 }

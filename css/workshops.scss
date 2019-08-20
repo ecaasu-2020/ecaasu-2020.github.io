@@ -4,8 +4,8 @@
 @import 'variables.scss';
 
 .tag {
-	border-radius: 3px;
-	padding: 5px 10px;
+	border-radius: 0.5vw;
+	padding: 0.5vw 1vw;
 	background: $gold;
 	border: 1px solid $gold;
 	color: white;
@@ -24,82 +24,87 @@
 	}
 }
 
-#workshops-header {
+#workshop-list-main {
 
-	display: flex;
-	align-items: stretch;
-	justify-content: space-between;
-
-	#workshops-search-filters {
+	#workshops-header {
 
 		display: flex;
+		align-items: stretch;
+		justify-content: space-between;
 
-		.filter-section {
+		#workshops-search-filters {
 
-			margin-right: 30px;
+			display: flex;
 
-			h6 {
-				margin-right: 3px;
-				display: inline-flex;
-			}
-		}
+			.filter-section {
 
-		> a {
-			align-self: center;
-		}
-	}
-}
+				margin-right: 2vw;
 
-#workshop-list {
-
-	padding: 0 5%;
-
-	.workshop {
-
-		display: flex;
-		margin-bottom: 100px;
-
-		.workshop-image {
-			position: relative;
-			width: 30%;
-
-			.circle {
-				position: absolute;
-				top: -10%;
-				left: -10%;
-				width: 50%;
-				z-index: -1;
-			}
-
-			.workshop-photo {
-				width: 80%;
-			}
-		}
-
-		&.not-displayed {
-			display: none;
-		}
-
-		.workshop-text {
-			
-			small {
-				color: $dark-grey;
-			}
-
-			h5 {
-				margin-top: 5px;
-			}
-
-			p {
-				margin-top: 0;
-
-				&:last-of-type {
-					color: $dark-grey;
+				h6 {
+					margin-right: 0.5vw;
+					display: inline-flex;
 				}
 			}
 
-			h6 {
-				margin: 10px 0;
+			> a {
+				align-self: center;
+			}
+		}
+	}
+
+	#workshop-list {
+
+		padding: 10vh 5vw;
+
+		.workshop {
+
+			display: flex;
+			margin-bottom: 20vh;
+
+			.workshop-image {
+				position: relative;
+				flex: 1 1 0;
+
+				.circle {
+					position: absolute;
+					top: -10%;
+					left: -10%;
+					width: 50%;
+					z-index: -1;
+				}
+
+				.workshop-photo {
+					width: 80%;
+				}
+			}
+
+			&.not-displayed {
+				display: none;
+			}
+
+			.workshop-text {
+
+				flex: 3 1 0;
+				
+				small {
+					color: $dark-grey;
+				}
+
+				h5 {
+					margin-top: 0.5vw;
+				}
+
+				p {
+					margin-top: 0;
+
+					&:last-of-type {
+						color: $dark-grey;
+					}
+				}
+
+				h6 {
+					margin: 3vh 0;
+				}
 			}
 		}
 	}

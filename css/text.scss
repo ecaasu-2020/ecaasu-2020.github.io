@@ -13,37 +13,38 @@ h1, h2, h3, h4 {
 	color: $orange;
 }
 
-p {
-	margin-bottom: 3px;
-}
-
 h1 {
-	font-size: 4em;
+	font-size: 3.6vw;
 }
 
 h2 {
-	font-size: 2.8em;
+	font-size: 3.2vw;
 }
 
 h3 {
-	font-size: 2.5em;
-}
-
-h3 {
-	font-size: 2em;
+	font-size: 2.8vw;
 }
 
 h4 {
-	font-size: 1.5em;
+	font-size: 1.6vw;
 }
 
 h5 {
-	font-size: 1.2em;
+	font-size: 1.4vw;
 }
 
 h6 {
-	font-size: 1em;
+	font-size: 1.2vw;
 	font-weight: 500;
+}
+
+a, p {
+	font-size: 1vw;
+	margin-bottom: 3px;
+}
+
+small {
+	font-size: 0.8vw;
 }
 
 a {
@@ -60,6 +61,26 @@ a {
 
 @media screen and (max-width: $breakpoint) {
 	h1 {
-		font-size: 3.5em !important;
+		font-size: 3.6em;
+	}
+
+	h2 {
+		font-size: 2.7em;
+	}
+
+	h3 {
+		font-size: 2.025em;
+	}
+
+	h4, h5 {
+		font-size: 1.52em;
+	}
+
+	h6 {
+		font-size: 1.14em;
+	}
+
+	p,a {
+		font-size: 1em;
 	}
 }

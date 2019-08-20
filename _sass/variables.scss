@@ -5,17 +5,18 @@ $light-grey: #F6F6F6;
 $dark-grey: #666;
 
 $breakpoint: 900px;
+$nav-height: 10vh;
 
-@mixin transition($transition...) {
-    -moz-transition:    $transition;
-    -o-transition:      $transition;
-    -webkit-transition: $transition;
-    transition:         $transition;
+@mixin transition($transition, $important: null) {
+    -moz-transition:    $transition $important;
+    -o-transition:      $transition $important;
+    -webkit-transition: $transition $important;
+    transition:         $transition $important;
 }
 
-@mixin transform($transform...) {
-    -moz-transform:    $transform;
-    -o-transform:      $transform;
-    -webkit-transform: $transform;
-    transform:         $transform;
+@mixin transform($transform, $important: null) {
+    -moz-transform:    $transform $important;
+    -o-transform:      $transform $important;
+    -webkit-transform: $transform $important;
+    transform:         $transform $important;
 }

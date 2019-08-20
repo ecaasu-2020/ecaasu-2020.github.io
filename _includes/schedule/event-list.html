@@ -1,19 +1,25 @@
 <section id="schedule-event-list">
 	<h3>Schedule</h3>
 	{% for day in site.data.event_list.events %}
-		<h1>{{ day.day_in_week }}</h1>
+		<div class="schedule-day">
+			<h3>{{ day.day_in_week }}</h3>
 
-		{% for event in day.events %}
-			<div class="schedule-event">
-				<p>
-					{{ event.start_time }} - {{ event.end_time }}
-				</p>
-				<h4>{{ event.title }}</h4>
-				<h5>{{ event.subtitle }}</h5>
-				<h6>{{ event.location }}</h6>
-				<p>{{ event.description }}</p>
-			</div>
-		{% endfor %}
+			{% for event in day.events %}
+				<div class="schedule-event">
+					<div class="event-time-location">
+						<h6>
+							{{ event.start_time }} - {{ event.end_time }}
+						</h6>
+						<p>{{ event.location }}</p>
+					</div>
+					<div class="event-info">
+						<p><b>{{ event.title }}</b></p>
+						<!-- <h5>{{ event.subtitle }}</h5> -->
+						<p>{{ event.description }}</p>
+					</div>
 		
+				</div>
+			{% endfor %}
+		</div>
 	{% endfor %}
 </section>

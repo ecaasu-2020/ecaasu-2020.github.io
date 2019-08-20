@@ -8,8 +8,13 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	min-height: 80vh;
+	vertical-align: middle;
+	width: 70%;
+	margin: 0 auto;
 
 	#home-banner-text {
+		flex: 1 1 0;
 		vertical-align: middle;
 
 		h2 {
@@ -23,7 +28,12 @@
 	}
 
 	#home-banner-img {
-		padding-left: 20vw;
+		flex: 1 1 0;
+		text-align: center;
+
+		img {
+			width: 70%;
+		}
 	}
 }
 
@@ -32,10 +42,21 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	min-height: 80vh;
+	vertical-align: middle;
+
+	#home-what-is-ecaasu-img {
+		flex: 1 1 0;
+
+		img {
+			width: 100%;
+		}
+	}
 
 	#home-what-is-ecaasu-text {
 		vertical-align: middle;
-		padding-left: 10%;
+		padding-left: 5vw;
+		flex: 1 1 0;
 
 		> h3 {
 			font-weight: bolder;
@@ -51,27 +72,36 @@
 	margin-bottom: 5vh;
 
 	#home-conference-intro-text {
-		width: 35%;
-		margin: 3vw 0 10vw 5vw;
+		flex-basis: 30%;
+		margin: 15vh 0 15vh 10vw;
 	}
 
 	#home-conference-intro-logo {
 		position: absolute;
 		bottom: 0;
 		left: 50%;
-		width: 75%;
+		width: 60vw;
+	}
+
+	.curve-vector {
+		left: -10vw;
+		width: 100vw;
 	}
 }
 
 #home-workshop-tracks {
 	display: flex;
-	margin-top: 5vh;
+	margin-top: 20vh;
 
 	.home-workshop-track {
 		margin-right: 10px;
 
 		.home-workshop-track-image, .workshop-image {
 			position: relative;
+
+			.home-workshop-track-circle {
+				width: 30%;
+			}
 
 			.home-workshop-track-icon {
 				position: absolute;
@@ -100,8 +130,6 @@
 
 #home-sponsors {
 
-	margin-bottom: 0;
-
 	#home-sponsors-logos {
 		
 		display: flex;
@@ -109,10 +137,11 @@
 		justify-content: space-around;
 
 		.sponsor {
-			margin-bottom: 30px;
+			padding: 0 3vw 3vh 3vw;
+			flex-basis: 30%;
 
-			> img {
-				max-width: 300px;
+			img {
+				width: 100%;
 			}
 		}
 	}
@@ -150,6 +179,10 @@
 
 	#home-banner {
 		flex-direction: column;
+
+		#home-banner-img {
+			padding: 0;
+		}
 	}
 
 	#home-what-is-ecaasu {
@@ -165,6 +198,10 @@
 		}
 	}
 
+	#home-workshop-tracks {
+		margin-top: 0;
+	}
+
 	#home-faq {
 		#home-faq-text {
 			width: 100%;
@@ -175,6 +212,9 @@
 	#home-sponsors {
 		#home-sponsors-logos > a {
 			text-align: center;
+			> img {
+				max-width: 75%;
+			}
 		}
 	}
 

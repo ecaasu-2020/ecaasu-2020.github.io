@@ -8,23 +8,27 @@
 	.speaker {
 
 		display: flex;
-		flex: 1;
-		margin-bottom: 30px;
+		margin: 15vh 7.5vw;
 		justify-content: space-around;
 
 		.speaker-image {
 			position: relative;
+			flex: 3 1 0;
+
+			.speaker-circle {
+				width: 50%;
+			}
 
 			.speaker-photo {
 				position: absolute;
-				left: 25%;
+				left: 15%;
 				top: 0;
-				width: 100%;
+				width: 50%;
 			}
 		}
 
 		.speaker-text {
-			width: 40%;
+			flex: 2 1 0;
 		}
 
 		&:nth-of-type(even) {
@@ -43,14 +47,10 @@
 	.speaker {
 		flex-direction: column !important;
 		padding: 0;
+		margin: 0 0 10vh 0 !important;
 
-		.speaker-image {
-			@include transform(scaleX(1));
-		}
-
-		.speaker-text {
-			width: 100% !important;
-			padding: 0;
+		&:nth-of-type(even) .speaker-image {
+			@include transform(scaleX(1), !important);
 		}
 	}
 }

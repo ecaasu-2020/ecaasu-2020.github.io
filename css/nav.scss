@@ -14,14 +14,14 @@ header {
 	justify-content: space-between;
 	position: fixed;
 	top: 0;
-	height: 100px;
+	height: $nav-height;
 	z-index: 999;
 	background: rgba(255,255,255,0.7);
 
 	@include transition(0.5s);
 
 	&.nav-up {
-		top: -100px;
+		top: -1 * $nav-height;
 	}
 
 	.logo {
@@ -29,7 +29,7 @@ header {
 		border: none;
 
 		> img {
-			width: 75px;
+			width: 5vw;
 		}
 	}
 
@@ -50,7 +50,7 @@ header {
 
 		li {
 			display: inline-block;
-			margin: 0 30px;
+			margin: 0 3vw;
 
 			.active {
 				font-weight: bold;
