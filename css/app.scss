@@ -23,6 +23,14 @@ section {
 	max-width: 100vw;
 }
 
+footer {
+	width: 100%;
+	background: #D8D8D8;
+	padding: 1vw 10vw;
+	margin-bottom: -20vw;
+	text-align: center;   
+}
+
 .nonhoverable:hover {
 	border-color: transparent !important;
 }
