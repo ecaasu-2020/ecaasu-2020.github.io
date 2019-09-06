@@ -1,3 +1,8 @@
 <!-- Loading in some scripts here -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/scripts.js"></script>
+
+{% for file in site.static_files %}
+    {% if file.path contains '.js' %}
+        <script src="{{ site.baseurl }}{{ file.path }}"></script>
+    {% endif %}
+{% endfor %}
