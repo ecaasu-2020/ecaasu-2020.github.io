@@ -1,4 +1,19 @@
 <ul id="nav-links">
+	<li>
+		<a class="home-section-link" href="{{ site.baseurl }}index.html#home-what-is-ecaasu">
+			About
+		</a>
+	</li>
+	<li>
+		<a class="home-section-link" href="{{ site.baseurl }}index.html#home-logistics">
+			Logistics
+		</a>
+	</li>
+	<li>
+		<a class="home-section-link" href="{{ site.baseurl }}index.html#home-faq">
+			FAQ
+		</a>
+	</li>
 	{% for p in site.pages %}
 		{% if p.title and p.title != "Home" %}
 			<li>
