@@ -1,7 +1,9 @@
 # Site settings
 title: 2020 ECAASU Conference - Building Bridges
 tagline: "Building Bridges"
-url: "http://somedomain.com" # The base hostname & protocol for your site. Use it if you need absolute URL's
+url: "http://ecaasuconf2020.com" # The base hostname & protocol for your site. Use it if you need absolute URL's
+
+register_link: "http://google.com"
 
 # Use this for production
 #sass:
