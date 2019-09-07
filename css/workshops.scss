@@ -6,16 +6,16 @@
 .tag {
 	border-radius: 0.5vw;
 	padding: 0.5vw 1vw;
-	background: $gold;
+	color: $gold;
 	border: 1px solid $gold;
-	color: white;
+	background: white;
 	display: inline-block;
 
 	@include transition(0.3s);
 
-	&.unselected {
-		color: $gold;
-		background: white;
+	&.selected {
+		background: $gold;
+		color: white;
 	}
 
 	&:hover {
@@ -31,23 +31,31 @@
 		display: flex;
 		align-items: stretch;
 		justify-content: space-between;
+		margin: 10vh 0 5vh;
+
+		h3 {
+			margin: 0;
+		}
 
 		#workshops-search-filters {
 
 			display: flex;
+			align-items: center;
 
 			.filter-section {
 
 				margin-right: 2vw;
 
 				h6 {
+					margin: 0;
 					margin-right: 0.5vw;
 					display: inline-flex;
 				}
 			}
 
-			> a {
+			a {
 				align-self: center;
+				margin-bottom: 0;
 			}
 		}
 	}
@@ -105,6 +113,31 @@
 				h6 {
 					margin: 3vh 0;
 				}
+			}
+		}
+	}
+}
+
+@media screen and (max-width: $breakpoint) {
+
+	.tag {
+		padding: 4px 8px;
+	}
+
+	#workshop-list-main {
+		#workshops-header {
+			margin: 3vh 0;
+			flex-direction: row;
+			justify-content: space-between;
+		}
+		#workshops-search-filters {
+			align-self: flex-end;
+			justify-content: flex-end;
+			padding: 0;
+			text-align: right;
+			.filter-section {
+				justify-content: flex-end;
+				padding: 0;
 			}
 		}
 	}

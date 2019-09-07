@@ -103,6 +103,9 @@ header {
 
 		.logo {
 			padding: 3px;
+			> img {
+				width: 60px;
+			}
 		}
 		
 		.nav-toggle {
