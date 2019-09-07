@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: config.yml
+  path: _config.yml
   label: Register Link
   match: "**/*"
 - type: document
