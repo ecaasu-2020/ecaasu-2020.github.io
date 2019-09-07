@@ -149,9 +149,8 @@
 				padding-right: 0;
 			}
 
-			.home-logistics-image {
-				margin: auto;
-				margin-right: 0;
+			.home-logistics-image img {
+				float: right
 			}
 		}
 
@@ -257,6 +256,38 @@
 
 	#home-workshop-tracks {
 		margin-top: 0;
+	}
+
+	#home-featured-speakers {
+	    margin-bottom: 0;
+
+	    .speaker-list {
+	    	.speaker:last-child {
+	    		margin-bottom: 0;
+	    	}
+	    }
+	}
+
+	#home-logistics {
+
+		h3 {
+			margin-top: 0;
+			margin-bottom: 1em; // match other h3s
+		}
+
+		.home-logistics-section {
+
+			padding: 0;
+
+			&:nth-child(even) {
+				flex-direction: column;
+			}
+
+			.home-logistics-image img {
+					max-width: 100%;
+					float: none;
+				}
+		}
 	}
 
 	#home-faq {
