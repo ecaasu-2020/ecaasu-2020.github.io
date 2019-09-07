@@ -55,9 +55,9 @@ $("#workshops-search-filters .filter-tag").click(function(e) {
 	// $(this).toggleClass('unselected');
 
 	$("#workshops-search-filters .filter-tag").each(function() {
-		$(this).removeClass('selected');
+		$(this).addClass('unselected');
 	});
-	$(this).addClass('selected');
+	$(this).removeClass('unselected');
 
 	updateWorkshopListDOM();
 });

@@ -6,16 +6,16 @@
 .tag {
 	border-radius: 0.5vw;
 	padding: 0.5vw 1vw;
-	color: $gold;
+	background: $gold;
 	border: 1px solid $gold;
-	background: white;
+	color: white;
 	display: inline-block;
 
 	@include transition(0.3s);
 
-	&.selected {
-		background: $gold;
-		color: white;
+	&.unselected {
+		color: $gold;
+		background: white;
 	}
 
 	&:hover {
