@@ -103,15 +103,17 @@
 
 		.home-workshop-track-image, .workshop-image {
 			position: relative;
+			width: 30%;
 
 			.home-workshop-track-circle {
-				width: 30%;
+				// width: 30%;
 			}
 
 			.home-workshop-track-icon {
 				position: absolute;
-				top: 0;
-				left: 0;
+				top: 10%;
+				left: 10%;
+				width: 150%;
 			}
 		}
 	}
