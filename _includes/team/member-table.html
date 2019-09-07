@@ -1,11 +1,14 @@
 <section id="team-member-list">
 	<h3>Team</h3>
 	<div id="team-photo-grid">
-	{% for member in site.data.team_list.members %}
-		<div class="member-card">
-			<img src="{{ site.baseurl }}/img/team/{{ member.name }}.png" alt="{{ member.name }}'s Photo">
-			<p>{{ member.name }}</p>
-			<small>{{ member.role }}</small>
-		</div>
+	{% for team in site.data.team_list.teams %}
+		<h5>{{ team.name }}</h5>
+		{% for member in team.members %}
+			<div class="member-card">
+				<img src="{{ site.baseurl }}/img/team/{{ member.name }}.png" alt="{{ member.name }}'s Photo">
+				<p>{{ member.name }}</p>
+				<small>{{ member.role }}</small>
+			</div>
+		{% endfor %}
 	{% endfor %}
 </section>
