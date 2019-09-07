@@ -11,6 +11,10 @@
 		margin: 15vh 7.5vw;
 		justify-content: space-around;
 
+		&:last-child {
+			margin-bottom: 0;
+		}
+
 		.speaker-image {
 			position: relative;
 			flex: 3 1 0;

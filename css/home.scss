@@ -36,6 +36,10 @@
 			width: 70%;
 		}
 	}
+
+	.curve-vector {
+		top: 80%;
+	}
 }
 
 #home-what-is-ecaasu {
@@ -108,6 +112,58 @@
 				position: absolute;
 				top: 0;
 				left: 0;
+			}
+		}
+	}
+}
+
+#home-featured-speakers {
+	margin-bottom: 5vh;
+}
+
+#home-logistics {
+
+	position: relative;
+	margin-top: 0;
+	padding-top: 15vh;
+
+	.curve-vector {
+		top: 0;
+	}
+
+	h3 {
+		margin-bottom: 15vh;
+	}
+
+	.home-logistics-section {
+		background: $light-blue;
+		padding: 8vh 8vw;
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 5vh;
+
+		&:nth-child(even) {
+			flex-direction: row-reverse;
+			.home-logistics-text {
+				padding-left: 5vw;
+				padding-right: 0;
+			}
+
+			.home-logistics-image {
+				margin: auto;
+				margin-right: 0;
+			}
+		}
+
+		.home-logistics-text {
+			flex: 1 1 0;
+			padding-right: 5vw;
+		}
+
+		.home-logistics-image {
+			flex: 1 1 0;
+			> img {
+				width: 150%;
 			}
 		}
 	}
