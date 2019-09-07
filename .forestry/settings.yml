@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: config.yml
+  label: Register Link
+  match: "**/*"
+- type: document
   path: _data/workshop_list.yaml
   label: Workshops
-  match: "**/*"
 - type: document
   path: _data/faq.yaml
   label: FAQ
