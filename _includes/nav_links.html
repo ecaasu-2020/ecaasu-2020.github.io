@@ -15,7 +15,7 @@
 		</a>
 	</li>
 	{% for p in site.pages %}
-		{% if p.title and p.title != "Home" and p.title != "404" %}
+		{% if p.title and p.title != "Home" and p.title != 404 %}
 			<li>
 				<a class="{% if p.title == page.title %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">
 					{{ p.title }}
