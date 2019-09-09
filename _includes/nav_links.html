@@ -1,21 +1,22 @@
 <ul id="nav-links">
 	<li>
-		<a class="home-section-link" href="{{ site.baseurl }}index.html#home-what-is-ecaasu">
+		<a class="home-section-link" href="{{ site.baseurl }}#home-what-is-ecaasu">
 			About
 		</a>
 	</li>
+	{% comment %}
 	<li>
-		<a class="home-section-link" href="{{ site.baseurl }}index.html#home-logistics">
+		<a class="home-section-link" href="{{ site.baseurl }}#home-logistics">
 			Logistics
 		</a>
 	</li>
 	<li>
-		<a class="home-section-link" href="{{ site.baseurl }}index.html#home-faq">
+		<a class="home-section-link" href="{{ site.baseurl }}#home-faq">
 			FAQ
 		</a>
 	</li>
 	{% for p in site.pages %}
-		{% if p.title and p.title != "Home" and p.title != "404" %}
+		{% if p.title and p.title != "Home" and p.title != 404 %}
 			<li>
 				<a class="{% if p.title == page.title %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">
 					{{ p.title }}
@@ -29,4 +30,5 @@
 			Register
 		</a>
 	</li>
+	{% endcomment %}
 </ul>
