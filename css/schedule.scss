@@ -45,3 +45,13 @@
 		}
 	}
 }
+
+@media screen and (max-width: $breakpoint) {
+
+	.schedule-day {
+		.schedule-event {
+			padding-left: 0;
+		}
+	}
+
+}

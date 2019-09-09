@@ -237,9 +237,12 @@
 
 	#home-banner {
 		flex-direction: column;
+		padding-bottom: 0 !important;
 
 		#home-banner-img {
 			padding: 0;
+			margin-top: 5vh;
+			text-align: center;
 		}
 	}
 
