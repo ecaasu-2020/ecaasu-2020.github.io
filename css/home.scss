@@ -237,6 +237,14 @@
 	h2 {
 		letter-spacing: 4px;
 	}
+
+	p {
+		margin-top: 10vh;
+	}
+
+	.button {
+		margin-top: 5vh;
+	}
 }
 
 @media screen and (max-width: $breakpoint) {
