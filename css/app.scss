@@ -23,6 +23,16 @@ section {
 	max-width: 100vw;
 }
 
+#page-not-found {
+	min-height: 40vh;
+	margin-top: 25vh;
+	text-align: center;
+
+	> .button {
+		margin-top: 10vh;
+	}
+}
+
 .nonhoverable:hover {
 	border-color: transparent !important;
 }
