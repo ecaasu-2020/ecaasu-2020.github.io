@@ -5,6 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,500,500i,600,700,800&display=swap');
 
+
 h1, h2, h3, h4, h5, h6 {
 	display: block;
 }
@@ -39,8 +40,10 @@ h6 {
 }
 
 a, p {
-	font-size: 1vw;
+	font-size: 1.1vw;
 	margin-bottom: 3px;
+	line-height: 2.8vh;
+	
 }
 
 small {
