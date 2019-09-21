@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _config.yml
   label: Register Link
-  match: "**/*"
 - type: document
   path: _data/workshop_list.yaml
   label: Workshops
