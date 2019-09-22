@@ -2,8 +2,8 @@
 	<h3>FAQ</h3>
 	<div id="home-faq-text">
 		{% for q in site.data.faq.questions %}
-			<p><b>{{ q.question }}</b></p>
-			<p>{{ q.answer }}</p>
+			<p class="faq-question"><b>{{ q.question }}</b></p>
+			<p class="faq-answer">{{ q.answer }}</p>
 		{% endfor %}
 	</div>
 </section>
