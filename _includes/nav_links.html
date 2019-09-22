@@ -14,15 +14,38 @@
 			FAQ
 		</a>
 	</li>
-	{% for p in site.pages %}
-		{% if p.title and p.title != "Home" and p.title != 404 %}
+
+	<li class="nav-dropdown">
+		<a class="{% if 'Schedule' == page.title or 'Speakers' == page.title or 'Workshops == page.title %}active{% endif %}">
+			Program
+		</a>
+
+		<ul>
 			<li>
-				<a class="{% if p.title == page.title %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">
-					{{ p.title }}
+				<a class="{% if 'Schedule' == page.title %}active{% endif %}" href="{{ site.baseurl }}schedule.html">
+					Schedule
 				</a>
 			</li>
-		{% endif %}
-	{% endfor %}
+
+			<li>
+				<a class="{% if 'Speakers' == page.title %}active{% endif %}" href="{{ site.baseurl }}speakers.html">
+					Speakers
+				</a>
+			</li>
+
+			<li>
+				<a class="{% if 'Workshops' == page.title %}active{% endif %}" href="{{ site.baseurl }}workshops.html">
+					Workshops
+				</a>
+			</li>
+		</ul>
+	</li>
+	
+	<li>
+		<a class="{% if 'Team' == page.title %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">
+			Team
+		</a>
+	</li>
 
 	<li>
 		<a href="{{ site.register_link }}" target="_blank">

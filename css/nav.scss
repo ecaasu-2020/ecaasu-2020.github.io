@@ -7,6 +7,35 @@ body.nav-open { // don't scroll when the mobile nav is open
 	overflow: hidden;
 }
 
+.nav-dropdown {
+	position: relative;
+
+	> a:after {
+		content: '⌄';
+		font-size: 1.5em;
+	}
+
+	ul {
+		position: absolute;
+		padding: 10px 0;
+		display: none;
+		top: 100%;
+		left: 0;
+		min-width: 100%;
+		background: $light-grey;
+
+		li {
+			width: 100%;
+			display: block;
+			line-height: 30px;
+		}
+	}
+
+	&:hover > ul {
+		display: block;
+	}
+}
+
 header {
 	width: 100%;
 	padding: 2vw;
@@ -82,6 +111,29 @@ header {
 		list-style: none;
 		li {
 			margin: 5vh 0;
+		}
+	}
+
+	.nav-dropdown {
+
+		> a {
+			display: block;
+			width: 30%;
+			margin: 0 auto;
+			margin-bottom: 10px;
+			text-align: left;
+			font-size: 0.5em;
+		}
+
+		ul {
+			display: block;
+			position: inherit;
+			font-size: inherit;
+			background: inherit;
+
+			> li:first-of-type {
+				margin-top: 0;
+			}
 		}
 	}
 
