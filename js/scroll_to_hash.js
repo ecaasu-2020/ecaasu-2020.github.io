@@ -12,6 +12,8 @@ $('.home-section-link').click(function(e) {
 			scrollTop: $(hash).offset().top
 		}, 750);
 		location.href.replace(hash, "");
+		$('body').removeClass('nav-open');
+		$('#mobile-nav-screen').removeClass('visible');
 	}
 });
 
