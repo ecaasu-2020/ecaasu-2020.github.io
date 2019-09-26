@@ -177,9 +177,26 @@
 
 	#home-faq-text {
 		width: 60%;
+	}
 
-		p {
-			margin-bottom: 30px;
+	.faq-question {
+		position: relative;
+		margin: 30px 0;
+
+		:after {
+			content: '⌄';
+			font-size: 3em;
+			position: absolute;
+			left: 110%;
+			top: -0.5em;
+		}
+	}
+
+	.faq-answer {
+		display: none;
+
+		&.open {
+			display: block;
 		}
 	}
 }
@@ -313,6 +330,10 @@
 		#home-faq-text {
 			width: 100%;
 			padding: 0;
+
+			.faq-question {
+				width: 90%;
+			}
 		}
 	}
 
