@@ -1,37 +1,18 @@
-teams:
-  - name: Team 1
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-  - name: Team 2
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
+---
+members:
+- name: Jeremy Xue
+  role: Executive
+- name: Sean Park
+  role: King
+- name: Sean Park
+  role: King
+- name: Sean Park
+  role: King
+- name: Sean Park
+  role: King
+- name: Sean Park
+  role: King
+- name: Sean Park
+  role: King
+- name: Sean Park
+  role: King
