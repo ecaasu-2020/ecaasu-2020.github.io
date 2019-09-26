@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/team_list.yaml
   label: Team List
-  match: "**/*"
 - type: document
   path: _config.yml
   label: Register Link
