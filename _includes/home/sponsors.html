@@ -3,7 +3,7 @@
 	<div id="home-sponsors-logos">
 		{% for sponsor in site.data.sponsor_list.sponsors %}
 			<a class="sponsor nonhoverable" href="{{ sponsor.link }}">
-				<img src="img/sponsors/{{ sponsor.name }}.png" />
+				<img src="img/{{ sponsor.name }}.png" />
 			</a>
 		{% endfor %}
 	</div>
