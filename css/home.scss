@@ -183,20 +183,24 @@
 		position: relative;
 		margin: 30px 0;
 
-		:after {
+		&:after {
 			content: '⌄';
 			font-size: 3em;
 			position: absolute;
 			left: 110%;
-			top: -0.5em;
+			top: -0.25em;
+			font-weight: 100;
+			color: $dark-grey;
+			cursor: pointer;
 		}
 	}
 
 	.faq-answer {
-		display: none;
+		height: 0;
+		overflow: hidden;
 
 		&.open {
-			display: block;
+			height: auto;
 		}
 	}
 }
