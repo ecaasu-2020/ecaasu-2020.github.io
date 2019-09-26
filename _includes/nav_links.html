@@ -4,7 +4,6 @@
 			About
 		</a>
 	</li>
-	{% comment %}
 	<li>
 		<a class="home-section-link" href="{{ site.baseurl }}#home-logistics">
 			Venue
@@ -16,7 +15,8 @@
 		</a>
 	</li>
 
-	<!-- <li class="nav-dropdown">
+	{% comment %}
+	<li class="nav-dropdown">
 		<a class="{% if 'Schedule' == page.title or 'Speakers' == page.title or 'Workshops == page.title %}active{% endif %}">
 			Program
 		</a>
@@ -40,10 +40,11 @@
 				</a>
 			</li>
 		</ul>
-	</li> -->
+	</li>
+	{% endcomment %}
 	
 	<li>
-		<a class="{% if 'Team' == page.title %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">
+		<a class="{% if 'Team' == page.title %}active{% endif %}" href="{{ site.baseurl }}team.html">
 			Team
 		</a>
 	</li>
@@ -53,5 +54,4 @@
 			Register
 		</a>
 	</li>
-	{% endcomment %}
 </ul>
