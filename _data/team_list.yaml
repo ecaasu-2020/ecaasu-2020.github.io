@@ -20,6 +20,8 @@ teams:
     role: King
 - name: Programming
   members:
+  - name: Velisa Li
+    role: Programming
   - name: Anna Tran
     role: 'Programming '
   - name: Bea Fadrigon
@@ -34,5 +36,5 @@ teams:
     role: Programming
   - name: Rebecca Chen
     role: Programming
-  - name: Sean Park
-    role: King
+  - name: Stephanie Wang
+    role: Programming
