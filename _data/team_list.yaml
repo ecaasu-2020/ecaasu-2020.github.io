@@ -19,15 +19,15 @@ teams:
 - name: Logistics
   members:
   - name: Steph Cui
-    role: Logistics
+    role: Team Member
   - name: Justin Wang
-    role: Logistics
+    role: Team Member
   - name: Katherine Yang
-    role: Logistics
+    role: Director of Logistics
   - name: Mia Lei
-    role: Logistics
+    role: Team Member
   - name: Rie Ohta
-    role: Logistics
+    role: Team Member
 - name: Finance Team
   members:
   - name: Tao Sheng
