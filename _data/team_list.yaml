@@ -1,37 +1,68 @@
+---
 teams:
-  - name: Team 1
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-  - name: Team 2
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
+- name: Marketing and Outreach Team
+  members:
+  - name: Yusuf Shalaby
+    role: Marketing and Outreach
+  - name: Renee Nikolov
+    role: Marketing and Outreach
+  - name: Andey Ng
+    role: Marketing and Outreach
+  - name: Sean Park
+    role: Marketing and Outreach
+  - name: Vicky Zhou
+    role: Marketing and Outreach
+  - name: Vicky Liang
+    role: Marketing and Outreach
+  - name: Alex McDonough
+    role: Marketing and Outreach
+- name: Logistics
+  members:
+  - name: Steph Cui
+    role: Logistics
+  - name: Justin Wang
+    role: Logistics
+  - name: Katherine Yang
+    role: Logistics
+  - name: Mia Lei
+    role: Logistics
+  - name: Rie Ohta
+    role: Logistics
+- name: Finance Team
+  members:
+  - name: Tao Sheng
+    role: Finance
+  - name: Anegline Peng
+    role: Finance
+  - name: Jenny Zhang
+    role: Finance
+  - name: Stephanie Tseng
+    role: Finance
+  - name: Amie Buxton
+    role: Finance
+- name: Executive Team
+  members:
+  - name: Jeremy Xue
+    role: Conference Leader
+  - name: Theresa Lim
+    role: Conference Coordinator
+- name: Programming Team
+  members:
+  - name: Velisa Li
+    role: Programming
+  - name: Anna Tran
+    role: 'Programming '
+  - name: Bea Fadrigon
+    role: Programming
+  - name: Jeffrey Chiu
+    role: Programming
+  - name: Jesper Chen
+    role: Programming
+  - name: Kaylie Wu
+    role: Programming
+  - name: Kruthika Doreswamy
+    role: Programming
+  - name: Rebecca Chen
+    role: Programming
+  - name: Stephanie Wang
+    role: Programming
