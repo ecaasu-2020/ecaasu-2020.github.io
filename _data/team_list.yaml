@@ -49,20 +49,20 @@ teams:
 - name: Programming Team
   members:
   - name: Velisa Li
-    role: Programming
+    role: Programming Co-Director
   - name: Anna Tran
-    role: 'Programming '
+    role: Programming Co-Director
   - name: Bea Fadrigon
-    role: Programming
+    role: Team Member
   - name: Jeffrey Chiu
-    role: Programming
+    role: Team Member
   - name: Jesper Chen
-    role: Programming
+    role: Team Member
   - name: Kaylie Wu
-    role: Programming
+    role: Team Member
   - name: Kruthika Doreswamy
-    role: Programming
+    role: Team Member
   - name: Rebecca Chen
-    role: Programming
+    role: Team Member
   - name: Stephanie Wang
-    role: Programming
+    role: Team Member
