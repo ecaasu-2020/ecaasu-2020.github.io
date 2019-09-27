@@ -1,5 +1,17 @@
 ---
 teams:
+- name: Finance Team
+  members:
+  - name: Tao Sheng
+    role: Finance
+  - name: Anegline Peng
+    role: Finance
+  - name: Jenny Zhang
+    role: Finance
+  - name: Stephanie Tseng
+    role: Finance
+  - name: Amie Buxton
+    role: Finance
 - name: Executive Team
   members:
   - name: Jeremy Xue
