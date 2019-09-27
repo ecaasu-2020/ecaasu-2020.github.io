@@ -31,15 +31,15 @@ teams:
 - name: Finance Team
   members:
   - name: Tao Sheng
-    role: Finance
+    role: Team Member
   - name: Anegline Peng
-    role: Finance
+    role: Director of Finance
   - name: Jenny Zhang
-    role: Finance
+    role: Team Member
   - name: Stephanie Tseng
-    role: Finance
+    role: Team Member
   - name: Amie Buxton
-    role: Finance
+    role: Team Member
 - name: Executive Team
   members:
   - name: Jeremy Xue
