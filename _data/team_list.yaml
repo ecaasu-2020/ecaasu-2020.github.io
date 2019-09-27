@@ -3,21 +3,9 @@ teams:
 - name: Executive Team
   members:
   - name: Jeremy Xue
-    role: King
-  - name: Sean Park
-    role: King
-  - name: Sean Park
-    role: King
-  - name: Sean Park
-    role: King
-  - name: Sean Park
-    role: King
-  - name: Sean Park
-    role: King
-  - name: Sean Park
-    role: King
-  - name: Sean Park
-    role: King
+    role: Conference Leader
+  - name: Theresa Lim
+    role: Conference Coordinator
 - name: Programming
   members:
   - name: Velisa Li
