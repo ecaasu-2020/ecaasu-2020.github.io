@@ -1,37 +1,38 @@
+---
 teams:
-  - name: Team 1
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-  - name: Team 2
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
+- name: Executive Team
+  members:
+  - name: Jeremy Xue
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+- name: Programming
+  members:
+  - name: Anna Tran
+    role: 'Programming '
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
+  - name: Sean Park
+    role: King
