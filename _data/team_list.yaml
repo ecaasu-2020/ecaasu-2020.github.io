@@ -3,19 +3,19 @@ teams:
 - name: Marketing and Outreach Team
   members:
   - name: Yusuf Shalaby
-    role: Marketing and Outreach
+    role: Team Member
   - name: Renee Nikolov
-    role: Marketing and Outreach
+    role: Team Member
   - name: Andey Ng
-    role: Marketing and Outreach
+    role: Team Member
   - name: Sean Park
-    role: Marketing and Outreach
+    role: Team Member
   - name: Vicky Zhou
-    role: Marketing and Outreach
+    role: Team Member
   - name: Vicky Liang
-    role: Marketing and Outreach
+    role: 'Director of Marketing and Outreach '
   - name: Alex McDonough
-    role: Marketing and Outreach
+    role: Team Member
 - name: Logistics
   members:
   - name: Steph Cui
