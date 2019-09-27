@@ -43,9 +43,9 @@ teams:
 - name: Executive Team
   members:
   - name: Jeremy Xue
-    role: Conference Leader
+    role: Conference Co-Director
   - name: Theresa Lim
-    role: Conference Coordinator
+    role: Conference Co-Director
 - name: Programming Team
   members:
   - name: Velisa Li
