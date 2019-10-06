@@ -3,66 +3,66 @@ teams:
 - name: Marketing and Outreach Team
   members:
   - name: Yusuf Shalaby
-    role: Marketing and Outreach
+    role: Team Member
   - name: Renee Nikolov
-    role: Marketing and Outreach
+    role: Team Member
   - name: Andey Ng
-    role: Marketing and Outreach
+    role: Team Member
   - name: Sean Park
-    role: Marketing and Outreach
+    role: Team Member
   - name: Vicky Zhou
-    role: Marketing and Outreach
+    role: Team Member
   - name: Vicky Liang
-    role: Marketing and Outreach
+    role: 'Director of Marketing and Outreach '
   - name: Alex McDonough
-    role: Marketing and Outreach
+    role: Team Member
 - name: Logistics
   members:
   - name: Steph Cui
-    role: Logistics
+    role: Team Member
   - name: Justin Wang
-    role: Logistics
+    role: Team Member
   - name: Katherine Yang
-    role: Logistics
+    role: Director of Logistics
   - name: Mia Lei
-    role: Logistics
+    role: Team Member
   - name: Rie Ohta
-    role: Logistics
+    role: Team Member
 - name: Finance Team
   members:
   - name: Tao Sheng
-    role: Finance
+    role: Team Member
   - name: Anegline Peng
-    role: Finance
+    role: Director of Finance
   - name: Jenny Zhang
-    role: Finance
+    role: Team Member
   - name: Stephanie Tseng
-    role: Finance
+    role: Team Member
   - name: Amie Buxton
-    role: Finance
+    role: Team Member
 - name: Executive Team
   members:
   - name: Jeremy Xue
-    role: Conference Leader
+    role: Conference Co-Director
   - name: Theresa Lim
-    role: Conference Coordinator
+    role: Conference Co-Director
 - name: Programming Team
   members:
   - name: Velisa Li
-    role: Programming
+    role: Programming Co-Director
   - name: Anna Tran
-    role: 'Programming '
+    role: Programming Co-Director
   - name: Bea Fadrigon
-    role: Programming
+    role: Team Member
   - name: Jeffrey Chiu
-    role: Programming
+    role: Team Member
   - name: Jesper Chen
-    role: Programming
+    role: Team Member
   - name: Kaylie Wu
-    role: Programming
+    role: Team Member
   - name: Kruthika Doreswamy
-    role: Programming
+    role: Team Member
   - name: Rebecca Chen
-    role: Programming
+    role: Team Member
   - name: Stephanie Wang
-    role: Programming
+    role: Team Member
