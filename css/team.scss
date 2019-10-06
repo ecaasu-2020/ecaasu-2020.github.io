@@ -34,6 +34,12 @@
 
 @media screen and (max-width: $breakpoint) {
 	#team-member-list {
+
+		h5 {
+			margin-left: 0;
+			text-align: center;
+		}
+		
 		#team-photo-grid {
 			display: block;
 			.member-card {
