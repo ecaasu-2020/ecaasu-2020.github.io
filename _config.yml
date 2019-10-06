@@ -1,9 +1,9 @@
-# Site settings
+---
 title: 2020 ECAASU Conference - Building Bridges
 tagline: "Building Bridges"
 url: "http://ecaasuconf2020.com" # The base hostname & protocol for your site. Use it if you need absolute URL's
 
-register_link: "http://google.com"
+register_link: "https://ecaasuinc.wufoo.com/forms/zjcnyd11t538ea/"
 facebook_link: "https://www.facebook.com/ECAASUConference/"
 
 # Use this for production

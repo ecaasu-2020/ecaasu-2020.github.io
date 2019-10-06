@@ -5,9 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: _data/team_list.yaml
+  label: Team List
+- type: document
   path: _config.yml
   label: Register Link
-  match: "**/*"
 - type: document
   path: _data/workshop_list.yaml
   label: Workshops
@@ -23,11 +25,8 @@ sections:
 - type: document
   path: _data/event_list.yaml
   label: Schedule
-- type: document
-  path: _data/team_list.yaml
-  label: Team List
-upload_dir: img/team
-public_path: "/img/team"
+upload_dir: img
+public_path: img
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"

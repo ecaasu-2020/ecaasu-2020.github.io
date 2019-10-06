@@ -8,10 +8,10 @@ $breakpoint: 900px;
 $nav-height: 10vh;
 
 @mixin transition($transition, $important: null) {
-    -moz-transition:    $transition $important;
-    -o-transition:      $transition $important;
-    -webkit-transition: $transition $important;
-    transition:         $transition $important;
+    -moz-transition:    all $transition $important;
+    -o-transition:      all $transition $important;
+    -webkit-transition: all $transition $important;
+    transition:         all $transition $important;
 }
 
 @mixin transform($transform, $important: null) {

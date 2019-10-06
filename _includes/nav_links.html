@@ -15,7 +15,8 @@
 		</a>
 	</li>
 
-	<!-- <li class="nav-dropdown">
+	{% comment %}
+	<li class="nav-dropdown">
 		<a class="{% if 'Schedule' == page.title or 'Speakers' == page.title or 'Workshops == page.title %}active{% endif %}">
 			Program
 		</a>
@@ -39,13 +40,14 @@
 				</a>
 			</li>
 		</ul>
-	</li> -->
+	</li>
 	
 	<li>
-		<a class="{% if 'Team' == page.title %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">
+		<a class="{% if 'Team' == page.title %}active{% endif %}" href="{{ site.baseurl }}team.html">
 			Team
 		</a>
 	</li>
+	{% endcomment %}
 
 	<li>
 		<a href="{{ site.register_link }}" target="_blank">

@@ -1,37 +1,68 @@
+---
 teams:
-  - name: Team 1
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-  - name: Team 2
-    members:
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
-    - name: Sean Park
-      role: King
+- name: Marketing and Outreach Team
+  members:
+  - name: Yusuf Shalaby
+    role: Team Member
+  - name: Renee Nikolov
+    role: Team Member
+  - name: Andey Ng
+    role: Team Member
+  - name: Sean Park
+    role: Team Member
+  - name: Vicky Zhou
+    role: Team Member
+  - name: Vicky Liang
+    role: 'Director of Marketing and Outreach '
+  - name: Alex McDonough
+    role: Team Member
+- name: Logistics
+  members:
+  - name: Steph Cui
+    role: Team Member
+  - name: Justin Wang
+    role: Team Member
+  - name: Katherine Yang
+    role: Director of Logistics
+  - name: Mia Lei
+    role: Team Member
+  - name: Rie Ohta
+    role: Team Member
+- name: Finance Team
+  members:
+  - name: Tao Sheng
+    role: Team Member
+  - name: Anegline Peng
+    role: Director of Finance
+  - name: Jenny Zhang
+    role: Team Member
+  - name: Stephanie Tseng
+    role: Team Member
+  - name: Amie Buxton
+    role: Team Member
+- name: Executive Team
+  members:
+  - name: Jeremy Xue
+    role: Conference Co-Director
+  - name: Theresa Lim
+    role: Conference Co-Director
+- name: Programming Team
+  members:
+  - name: Velisa Li
+    role: Programming Co-Director
+  - name: Anna Tran
+    role: Programming Co-Director
+  - name: Bea Fadrigon
+    role: Team Member
+  - name: Jeffrey Chiu
+    role: Team Member
+  - name: Jesper Chen
+    role: Team Member
+  - name: Kaylie Wu
+    role: Team Member
+  - name: Kruthika Doreswamy
+    role: Team Member
+  - name: Rebecca Chen
+    role: Team Member
+  - name: Stephanie Wang
+    role: Team Member
