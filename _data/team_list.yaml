@@ -35,27 +35,27 @@ teams:
 - name: Logistics
   members:
   - name: Steph Cui
-    role: Team Member
+    role: ''
   - name: Justin Wang
-    role: Team Member
+    role: ''
   - name: Catherine Du
     role: Director of Logistics
   - name: Mia Lei
-    role: Team Member
+    role: ''
   - name: Rie Ohta
-    role: Team Member
+    role: ''
 - name: Finance Team
   members:
-  - name: Tao Sheng
-    role: Team Member
   - name: Angeline Peng
     role: Director of Finance
+  - name: Tao Sheng
+    role: ''
   - name: Jenny Zhang
-    role: Team Member
+    role: ''
   - name: Stephanie Tseng
-    role: Team Member
+    role: ''
   - name: Amie Buxton
-    role: Team Member
+    role: ''
 - name: Programming Team
   members:
   - name: Velisa Li
