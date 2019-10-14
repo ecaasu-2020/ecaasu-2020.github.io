@@ -21,17 +21,17 @@ teams:
   - name: Yusuf Shalaby
     role: ''
   - name: Renee Nikolov
-    role: Team Member
+    role: ''
   - name: Andey Ng
-    role: Team Member
+    role: ''
   - name: Sean Park
-    role: Team Member
+    role: ''
   - name: Vicky Zhou
-    role: Team Member
+    role: ''
   - name: Vicky Liang
     role: 'Director of Marketing and Outreach '
   - name: Alex McDonough
-    role: Team Member
+    role: ''
 - name: Logistics
   members:
   - name: Steph Cui
