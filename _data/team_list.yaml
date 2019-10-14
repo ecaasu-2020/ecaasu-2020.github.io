@@ -19,7 +19,7 @@ teams:
 - name: Marketing and Outreach Team
   members:
   - name: Yusuf Shalaby
-    role: Team Member
+    role: ''
   - name: Renee Nikolov
     role: Team Member
   - name: Andey Ng
@@ -56,12 +56,6 @@ teams:
     role: Team Member
   - name: Amie Buxton
     role: Team Member
-- name: Executive Team
-  members:
-  - name: Jeremy Xue
-    role: Conference Co-Director
-  - name: Theresa Lim
-    role: Conference Co-Director
 - name: Programming Team
   members:
   - name: Velisa Li
