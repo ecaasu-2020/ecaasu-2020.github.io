@@ -25,6 +25,9 @@ sections:
 - type: document
   path: _data/event_list.yaml
   label: Schedule
+- type: document
+  path: _data/hackathon_faq.yaml
+  label: Hackathon FAQ
 upload_dir: img
 public_path: img
 front_matter_path: ''

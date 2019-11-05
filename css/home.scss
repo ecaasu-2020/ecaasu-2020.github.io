@@ -170,12 +170,12 @@
 
 // featured speaker list is styled as _includes/speakers/speaker-list.html
 
-#home-faq {
+.faq {
 	width: 100vw;
 	background: $light-blue;
 	padding: 3vw 10vw;
 
-	#home-faq-text {
+	.faq-text {
 		width: 60%;
 	}
 
