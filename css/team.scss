@@ -16,17 +16,21 @@
 
 	#team-photo-grid {
 
-		display: flex;
-		flex-wrap: wrap;
-
-		.member-card {
-			text-align: center;
-			flex: 1 0 21%;
+		.team-section {
 			margin-bottom: 50px;
+			display: flex;
+			flex-wrap: wrap;
 
-			img {
-				width: 60%;
-				border-radius: 50%;
+			.member-card {
+				text-align: center;
+				flex: 1 0 21%;
+				max-width: 25%;
+				margin-bottom: 50px;
+
+				img {
+					max-width: 60%;
+					border-radius: 50%;
+				}
 			}
 		}
 	}
@@ -44,10 +48,10 @@
 			display: block;
 			.member-card {
 				display: block;
-				max-width: 50%;
+				max-width: 100% !important;
 				margin: 30px auto;
 				img {
-					width: 100%;
+					max-width: 100%;
 				}
 			}
 		}
