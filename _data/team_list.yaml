@@ -2,26 +2,24 @@
 teams:
 - name: Conference Directors
   members:
-  - name: Velisa Li
-    role: Programming Co-Director
+  - name: Jeremy Xue
+    role: Executive Co-Director
   - name: Theresa Lim
     role: Executive Co-Director
+  - name: Velisa Li
+    role: Programming Co-Director
   - name: Anna Tran
     role: Programming Co-Director
   - name: Katherine Yang
     role: Logistics Director
   - name: Vicky Liang
     role: Marketing and Outreach Director
-  - name: Jeremy Xue
-    role: Executive Co-Director
   - name: Angeline Peng
     role: Finance Director
 - name: Marketing and Outreach Team
   members:
   - name: Vicky Liang
     role: 'Director of Marketing and Outreach '
-  - name: Yusuf Shalaby
-    role: ''
   - name: Renee Nikolov
     role: ''
   - name: Andey Ng
@@ -34,6 +32,8 @@ teams:
     role: ''
 - name: Logistics
   members:
+  - name: Katherine Yang
+    role: Director of Logistics
   - name: Catherine Du
     role: Director of Logistics
   - name: Steph Cui
