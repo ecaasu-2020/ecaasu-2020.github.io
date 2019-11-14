@@ -18,8 +18,6 @@ teams:
     role: Finance Director
 - name: Marketing and Outreach Team
   members:
-  - name: Vicky Liang
-    role: 'Director of Marketing and Outreach '
   - name: Renee Nikolov
     role: ''
   - name: Andey Ng
