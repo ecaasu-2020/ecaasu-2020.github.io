@@ -52,6 +52,8 @@ teams:
     role: ''
 - name: Programming Team
   members:
+  - name: Bradley Zhou
+    role: ''
   - name: Bea Fadrigon
     role: ''
   - name: Jeffrey Chiu
