@@ -1,15 +1,25 @@
 ---
 questions:
-- question: Is there a cost for registering as an attendee for the conference?
-  answer: The Early Bird registration fee is a discounted fee of $55, and is open
-    until October 10, 2019. Pittsburgh students and high school students also have
-    a discounted fee of $40. Group registration will be $61.75. Regular registration
-    for individuals will be $65.
+- question: If you are a CMU/University of Pittsburgh student, is transportation included?
+  answer: "As of now, we will be providing transportation from CMU to University of
+    Pittsburgh and University of Pittsburgh to Wyndham Grand on Saturday (in between
+    workshop venues and workshop venues--> hotel/closing ceremony) but we will not
+    be providing transportation from Wyndham Grand to CMU on Saturday morning. The
+    best way to get around Pittsburgh is either through Lyft/Uber or through the Port
+    Authority bus system. \n\nIf you’re planning to use the bus system, I would suggest
+    either getting a single-day pass for $7 if you want unlimited rides to go around
+    Pittsburgh (you can use this to go in between workshop venues, to & from the hotel,
+    and to different neighborhoods), getting a rechargeable connect card ($1 for a
+    new card + $2.50 per ride; need one card per person), or paying with cash on the
+    bus (one-way ride is $2.75 per person). You can buy passes/connect cards right
+    next to the hotel at Gateway Station on Liberty Ave. & Stanwix St. or any other
+    locations listed here. If you’re looking for more information/options, you can
+    check out the website here.\n\n https://www.portauthority.org/fares-and-passes/connectcard/connectcard-locations/\n\nhttps://www.portauthority.org/fares-and-passes/fare-information/\n"
 - question: What are the different types of registrations and costs?
-  answer: Early Bird will close on October 10th, 2019.
-- question: I'm interested in hosting a workshop. How do I apply?
-  answer: Apply at  http://bit.ly/ECAASUworkshop to host a workshop! Applications
-    are open until November 8 at 11:59PM.
+  answer: Regular registration is $65 for individuals and $61.75 for groups of 10
+    or more. Regular registration will be open until January 21. Late registration
+    will be $80 for individuals and $76 for groups. Late registration will be open
+    until February 14.
 - question: How do I get to the conference?
   answer: |-
     For attendees traveling from Pennsylvania, Ohio, New York, NJ, the DMV, and other areas from the Mid-Atlantic region, we recommend bussing or driving. The Greyhound and Megabus buses depart from most major cities to downtown Pittsburgh, and each drop off at a 10 minute bus or shuttle ride to the Wyndham Hotel.
@@ -17,6 +27,8 @@ questions:
     For attendees coming from states outside of the Mid-Atlantic region (ex. Florida, New England), we recommend flying in. The nearest airport is the Pittsburgh International Airport at 1000 Airport Blvd, Pittsburgh, PA 15231.
 - question: Where can I park in Pittsburgh?
   answer: |-
+    Go here: (https://ecaasuconf2020.com/parkingMap.pdf) for the Wyndham hotel parking map.
+
     Valet parking is available at the hotel for $35 a night. Overnight self parking garages can be found near the hotel for a fee.
 
     Street/public garage parking can be paid for at the meters or through the Go Mobile PGH app and rates vary by location. Parking throughout the city is free after 6 PM and Sunday.

@@ -18,8 +18,6 @@ teams:
     role: Finance Director
 - name: Marketing and Outreach Team
   members:
-  - name: Vicky Liang
-    role: 'Director of Marketing and Outreach '
   - name: Renee Nikolov
     role: ''
   - name: Andey Ng
@@ -32,8 +30,6 @@ teams:
     role: ''
 - name: Logistics
   members:
-  - name: Katherine Yang
-    role: Director of Logistics
   - name: Catherine Du
     role: Director of Logistics
   - name: Steph Cui
@@ -46,8 +42,6 @@ teams:
     role: ''
 - name: Finance Team
   members:
-  - name: Angeline Peng
-    role: Director of Finance
   - name: Tao Sheng
     role: ''
   - name: Jenny Zhang
@@ -58,10 +52,8 @@ teams:
     role: ''
 - name: Programming Team
   members:
-  - name: Velisa Li
-    role: Programming Co-Director
-  - name: Anna Tran
-    role: Programming Co-Director
+  - name: Bradley Zhou
+    role: ''
   - name: Bea Fadrigon
     role: ''
   - name: Jeffrey Chiu
