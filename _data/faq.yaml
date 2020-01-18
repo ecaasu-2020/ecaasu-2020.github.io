@@ -1,27 +1,27 @@
 ---
 questions:
 - question: When should I plan to arrive and leave the conference?
-  answer: Check-in for the conference will open at 5pm. Our first event, the Opening
-    Ceremony, is tentatively scheduled to start at 7pm on Friday, February 21st. Closing
+  answer: "Check-in for the conference will open at 5pm. Our first event, the Opening
+    Ceremony, is tentatively scheduled to start at 7pm on Friday, February 21st. \n<br/><br/>\nClosing
     Ceremony is tentatively scheduled to end at 10pm on Saturday, February 22nd. Stay
-    posted for a more updated schedule soon!
+    posted for a more updated schedule soon!"
 - question: What are the different types of registrations and costs?
-  answer: Regular registration is $65 for individuals and $61.75 for groups of 10
-    or more. Regular registration will be open until January 21. Late registration
-    will be $80 for individuals and $76 for groups. Late registration will be open
-    until February 14.
+  answer: "Regular registration is $65 for individuals and $61.75 for groups of 10
+    or more. Regular registration will be open until January 21. \n<br/><br/>\nLate
+    registration will be $80 for individuals and $76 for groups. Late registration
+    will be open until February 14."
 - question: How do I get to the conference?
   answer: |-
     For attendees traveling from Pennsylvania, Ohio, New York, NJ, the DMV, and other areas from the Mid-Atlantic region, we recommend bussing or driving. The Greyhound and Megabus buses depart from most major cities to downtown Pittsburgh, and each drop off at a 10 minute bus or shuttle ride to the Wyndham Hotel.
-
+    <br/><br/>
     For attendees coming from states outside of the Mid-Atlantic region (ex. Florida, New England), we recommend flying in. The nearest airport is the Pittsburgh International Airport at 1000 Airport Blvd, Pittsburgh, PA 15231.
 - question: Where can I park in Pittsburgh?
   answer: |-
-    Go here: (https://ecaasuconf2020.com/parkingMap.pdf) for the Wyndham hotel parking map.
-
     Valet parking is available at the hotel for $35 a night. Overnight self parking garages can be found near the hotel for a fee.
-
+    <br/><br/>
     Street/public garage parking can be paid for at the meters or through the Go Mobile PGH app and rates vary by location. Parking throughout the city is free after 6 PM and Sunday.
+    <br/><br/>
+    Go here: (https://ecaasuconf2020.com/parkingMap.pdf) for the Wyndham hotel parking map.
 - question: If you are a CMU/University of Pittsburgh student, is transportation included?
   answer: "As of now, we will be providing transportation from CMU to University of
     Pittsburgh and University of Pittsburgh to Wyndham Grand on Saturday (in between
