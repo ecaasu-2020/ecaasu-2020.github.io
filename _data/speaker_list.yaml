@@ -2,10 +2,21 @@
 speakers:
 - name: Sonalee Rashatwar
   featured: true
-  intro: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua.
-    <br /><br />
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  intro: 'Sonalee Rashatwar (she/they) LCSW MEd is an award-winning clinical social
+    worker, sex therapist, adjunct lecturer, and grassroots organizer. Based in Philly
+    (licensed in NJ and PA), she is a superfat queer bisexual non-binary therapist
+    and co-owner of Radical Therapy Center, specialized in treating sexual trauma,
+    body image issues, racial or immigrant identity issues, and South Asian family
+    systems, while offering fat and body positive sexual healthcare. Popularly known
+    as TheFatSexTherapist on Instagram, their notoriety first peaked when they were
+    featured on Breitbart in March 2018 for naming thinness as a white supremacist
+    beauty ideal. And they continue to draw the ire of white supremacists everywhere
+    with controversial statements on intersectional fat liberation since then. Sonalee
+    is a sought-after speaker who travels internationally to curate custom visual
+    workshops that whisper to our change-making spirit and nourish our vision for
+    a more just future
+
+'
 - name: Pyper Bleu
   featured: true
   intro: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
