@@ -18,21 +18,21 @@ teams:
     role: Finance Director
 - name: Marketing and Outreach Team
   members:
-  - name: Yoonyoung Kim
-    role: ''
-  - name: Tiffany Liu
-    role: ''
   - name: Renee Nikolov
-    role: ''
-  - name: Shannon Lu
-    role: ''
-  - name: Andey Ng
-    role: ''
-  - name: Sean Park
     role: ''
   - name: Vicky Zhou
     role: ''
   - name: Alex McDonough
+    role: ''
+  - name: Andey Ng
+    role: ''
+  - name: Yoonyoung Kim
+    role: ''
+  - name: Tiffany Liu
+    role: ''
+  - name: Shannon Lu
+    role: ''
+  - name: Sean Park
     role: ''
 - name: Logistics
   members:
