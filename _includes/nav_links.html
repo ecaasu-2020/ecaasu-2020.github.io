@@ -28,11 +28,6 @@
 				</a>
 			</li>
 
-			<li>
-				<a class="{% if 'Speakers' == page.title %}active{% endif %}" href="{{ site.baseurl }}speakers.html">
-					Speakers
-				</a>
-			</li>
 
 			<li>
 				<a class="{% if 'Workshops' == page.title %}active{% endif %}" href="{{ site.baseurl }}workshops.html">
@@ -43,6 +38,12 @@
 	</li>
 
 {% endcomment %}
+	
+	<li>
+		<a class="{% if 'Speakers' == page.title %}active{% endif %}" href="{{ site.baseurl }}speakers.html">
+			Speakers
+		</a>
+	</li>
 	
 	<li>
 		<a class="{% if 'Team' == page.title %}active{% endif %}" href="{{ site.baseurl }}team.html">
