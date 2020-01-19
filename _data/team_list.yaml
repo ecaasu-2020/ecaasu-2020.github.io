@@ -18,7 +18,13 @@ teams:
     role: Finance Director
 - name: Marketing and Outreach Team
   members:
+  - name: Yoonyoung Kim
+    role: ''
+  - name: Tiffany Liu
+    role: ''
   - name: Renee Nikolov
+    role: ''
+  - name: Shannon Lu
     role: ''
   - name: Andey Ng
     role: ''
