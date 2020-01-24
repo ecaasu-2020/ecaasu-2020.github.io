@@ -9,18 +9,18 @@ events:
     subtitle: ''
     location: Wyhndham
     description: ''
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
+  - title: Opening Ceremony
+    start_time: 7:00pm
+    end_time: 9:30pm
+    subtitle: ''
+    location: Wyndham
+    description: ''
+  - title: Ideathon *
+    start_time: 9:30pm
+    end_time: 10:00pm
+    subtitle: ''
+    location: Wyndham
+    description: "*The Ideathon will end at 12:30pm on Saturday"
 - day_in_week: Saturday
   date: xx/xx
   events:
