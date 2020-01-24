@@ -36,9 +36,64 @@ events:
     subtitle: ''
     location: CMU
     description: ''
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
+  - title: Transition
+    start_time: 11:15am
+    end_time: 12:30pm
+    subtitle: ''
+    location: CMU
+    description: ''
+  - title: Workshop 2
+    start_time: 11:15am
+    end_time: 12:30pm
+    location: CMU
+    description: ''
+  - title: Lunch/Networking
+    start_time: 12:30pm
+    end_time: 2:00pm
+    location: CMU
+    description: ''
+  - title: Transportation from CMU to Pitt
+    start_time: 1:00pm
+    end_time: 2:30pm
+    subtitle: ''
+    location: ''
+    description: ''
+  - title: Workshop 3
+    start_time: 2:30pm
+    end_time: 3:45pm
+    subtitle: ''
+    location: Pitt
+    description: ''
+  - title: Transition
+    start_time: 3:45pm
+    end_time: 4:00pm
+    description: ''
+    location: Pitt
+  - title: Caucuses
+    start_time: 4:00pm
+    end_time: 5:30pm
+    location: Pitt
+    description: ''
+  - title: Transportation back to Wyndham
+    start_time: 5:30pm
+    subtitle: ''
+    location: ''
+    description: ''
+    end_time: 6:30pm
+  - title: Dinner
+    start_time: 6:30pm
+    location: Wyndham
+    description: ''
+    end_time: 7:30pm
+  - title: ''
+    start_time: ''
+    end_time: ''
+    subtitle: ''
+    location: ''
+    description: ''
+  - title: ''
+    start_time: ''
+    end_time: ''
+    subtitle: ''
+    location: ''
+    description: ''
