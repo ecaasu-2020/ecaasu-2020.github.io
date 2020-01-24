@@ -1,13 +1,14 @@
+---
 events:
 - day_in_week: Friday
   date: xx/xx
   events:
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
+  - title: Check-in
+    start_time: 5:00pm
+    end_time: 7:00pm
+    subtitle: ''
+    location: Wyhndham
+    description: ''
   - title: Registration
     start_time: x PM
     end_time: x PM
