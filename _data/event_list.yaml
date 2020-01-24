@@ -1,7 +1,7 @@
 ---
 events:
 - day_in_week: Friday
-  date: xx/xx
+  date: 02/21
   events:
   - title: Check-in
     start_time: 5:00pm
@@ -22,14 +22,14 @@ events:
     location: Wyndham
     description: "*The Ideathon will end at 12:30pm on Saturday"
 - day_in_week: Saturday
-  date: xx/xx
+  date: 02/22
   events:
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
+  - title: Breakfast
+    start_time: 8:30am
+    end_time: 9:30am
+    subtitle: ''
+    location: CMU
+    description: ''
   - title: Registration
     start_time: x PM
     end_time: x PM
