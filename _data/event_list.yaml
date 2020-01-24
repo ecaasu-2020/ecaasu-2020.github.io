@@ -30,12 +30,12 @@ events:
     subtitle: ''
     location: CMU
     description: ''
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
+  - title: Workshop 1
+    start_time: 9:30am
+    end_time: 10:45am
+    subtitle: ''
+    location: CMU
+    description: ''
   - title: Registration
     start_time: x PM
     end_time: x PM
