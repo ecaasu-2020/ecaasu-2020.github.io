@@ -85,15 +85,15 @@ events:
     location: Wyndham
     description: ''
     end_time: 7:30pm
-  - title: ''
-    start_time: ''
-    end_time: ''
+  - title: Closing Ceremony
+    start_time: 7:30pm
+    end_time: 10:00pm
     subtitle: ''
-    location: ''
+    location: Wyndham
     description: ''
-  - title: ''
-    start_time: ''
-    end_time: ''
+  - title: Concert
+    start_time: 10:00pm
+    end_time: 12:00am
     subtitle: ''
-    location: ''
+    location: Wyndham
     description: ''
