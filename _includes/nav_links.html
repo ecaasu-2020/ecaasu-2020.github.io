@@ -15,6 +15,10 @@
 		</a>
 	</li>
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 	<li class="nav-dropdown">
 		<a class="{% if 'Schedule' == page.title or 'Speakers' == page.title or 'Workshops == page.title %}active{% endif %}">
 			Program
@@ -26,8 +30,16 @@
 					Schedule
 				</a>
 			</li>
+			<li>
+				<a class="{% if 'Speakers' == page.title %}active{% endif %}" href="{{ site.baseurl }}speakers.html">
+					Speakers
+				</a>
+			</li>
+		</ul>
 
+	</li>
 
+{% comment %}
 			<li>
 				<a class="{% if 'Workshops' == page.title %}active{% endif %}" href="{{ site.baseurl }}workshops.html">
 					Workshops
@@ -35,12 +47,18 @@
 			</li>
 		</ul>
 	</li>
+<<<<<<< Updated upstream
 	
 	<li>
 		<a class="{% if 'Speakers' == page.title %}active{% endif %}" href="{{ site.baseurl }}speakers.html">
 			Speakers
 		</a>
 	</li>
+=======
+
+{% endcomment %}
+
+>>>>>>> Stashed changes
 	
 	<li>
 		<a class="{% if 'Team' == page.title %}active{% endif %}" href="{{ site.baseurl }}team.html">
