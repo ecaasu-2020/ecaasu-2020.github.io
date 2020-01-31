@@ -1,43 +1,99 @@
+---
 events:
 - day_in_week: Friday
-  date: xx/xx
+  date: 02/21
   events:
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
+  - title: Check-in
+    start_time: 5:00pm
+    end_time: 7:00pm
+    subtitle: ''
+    location: Wyhndham
+    description: ''
+  - title: Opening Ceremony
+    start_time: 7:00pm
+    end_time: 9:30pm
+    subtitle: ''
+    location: Wyndham
+    description: ''
+  - title: Ideathon *
+    start_time: 9:30pm
+    end_time: 10:00pm
+    subtitle: ''
+    location: Wyndham
+    description: "*The Ideathon will end at 12:30pm on Saturday"
 - day_in_week: Saturday
-  date: xx/xx
+  date: 02/22
   events:
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
-  - title: Registration
-    start_time: x PM
-    end_time: x PM
-    subtitle: Mandatory for all participants
-    location: Tepper 2700
-    description: This is some description!
+  - title: Breakfast
+    start_time: 8:30am
+    end_time: 9:30am
+    subtitle: ''
+    location: CMU
+    description: ''
+  - title: Workshop 1
+    start_time: 9:30am
+    end_time: 10:45am
+    subtitle: ''
+    location: CMU
+    description: ''
+  - title: Transition
+    start_time: 11:15am
+    end_time: 12:30pm
+    subtitle: ''
+    location: CMU
+    description: ''
+  - title: Workshop 2
+    start_time: 11:15am
+    end_time: 12:30pm
+    location: CMU
+    description: ''
+  - title: Lunch/Networking
+    start_time: 12:30pm
+    end_time: 2:00pm
+    location: CMU
+    description: ''
+  - title: Transportation from CMU to Pitt
+    start_time: 1:00pm
+    end_time: 2:30pm
+    subtitle: ''
+    location: ''
+    description: ''
+  - title: Workshop 3
+    start_time: 2:30pm
+    end_time: 3:45pm
+    subtitle: ''
+    location: Pitt
+    description: ''
+  - title: Transition
+    start_time: 3:45pm
+    end_time: 4:00pm
+    description: ''
+    location: Pitt
+  - title: Caucuses
+    start_time: 4:00pm
+    end_time: 5:30pm
+    location: Pitt
+    description: ''
+  - title: Transportation back to Wyndham
+    start_time: 5:30pm
+    subtitle: ''
+    location: ''
+    description: ''
+    end_time: 6:30pm
+  - title: Dinner
+    start_time: 6:30pm
+    location: Wyndham
+    description: ''
+    end_time: 7:30pm
+  - title: Closing Ceremony
+    start_time: 7:30pm
+    end_time: 10:00pm
+    subtitle: ''
+    location: Wyndham
+    description: ''
+  - title: Concert
+    start_time: 10:00pm
+    end_time: 12:00am
+    subtitle: ''
+    location: Wyndham
+    description: ''
