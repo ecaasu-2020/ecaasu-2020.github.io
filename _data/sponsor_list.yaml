@@ -1,7 +1,7 @@
 ---
 sponsors:
-- name: Tepper
-  link: http://cmu.edu/
+- name: US State Dept
+  link: https://www.state.gov/
 - name: APIAVote
   link: https://www.apiavote.org/
 - name: Council of Korean Americans (CKA)
@@ -22,3 +22,5 @@ sponsors:
   link: https://www.flybyjing.com/
 - name: University of Pittsburgh ASA
   link: http://www.pittasa.com/
+- name: Tepper
+  link: http://cmu.edu/
