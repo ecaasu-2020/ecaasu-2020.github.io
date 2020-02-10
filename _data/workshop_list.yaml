@@ -1,5 +1,19 @@
 ---
 workshops:
+- name: Cambodian Refugee Crisis
+  block: "2"
+  track: Track 2
+  host: Alyssa Khieu & Michael Nguyen
+  location: ''
+  description: "\"In this workshop, we seek to educate and bring awareness to the
+    current deportation \ncrisis of Cambodian refugees in the United States. The workshop
+    will briefly discuss \nhow the Vietnam War and American involvement brought rise
+    to the Khmer Rouge \nRegime, and eventually the Cambodian Genocide. Next we will
+    delve into how the \nassimilation and lack of resources for Cambodian refugees
+    has led to conditions that \nallow for unjust deportation back to a country they
+    have never known. The workshop \nwill feature an immersive, interactive activity,
+    elucidating the difficult situations \nCambodian refugees face. Content Warning:
+    Death/genocide, mental illness, \ndeportation, violence/gang violence.\""
 - name: Developing your Story of Self
   block: "1"
   track: Track 1
@@ -69,10 +83,16 @@ workshops:
     Dominant. Why is it that there are 2 distinct, opposite depictions of Asian women?
     The purpose of this workshop is to explore common stereotypes of Asian women throughout
     history and learn how these roles can play into the fetishization of Asian women.
-- name: Test Workshop
+- name: A "Firm" View on Affirmative Action
   block: "3"
   track: Track 3
-  host: Sean Park
-  location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore liqua.
+  host: Ricky Tran, Tina Hang
+  location: ''
+  description: Join us in this workshop where we will examine the effects of affirmative
+    action within the Asian American community. In this workshop, we will be discussing
+    (1) How Asian Americans are perceived in America with a more focused scope on
+    how we are viewed in the higher education system. (2) How the education system
+    has historically excluded minority groups (3) What actions have been taken by
+    the APIA community to combat issues revolving around anti-affirmative-action legislation?
+    (4) How to build solidarity with other racial groups that have been damaged affected
+    by affirmative action.
