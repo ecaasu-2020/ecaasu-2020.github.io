@@ -1,5 +1,29 @@
 ---
 workshops:
+- name: 'Challenging Our Narrative: Analyzing The Asian-American Socioeconomic Gap'
+  block: "2"
+  track: Track 2
+  host: Janani Guru
+  location: ''
+  description: "\"The AAPI population is the most socioeconomically divided racial
+    group \nin the United States. Often cited as the wealthiest and most educated
+    group in \nAmerica, income inequality within the population is very much overlooked.
+    \nThis disparity has impacts in political influence, media representation, education,
+    \nand representation as a whole. This workshop analyzes the causes of this gap,
+    \nhow it affects various Asian-American cohorts, and the ramifications this has
+    on \nthe Asian-American society as a whole.\""
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
 - name: Cambodian Refugee Crisis
   block: "2"
   track: Track 2
