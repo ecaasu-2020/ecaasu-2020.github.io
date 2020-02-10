@@ -1,5 +1,43 @@
 ---
 workshops:
+- name: The Social Impact of Asian Cuisine in the US
+  block: "2"
+  track: Track 2
+  host: Devin Dang, Albert Tanjaya
+  location: ''
+  description: "\"One thing that stands out about culture is the cuisine that comes
+    with it. The cuisine of our \nimmigrant families tends to be one of our few connections
+    left to the motherland as many \nof us may not know the languages that we speak,
+    have the opportunity to visit often, etc. \nWhat does it mean when someone visits
+    the land of your family for 3 months and decides \nto showcase it in a way that
+    you may not like it? Learn more as we discuss the importance \nof cuisine and
+    culture, the story it tells, and what it means to have AAPI figures tell the story
+    \nof our food.\""
+- name: API Civic Engagement 101
+  block: "3"
+  track: Track 3
+  host: Louie Tan Vital
+  location: ''
+  description: 'Did you know Asian Pacific Islanders (APIs) are the fastest growing
+    racial minority in the U.S.? What is going to happen if we continue to be chronically
+    underrepresented in politics? Learn the basics of civic engagement and how you
+    can get involved in electoral politics, activism, advocacy, and public policy.
+    From decolonization, rallying in the streets, to voting, every one of us has the
+    power to influence politics in ways that strengthen our community. Learn tangible
+    steps you can take to claim your political power and to harness our political
+    identities for the betterment of our people. '
+- name: 'Health Policy Hot Topics in the AAPI Community '
+  block: "2"
+  track: Track 2
+  host: Christine Chau, Krithika Pennathur
+  location: ''
+  description: "\"This workshop is intended to talk about health policy topics within
+    the AAPI community \nwith an intersectional lens and how to advocate for public
+    health issues. Let’s start with \nthe motivating questions--what do we define
+    as public health? how do policymakers define \nit? What are some public health
+    frameworks that can use to help us think about the social \nimplications of these
+    issues? Attendees will weigh in and conduct a short activity that \ninspires advocacy
+    and change. \""
 - name: 'Challenging Our Narrative: Analyzing The Asian-American Socioeconomic Gap'
   block: "2"
   track: Track 2
@@ -25,12 +63,20 @@ workshops:
     may be difficult to navigate. This workshop will aim to explain where colorism
     stems from and its effects within communities by telling a narrative of two communities
     with diverse identities: the Chinese Jamcaican and Filipino one.'
-- name: ''
-  block: ''
-  track: ''
-  host: ''
+- name: Food for Thought
+  block: "1"
+  track: Track 1
+  host: Sam Agtarap, Julianne Williams, Steven Rubio
   location: ''
-  description: ''
+  description: In many Asian-American households, food is our love language. However,
+    food can also be the enemy. We’ll talk about contradictions such as being told
+    to eat more and then being called “fat” afterwards, discuss how our cultures and
+    society created irrational beauty standards we force ourselves to uphold, challenge
+    the notion that we must be silent about eating disorders, and reflect on what
+    is our relationship with food- and if it is healthy or unhealthy. This workshop
+    will be mainly discussion and educational based. We will have some activities
+    to hopefully get individuals out of their shell and really want to talk about
+    these pressing issues!
 - name: Cambodian Refugee Crisis
   block: "2"
   track: Track 2
