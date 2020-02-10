@@ -29,13 +29,20 @@ workshops:
     your experiences and thoughts on fandom and creative productions such as fan fiction
     and fan-art! Let’s put these world-making and character development elements to
     practice by creating your own personalized tarot card as a creative fan practice.
-- name: Test Workshop
-  block: "1"
-  track: Track 3
-  host: Sean Park
-  location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore liqua.
+- name: "(Re)Model Minority: Intergenerational Perspectives on the Myth"
+  block: "2"
+  track: Track 2
+  host: Dahyun Jessica Jeong & Emily Ye
+  location: ''
+  description: "\"AAPIs have been described as a “model minority” since the 1960s,\nbut
+    how do different AAPI generations today view that label? Furthermore, \nhow do
+    their ethnic and generational identification influence their experience\nwith
+    the stereotype in America? “(Re)Model Minority: Intergenerational Perspectives
+    \non the Myth” will present an overview of the history of the model minority stereotype
+    \n(MMS) and research on intergenerational differences in perceptions of the MMS,
+    \nspecifically among 1st-, 1.5-, and 2nd-generation Asian Americans. \nWe will
+    discuss our differences in navigating the MMS, \nwhat intergenerational conflicts
+    arise due to these differences, and how we can \nmanage these tensions.\""
 - name: Test Workshop
   block: "2"
   track: Track 1
