@@ -1,37 +1,52 @@
+---
 workshops:
+- name: Developing your Story of Self
+  block: Steel
+  track: ''
+  host: Ridhwan Sediqe
+  location: ''
+  description: One of the most daunting tasks that college students face is answering
+    the ever-important question, “who are you?” Whether you’re a leader in a student
+    organization, a community organizer, or just trying to prepare for an interview,
+    having the tools to reflect on and share stories is essential to being successful.
+    Each of us has unique stories to share about the ideas and experiences that define
+    us. This workshop will introduce the “story of self” as a framework for reflecting
+    on our own experiences in order to communicate who we are. This workshop is a
+    great opportunity for both beginners and experienced leaders to practice using
+    a unique tool that has helped Presidents and activists identify the essence of
+    their passion and sense of community.
 - name: Test Workshop
-  block: 1
-  track: Track 1
-  host: Sean Park
-  location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
-- name: Test Workshop
-  block: 1
+  block: "1"
   track: Track 2
   host: Sean Park
   location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore liqua.
 - name: Test Workshop
-  block: 1
+  block: "1"
   track: Track 3
   host: Sean Park
   location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore liqua.
 - name: Test Workshop
-  block: 2
+  block: "2"
   track: Track 1
   host: Sean Park
   location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore liqua.
 - name: Test Workshop
-  block: 2
+  block: "2"
   track: Track 1
   host: Sean Park
   location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore liqua.
 - name: Test Workshop
-  block: 3
+  block: "3"
   track: Track 3
   host: Sean Park
   location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore liqua. 
+  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore liqua.
