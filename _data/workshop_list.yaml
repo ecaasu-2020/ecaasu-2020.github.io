@@ -2,7 +2,7 @@
 workshops:
 - name: Developing your Story of Self
   block: Steel
-  track: ''
+  track: Track 1
   host: Ridhwan Sediqe
   location: ''
   description: One of the most daunting tasks that college students face is answering
@@ -15,13 +15,20 @@ workshops:
     great opportunity for both beginners and experienced leaders to practice using
     a unique tool that has helped Presidents and activists identify the essence of
     their passion and sense of community.
-- name: Test Workshop
-  block: "1"
-  track: Track 2
-  host: Sean Park
-  location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore liqua.
+- name: Fandom and the Asian American Community
+  block: Steel
+  track: Track 1
+  host: Linda Kuo
+  location: ''
+  description: This workshop will explore how the participatory and transformative
+    nature of engaging in fandom could contribute towards Asian American community
+    building. From Kpop to anime to actual Asian American representations, we have
+    found sources of social support and ethnic connection from actively interacting
+    with the media we consume. We will cover fan studies as an emerging field, especially
+    in convergence with critical race studies and trans-media storytelling. Come discuss
+    your experiences and thoughts on fandom and creative productions such as fan fiction
+    and fan-art! Let’s put these world-making and character development elements to
+    practice by creating your own personalized tarot card as a creative fan practice.
 - name: Test Workshop
   block: "1"
   track: Track 3
