@@ -1,5 +1,34 @@
 ---
 workshops:
+- name: 'Framing Adoption: AAPI Adoptees Flip the Script'
+  block: "1"
+  track: Track 1
+  host: Phoebe Balascio
+  location: ''
+  description: 'This workshop will be an introduction into some of the different ways
+    of understanding adoption and those impacted by it. By looking at the different
+    ways adoption and adoptees are “framed”, participants will collaboratively learn
+    methods of uplifting and prioritizing adoptee voices. '
+- name: 'Imagination Makes It Happen: How to Pursue A Career In a Creative Field'
+  block: "1"
+  track: Track 1
+  host: Jessica Lee, Katie Zhao
+  location: ''
+  description: "\"Have you ever wanted to pursue a job in the creative field? What
+    keeps you from turning that artistic hobby into a full-fledged career? Maybe it’s
+    practicality, or pressure from your parents. Or even just the risk of entering
+    such a competitive field. \n<br/><br/>\nLed by two AAPI creative professionals
+    with diverse career paths, this workshop will take a close look at the intersectionality
+    of AAPI identity and working behind the scenes in the media industry. We will
+    share our experiences and provide insight on pursuing a creative career, discuss
+    the importance of representation, and unpack our methods for overcoming the struggles
+    as Asian-American creators.\""
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
 - name: The Social Impact of Asian Cuisine in the US
   block: "2"
   track: Track 2
