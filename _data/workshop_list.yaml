@@ -16,7 +16,7 @@ workshops:
     a unique tool that has helped Presidents and activists identify the essence of
     their passion and sense of community.
 - name: Fandom and the Asian American Community
-  block: Steel
+  block: "1"
   track: Track 1
   host: Linda Kuo
   location: ''
@@ -59,13 +59,16 @@ workshops:
     tier” health care professions, such as nurses, home aides, etc. So why is that
     Asians and Pacific Islanders have come to be boxed into these “elite” roles, and
     why have we left a major portion of the demographic out of the discussion?"'
-- name: Test Workshop
+- name: 'ABG vs. ABG: Exploring the Fetishization of Asian Women'
   block: "2"
-  track: Track 1
-  host: Sean Park
-  location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore liqua.
+  track: Track 2
+  host: Christine Chau, Krithika Pennathur
+  location: ''
+  description: When asked to think of some words used to describe Asian women, you
+    will often find contradictory terms floating around. Innocent. Sexy. Subservient.
+    Dominant. Why is it that there are 2 distinct, opposite depictions of Asian women?
+    The purpose of this workshop is to explore common stereotypes of Asian women throughout
+    history and learn how these roles can play into the fetishization of Asian women.
 - name: Test Workshop
   block: "3"
   track: Track 3
