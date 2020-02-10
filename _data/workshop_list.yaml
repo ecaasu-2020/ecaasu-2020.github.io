@@ -1,5 +1,33 @@
 ---
 workshops:
+- name: Third World Liberation Front
+  block: "2"
+  track: Track 2
+  host: Krysty Shen
+  location: ''
+  description: The first Asian American Studies program was born out of student and
+    community activism. Noticing that their experiences and needs were ignored and
+    overlooked, students of color at San Francisco State took action and organized
+    a strike. Beginning on November 6, 1969 and ending on March 20, 1969, the Third
+    World Liberation Front, a coalition of six student organizations at San Francisco
+    State, led the longest college strike in American history. The four-month long
+    strike established the first School (now College) of Ethnic Studies, and Asian
+    American Studies within the School. Looking at some key players of the TWLF Strike,
+    this workshop will inform students about the origins of Ethnic Studies and inspire
+    students to expand Ethnic Studies in their own schools.
+- name: Why Are We Here? The Role of Asian Collegiate Organizations
+  block: "2"
+  track: Track 2
+  host: Michael Nguyen, Korina Cheng, Bernice Lai
+  location: ''
+  description: In this workshop, we seek to explore the basis of collegiate, Asian
+    organizations and why they exist -  particularly in the United States. The workshop
+    will first discuss the history and roots of Asian organizations in America and
+    provide discussion questions to facilitate conversation of relevant topics. Some
+    topics which will be navigated include the specific spaces that these organizations
+    reside in, the questions or issues they seek to address, and the commonalities
+    across these organizations. A strong focus will be emphasized on conversation,
+    sharing, and synthesis of new ideas.
 - name: 'Framing Adoption: AAPI Adoptees Flip the Script'
   block: "1"
   track: Track 1
