@@ -1,7 +1,7 @@
 ---
 workshops:
 - name: Developing your Story of Self
-  block: Steel
+  block: "1"
   track: Track 1
   host: Ridhwan Sediqe
   location: ''
@@ -43,13 +43,22 @@ workshops:
     \nspecifically among 1st-, 1.5-, and 2nd-generation Asian Americans. \nWe will
     discuss our differences in navigating the MMS, \nwhat intergenerational conflicts
     arise due to these differences, and how we can \nmanage these tensions.\""
-- name: Test Workshop
+- name: AAPI in Healthcare Professions
   block: "2"
   track: Track 1
-  host: Sean Park
-  location: Tepper 2700
-  description: Description Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore liqua.
+  host: Naeem Aziz, Lauren Yu
+  location: ''
+  description: '"We all know that dreaded phrase: “I’m a pre-med.” And we all know
+    the immediate assumptions we make about those who speak that phrase: they are
+    smart, hard-working, arrogant, and yes, some of are probably thinking it, Asian.
+    Our society has created a stereotype around Asians and Asian Americans, painting
+    them as the “model minority” and often implying that they should and do occupy
+    the highest tier of careers, which tends to mean doctors, pharmacists, dentists.
+    However, there is a major population of Asians and Pacific Islanders that are
+    often not talked about or even considered; those who occupy the so-called “low
+    tier” health care professions, such as nurses, home aides, etc. So why is that
+    Asians and Pacific Islanders have come to be boxed into these “elite” roles, and
+    why have we left a major portion of the demographic out of the discussion?"'
 - name: Test Workshop
   block: "2"
   track: Track 1
