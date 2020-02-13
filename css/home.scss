@@ -205,20 +205,22 @@
 	}
 }
 
-#home-sponsors {
+.sponsors {
 
-	#home-sponsors-logos {
+	.sponsors-logos {
 		
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-around;
 
 		.sponsor {
-			padding: 0 3vw 3vh 3vw;
+			padding: 3vh 6vw;
 			flex-basis: 30%;
+			text-align: center;
 
 			img {
 				width: 100%;
+				margin: 0 auto;
 			}
 		}
 	}

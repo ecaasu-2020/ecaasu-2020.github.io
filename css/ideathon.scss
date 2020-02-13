@@ -1,0 +1,36 @@
+---
+---
+
+@import 'variables.scss';
+
+#ideathon-banner {
+
+	padding-top: 5vh;
+	position: relative;
+
+	p {
+		width: 60%;
+	}
+
+	.button {
+		margin: 45px 0;
+	}
+}
+
+#ideathon-cases {
+	.case-section {
+		margin-bottom: 30px;
+
+		h4 {
+			margin-bottom: 15px;
+		}
+
+		p {
+			margin-top: 0;
+		}
+
+		a {
+			color: $orange;
+		}
+	}
+}
