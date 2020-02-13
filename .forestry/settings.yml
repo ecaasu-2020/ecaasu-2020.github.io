@@ -31,11 +31,9 @@ sections:
 - type: document
   path: _data/ideathon_cases.yaml
   label: Ideathon Cases
-  match: "**/*"
 - type: document
   path: _data/ideathon_sponsor_list.yaml
   label: Ideathon Sponsors
-  match: "**/*"
 upload_dir: img
 public_path: img
 front_matter_path: ''
