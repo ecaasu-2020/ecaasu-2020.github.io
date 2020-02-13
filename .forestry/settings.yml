@@ -37,7 +37,6 @@ sections:
 - type: document
   path: _data/map_list.yaml
   label: Maps
-  match: "**/*"
 upload_dir: img
 public_path: img
 front_matter_path: ''
