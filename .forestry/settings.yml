@@ -9,7 +9,7 @@ sections:
   label: Team List
 - type: document
   path: _config.yml
-  label: Register Link
+  label: Site Links
 - type: document
   path: _data/workshop_list.yaml
   label: Workshops
@@ -34,6 +34,10 @@ sections:
 - type: document
   path: _data/ideathon_sponsor_list.yaml
   label: Ideathon Sponsors
+- type: document
+  path: _data/map_list.yaml
+  label: Maps
+  match: "**/*"
 upload_dir: img
 public_path: img
 front_matter_path: ''
