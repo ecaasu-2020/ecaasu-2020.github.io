@@ -332,8 +332,8 @@
 		}
 	}
 
-	#home-faq {
-		#home-faq-text {
+	.faq {
+		.faq-text {
 			width: 100%;
 			padding: 0;
 
@@ -343,8 +343,8 @@
 		}
 	}
 
-	#home-sponsors {
-		#home-sponsors-logos > a {
+	.sponsors {
+		.sponsors-logos > a {
 			text-align: center;
 			> img {
 				max-width: 75%;

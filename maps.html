@@ -1,0 +1,15 @@
+---
+layout: default
+title: Maps
+---
+
+<div id="maps">
+	<h1>Maps</h1>
+
+	{% for map in site.data.map_list.maps %}
+	<div class="map">
+		<h4>{{ map.name }}</h4>
+		<img src="img/{{ map.name }}.jpg" />
+	</div>
+	{% endfor %}
+</div>
