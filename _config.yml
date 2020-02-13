@@ -5,6 +5,7 @@ url: "http://ecaasuconf2020.com" # The base hostname & protocol for your site. U
 
 register_link: "https://ecaasuinc.wufoo.com/forms/zjcnyd11t538ea/"
 facebook_link: "https://www.facebook.com/ECAASUConference/"
+ideathon_register_link: "https://docs.google.com/forms/d/e/1FAIpQLScFE7nx_qoLaeE9QZIdsLDvEhUSjAZI1OkZY7fAnrNbKHYYKg/viewform?usp=sf_link"
 
 # Use this for production
 #sass:
