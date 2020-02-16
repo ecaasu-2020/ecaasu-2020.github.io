@@ -1,5 +1,19 @@
 ---
 workshops:
+- name: Art and Mindfulness
+  block: "1"
+  track: "1"
+  host: Bo Thai
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2001
+  description: In this workshop, we will explore art and meditation as tools for self
+    reflection, storytelling, advocacy, and healing. The activities and conversation
+    will examine how social justice issues can and have affected our mental health
+    and self and how to advocate and heal. This workshop will be led by the undocumented
+    artist and founder of @illegal_drip, Bo Thai @flyest_alien, who blends art with
+    advocacy and has created tarot cards telling stories of undocumented AAPIs, raising
+    funds and awareness for undocumented students. The goal of this workshop is to
+    hold space and intention for participants to reflect, learn from one another through
+    discussions, and leave with tools on mindfulness.
 - name: Third World Liberation Front
   block: "2"
   track: Track 2
