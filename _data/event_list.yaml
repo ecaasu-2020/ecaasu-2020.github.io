@@ -20,7 +20,7 @@ events:
     end_time: 10:00pm
     subtitle: ''
     location: Wyndham
-    description: "*The Ideathon will end at 12:30pm on Saturday"
+    description: "*The Ideathon will end at 2:00pm on Saturday"
 - day_in_week: Saturday
   date: 02/22
   events:
