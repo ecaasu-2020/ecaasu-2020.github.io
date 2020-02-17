@@ -2,7 +2,7 @@
 	<h3>Our Sponsors</h3>
 	<div id="home-sponsors-logos" class="sponsors-logos">
 		{% for sponsor in site.data.sponsor_list.sponsors %}
-			<a class="sponsor nonhoverable" href="{{ sponsor.link }}">
+			<a class="sponsor nonhoverable" href="{{ sponsor.link }}" target="_blank">
 				<img src="img/{{ sponsor.name }}.jpg" />
 			</a>
 		{% endfor %}
