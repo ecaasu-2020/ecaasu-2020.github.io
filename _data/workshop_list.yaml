@@ -105,9 +105,9 @@ workshops:
     \nof our food.\""
 - name: API Civic Engagement 101
   block: "3"
-  track: Track 3
+  track: ''
   host: Louie Tan Vital
-  location: ''
+  location: University of Pittsburgh, Cathedral of Learning, CL 253
   description: 'Did you know Asian Pacific Islanders (APIs) are the fastest growing
     racial minority in the U.S.? What is going to happen if we continue to be chronically
     underrepresented in politics? Learn the basics of civic engagement and how you
@@ -118,9 +118,9 @@ workshops:
     identities for the betterment of our people. '
 - name: 'Health Policy Hot Topics in the AAPI Community '
   block: "2"
-  track: Track 2
+  track: ''
   host: Christine Chau, Krithika Pennathur
-  location: ''
+  location: University of Pittsburgh, Cathedral of Learning, CL 239
   description: "\"This workshop is intended to talk about health policy topics within
     the AAPI community \nwith an intersectional lens and how to advocate for public
     health issues. Let’s start with \nthe motivating questions--what do we define
@@ -130,9 +130,9 @@ workshops:
     and change. \""
 - name: 'Challenging Our Narrative: Analyzing The Asian-American Socioeconomic Gap'
   block: "2"
-  track: Track 2
+  track: ''
   host: Janani Guru
-  location: ''
+  location: Carnegie Mellon University, Baker Hall, BH 226C
   description: "\"The AAPI population is the most socioeconomically divided racial
     group \nin the United States. Often cited as the wealthiest and most educated
     group in \nAmerica, income inequality within the population is very much overlooked.
@@ -142,9 +142,9 @@ workshops:
     on \nthe Asian-American society as a whole.\""
 - name: 'Colorism the Daughter of Racism: A Narrative on Diversified Identities'
   block: "2"
-  track: Track 2
-  host: Celina Wong
-  location: ''
+  track: ''
+  host: 'Celina Wong, Mary Bagarra '
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2611
   description: 'Throughout history, European colonialism led to the racist notion
     of European powers as superior over other nations. Although colonies may have
     gained independence, there are still long lasting effects in these communities,
