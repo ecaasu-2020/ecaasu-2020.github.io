@@ -1,5 +1,16 @@
 ---
 workshops:
+- name: 'Diffusion of Religion: Spirituality and Faith in Modern APIA Communities'
+  block: "1"
+  track: ''
+  host: Adrian Lee
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2003
+  description: 'In this workshop, we will be analyzing the balance of faith and identity
+    within current APIA generations. To engage participants, this workshop will specifically
+    look at the history and establishment of religion in APIA communities, while also
+    invoking introspective discussions on broader philosophical topics (ie: religion
+    and government). This workshop is open to all individuals of faith or spirituality,
+    although it will be led through the lens of a Christian APIA.'
 - name: Art and Mindfulness
   block: "1"
   track: Mental Health
