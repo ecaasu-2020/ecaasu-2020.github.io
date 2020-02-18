@@ -27,9 +27,9 @@ workshops:
     discussions, and leave with tools on mindfulness.
 - name: Third World Liberation Front
   block: "2"
-  track: Track 2
+  track: ''
   host: Krysty Shen
-  location: ''
+  location: University of Pittsburgh, Cathedral of Learning, CL 349
   description: The first Asian American Studies program was born out of student and
     community activism. Noticing that their experiences and needs were ignored and
     overlooked, students of color at San Francisco State took action and organized
@@ -42,9 +42,9 @@ workshops:
     students to expand Ethnic Studies in their own schools.
 - name: Why Are We Here? The Role of Asian Collegiate Organizations
   block: "2"
-  track: Track 2
+  track: ''
   host: Michael Nguyen, Korina Cheng, Bernice Lai
-  location: ''
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2612
   description: In this workshop, we seek to explore the basis of collegiate, Asian
     organizations and why they exist -  particularly in the United States. The workshop
     will first discuss the history and roots of Asian organizations in America and
@@ -55,18 +55,18 @@ workshops:
     sharing, and synthesis of new ideas.
 - name: 'Framing Adoption: AAPI Adoptees Flip the Script'
   block: "1"
-  track: Track 1
+  track: ''
   host: Phoebe Balascio
-  location: ''
+  location: Carnegie Mellon University, Porter Hall, PH 226B
   description: 'This workshop will be an introduction into some of the different ways
     of understanding adoption and those impacted by it. By looking at the different
     ways adoption and adoptees are “framed”, participants will collaboratively learn
     methods of uplifting and prioritizing adoptee voices. '
 - name: 'Imagination Makes It Happen: How to Pursue A Career In a Creative Field'
   block: "1"
-  track: Track 1
+  track: ''
   host: Jessica Lee, Katie Zhao
-  location: ''
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2611
   description: "\"Have you ever wanted to pursue a job in the creative field? What
     keeps you from turning that artistic hobby into a full-fledged career? Maybe it’s
     practicality, or pressure from your parents. Or even just the risk of entering
@@ -80,7 +80,7 @@ workshops:
   block: "3"
   track: Track 3
   host: Ya-ya Chen
-  location: ''
+  location: University of Pittsburgh, Cathedral of Learning, CL 221
   description: "\"“Monochrome in Media: Shades of Asian Representation on the Big
     Screen” delves \ninto Asian representation in movies, TV, and social media with
     a specific focus on a \nlack of dark-skinned Asian representation. How do Crazy
@@ -92,9 +92,9 @@ workshops:
     color among the AAPI community and society.\""
 - name: The Social Impact of Asian Cuisine in the US
   block: "2"
-  track: Track 2
+  track: ''
   host: Devin Dang, Albert Tanjaya
-  location: ''
+  location: Carnegie Mellon University, Cohen University Center, CUC Connan
   description: "\"One thing that stands out about culture is the cuisine that comes
     with it. The cuisine of our \nimmigrant families tends to be one of our few connections
     left to the motherland as many \nof us may not know the languages that we speak,
