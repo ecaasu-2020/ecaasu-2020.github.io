@@ -1,5 +1,39 @@
 ---
 workshops:
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
+- name: 'Where are all the non-East Asians?: The Erasure of non-East Asians in AAPI
+    Discourse'
+  block: "2"
+  track: The Fundamentals
+  host: Shania Khoo, Vinh Dang
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2003
+  description: 'Do you ever notice that Hollywood movies and TV Shows are severely
+    lacking in non-East Asian representation (despite the multitude of achievements
+    of Asians in media)? This workshop will be centered around the questions of who
+    is and who gets to be “Asian”?; why are certain groups of Asians getting erased
+    from broader AAPI discourse?; and what can we be doing to combat this? We will
+    dive into the historical contexts that have led to the erasure of non-East Asians,
+    the policies that discriminate against non-East Asians, and brainstorm strategies
+    to combat East Asian dominance in AAPI spaces. Come and learn how we can be more
+    intentional about decentering East Asians and uplifting underrepresented Asians
+    in Asian American spaces. Join the discussion! '
 - name: 'How Many Sips of Boba Does it Take to Get to the Bottom of Our Identity? '
   block: "1"
   track: The Fundamentals
