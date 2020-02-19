@@ -21,30 +21,58 @@ workshops:
     grounds for ignoring the needs of either ethnic group. This workshop will focus
     on how clumping together Asian Americans and Pacific Islanders as a group has
     affected the Pacific Islander communities especially for students and their families.
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
+- name: Peace, Love, Understanding Rave Culture in the Asian American Community
+  block: "2"
+  track: Pop Culture
+  host: Stephanie Wang, Jeremy Xue
+  location: Carnegie Mellon University, Porter Hall, PH 226A
+  description: Have you ever wondered why there are so many Asian Americans at Electronic
+    Dance Music (EDM) festivals? In this discussion-based workshop, we will explore
+    why the EDM and rave subculture is so prevalent within the Asian American community
+    and its sociological implication in developing Asian American identity. We will
+    examine Asian American identity as “perpetual foreigners” in their search for
+    a cultural home and belonging, and how they negotiate their subjectivities in
+    relation to the contemporary EDM festival scene.
+- name: '2020 Census: (AANHPI) Avengers Assemble'
+  block: "2"
+  track: Civic Engagement
+  host: Alyssa Tulabut
+  location: Carnegie Mellon University, Porter Hall, PH 226B
+  description: What does the decennial census have to do with Thanos? Learn how the
+    2020 Census is an opportunity for AANHPIs to ensure our communities are not erased
+    from the data that tells this nation's story and receive our fair share of resources
+    and political power. Attendees will participate in an interactive simulation that
+    demonstrates how important this once-a-decade event truly is, the barriers to
+    AANHPI communities' participation in the census, and how to help ensure a full
+    and accurate count in 2020.
+- name: 'Colonial Legacies: Contemporary Imperialism in Southeast Asia'
+  block: "2"
+  track: International Relations/History
+  host: Kenny Mai, Ada Zhang, Bryan Vu
+  location: Carnegie Mellon University, Porter Hall, PH 100
+  description: Imperialism is a system of power, influence, and policy that has shaped
+    the world in which we live and continues to reproduce global inequalities. In
+    this workshop, we will define imperialism and trace its origins and histories,
+    as well as its links to White supremacy and capitalism. We’ll focus our exploration
+    on countries in Southeast Asia, using specific examples to investigate how imperialism
+    continues to impact “formerly” colonized places. This workshop is open to people
+    of all backgrounds, regardless of prior engagement with this material; the goal
+    of this workshop is to recognize and contextualize forms of imperialism, especially
+    as it relates to current conversations of global policy.
+- name: Cross Community Inclusion
+  block: "2"
+  track: Mental Health
+  host: Hannah Song, Christopher Chin
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2001
+  description: Have you ever felt excluded? Or even, have you ever excluded someone?
+    As you begin to reflect on the idea of inclusiveness in your daily life, this
+    workshop will provide individuals with a historical and practical framework to
+    help folks recognize and respond to exclusivity within their communities. During
+    this time, we will explore barriers to sustaining welcoming spaces, community
+    health and burnout, and Cancel Culture. Ultimately, we hope to equip individuals
+    with the tools to combat the polarization of communities, so that we can learn
+    to build coalitions, keep ourselves accountable, and continually practicing inclusivity
+    in our day-to-day.
 - name: 'Diffusion of Religion: Spirituality and Faith in Modern APIA Communities'
   block: "1"
   track: ''
