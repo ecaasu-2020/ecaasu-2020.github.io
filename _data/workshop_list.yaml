@@ -1,5 +1,19 @@
 ---
 workshops:
+- name: 'Kashmir: The Struggle for Self-Determination'
+  block: "3"
+  track: International Relations/History
+  host: Shajei Haider
+  location: University of Pittsburgh, Cathedral of Learning, CL 202
+  description: August 5, 2019 marked a new phase in India's ongoing occupation of
+    Kashmir. Under the Hindu nationalist government led by PM Narendra Modi, the Indian
+    state revoked the constitutionally guaranteed autonomy of the Kashmir region,
+    and enforced this action through an additional deployment of troops in what is
+    already the world's most militarized region. It also instituted a clampdown on
+    communications and arrested thousands of Kashmiri leaders, civil society activists,
+    journalists, lawyers, and students. In this workshop, the instructor will provide
+    insights into the current situation, as well as place it in a larger historical
+    and political context of the Kashmiri struggle for self-determination.
 - name: 'Building Power: Citizenship for All'
   block: "3"
   track: Civic Engagement
@@ -411,7 +425,7 @@ workshops:
     \nof our food.\""
 - name: API Civic Engagement 101
   block: "3"
-  track: ''
+  track: Civic Engagement
   host: Louie Tan Vital
   location: University of Pittsburgh, Cathedral of Learning, CL 253
   description: 'Did you know Asian Pacific Islanders (APIs) are the fastest growing
