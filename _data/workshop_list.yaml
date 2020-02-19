@@ -345,24 +345,9 @@ workshops:
     funds and awareness for undocumented students. The goal of this workshop is to
     hold space and intention for participants to reflect, learn from one another through
     discussions, and leave with tools on mindfulness.
-- name: Third World Liberation Front
-  block: "2"
-  track: ''
-  host: Krysty Shen
-  location: University of Pittsburgh, Cathedral of Learning, CL 349
-  description: The first Asian American Studies program was born out of student and
-    community activism. Noticing that their experiences and needs were ignored and
-    overlooked, students of color at San Francisco State took action and organized
-    a strike. Beginning on November 6, 1969 and ending on March 20, 1969, the Third
-    World Liberation Front, a coalition of six student organizations at San Francisco
-    State, led the longest college strike in American history. The four-month long
-    strike established the first School (now College) of Ethnic Studies, and Asian
-    American Studies within the School. Looking at some key players of the TWLF Strike,
-    this workshop will inform students about the origins of Ethnic Studies and inspire
-    students to expand Ethnic Studies in their own schools.
 - name: Why Are We Here? The Role of Asian Collegiate Organizations
   block: "2"
-  track: ''
+  track: Deep Dive
   host: Michael Nguyen, Korina Cheng, Bernice Lai
   location: Carnegie Mellon University, Tepper School of Business, TEP 2612
   description: In this workshop, we seek to explore the basis of collegiate, Asian
@@ -412,7 +397,7 @@ workshops:
     color among the AAPI community and society.\""
 - name: The Social Impact of Asian Cuisine in the US
   block: "2"
-  track: ''
+  track: Pop Culture
   host: Devin Dang, Albert Tanjaya
   location: Carnegie Mellon University, Cohen University Center, CUC Connan
   description: "\"One thing that stands out about culture is the cuisine that comes
@@ -450,7 +435,7 @@ workshops:
     and change. \""
 - name: 'Challenging Our Narrative: Analyzing The Asian-American Socioeconomic Gap'
   block: "2"
-  track: ''
+  track: Deep Dive
   host: Janani Guru
   location: Carnegie Mellon University, Baker Hall, BH 226C
   description: "\"The AAPI population is the most socioeconomically divided racial
@@ -462,7 +447,7 @@ workshops:
     on \nthe Asian-American society as a whole.\""
 - name: 'Colorism the Daughter of Racism: A Narrative on Diversified Identities'
   block: "2"
-  track: ''
+  track: Deep Dive
   host: 'Celina Wong, Mary Bagarra '
   location: Carnegie Mellon University, Tepper School of Business, TEP 2611
   description: 'Throughout history, European colonialism led to the racist notion
@@ -504,7 +489,7 @@ workshops:
     their passion and sense of community.
 - name: Fandom and the Asian American Community
   block: "2"
-  track: ''
+  track: Pop Culture
   host: Linda Kuo
   location: Carnegie Mellon University, Tepper School of Business, TEP 2700
   description: This workshop will explore how the participatory and transformative
@@ -548,7 +533,7 @@ workshops:
     why have we left a major portion of the demographic out of the discussion?"'
 - name: 'ABG vs. ABG: Exploring the Fetishization of Asian Women'
   block: "2"
-  track: ''
+  track: Pop Culture
   host: Christine Chau, Krithika Pennathur
   location: Carnegie Mellon University, Cohen University Center, CUC Danforth Conference
   description: When asked to think of some words used to describe Asian women, you
