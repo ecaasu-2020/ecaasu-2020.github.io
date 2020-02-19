@@ -8,7 +8,7 @@
 	.speaker {
 
 		display: flex;
-		margin: 15vh 7.5vw;
+		margin: 15vh 2vw;
 		justify-content: space-around;
 
 		&:last-child {
@@ -17,7 +17,7 @@
 
 		.speaker-image {
 			position: relative;
-			flex: 3 1 0;
+			flex: 2 1 0;
 
 			.speaker-circle {
 				width: 50%;
@@ -32,7 +32,7 @@
 		}
 
 		.speaker-text {
-			flex: 2 1 0;
+			flex: 3 1 0;
 		}
 
 		&:nth-of-type(even) {

@@ -1,0 +1,13 @@
+tracks:
+- short_name: Steel
+  long_name: The Steel— Individual
+  short_description: The Steel demonstrates the strength, characteristics, and work of the individual.
+  long_description: Workshops in the Steel block focus on the strength, characteristics, and work of the individual. In the work of deconstructing and rebuilding our thoughts, ideas, and experiences, we can ultimately understand ourselves as AAPI individuals and how we can work for our communities. Like the versatility of steel, our individuality serves as both a starting material and an end product in a shared, unwavering AAPI community.
+- short_name: Forge
+  long_name: The Forge— Community
+  short_description: The Forge represents the communities and spaces that we come from and the ones that we join. 
+  long_description: Workshops in the Forge block represent the communities and spaces that we come from and the ones that we join. Like how metals are shaped by the fire of the forge, our identities as AAPI are shaped by the communities around us. As members of this community, we must create the space, or the fire, that provides the drive and interactions to shape one another, and the safety and guidance to rekindle ourselves physically, mentally, and emotionally.
+- short_name: Bridge
+  long_name: The Bridge— Society
+  short_description: The Bridge inspires us to create connections between ourselves, our communities, and our collective actions. 
+  long_description: Workshops in the Bridge block inspires us to create bigger connections built by the foundations set by ourselves, our communities, and our collective actions. By broadening our understanding across AAPI and non-AAPI identities and communities, we can ultimately create new pathways to strengthen the infrastructure of our society.

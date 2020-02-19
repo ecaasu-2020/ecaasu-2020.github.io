@@ -92,22 +92,22 @@
 	}
 }
 
-#home-workshop-tracks {
+#home-workshop-blocks {
 	display: flex;
 	margin-top: 20vh;
 
-	.home-workshop-track {
+	.home-workshop-block {
 		margin-right: 10px;
 
-		.home-workshop-track-image, .workshop-image {
+		.home-workshop-block-image, .workshop-image {
 			position: relative;
 			width: 30%;
 
-			.home-workshop-track-circle {
+			.home-workshop-block-circle {
 				// width: 30%;
 			}
 
-			.home-workshop-track-icon {
+			.home-workshop-block-icon {
 				position: absolute;
 				top: 10%;
 				left: 10%;
@@ -296,7 +296,7 @@
 		}
 	}
 
-	#home-workshop-tracks {
+	#home-workshop-blocks {
 		margin-top: 0;
 	}
 

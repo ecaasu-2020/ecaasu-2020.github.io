@@ -4,6 +4,7 @@
 @import 'variables.scss';
 
 .tag {
+	margin: 0;
 	border-radius: 0.5vw;
 	padding: 0.5vw 1vw;
 	background: $gold;
@@ -24,95 +25,80 @@
 	}
 }
 
-#workshop-list-main {
+#workshops-header {
 
-	#workshops-header {
-
-		display: flex;
-		align-items: stretch;
-		justify-content: space-between;
-		margin: 10vh 0 5vh;
-
-		h3 {
-			margin: 0;
-		}
-
-		#workshops-search-filters {
-
-			display: flex;
-			align-items: center;
-
-			.filter-section {
-
-				margin-right: 2vw;
-
-				h6 {
-					margin: 0;
-					margin-right: 0.5vw;
-					display: inline-flex;
-				}
-			}
-
-			a {
-				align-self: center;
-				margin-bottom: 0;
-			}
-		}
+	h3 {
+		margin: 0;
 	}
 
-	#workshop-list {
+	p {
+		width: 60%;
+	}
 
-		padding: 10vh 5vw;
+	a {
+		color: $gold;
+	}
 
-		.workshop {
+	#workshops-search-filters {
 
-			display: flex;
-			margin-bottom: 20vh;
+		p {
+			display: inline;
+			margin-bottom: 0;	
+		}
 
-			.workshop-image {
-				position: relative;
-				flex: 1 1 0;
+		.filter-section {
 
-				.circle {
-					position: absolute;
-					top: -10%;
-					left: -10%;
-					width: 50%;
-					z-index: -1;
-				}
+			margin-right: 2vw;
+		}
 
-				.workshop-photo {
-					width: 80%;
-				}
+		a {
+			align-self: center;
+			margin-bottom: 0;
+		}
+	}
+}
+
+#workshop-list {
+
+	padding: 10vh 5vw;
+
+	.workshop {
+
+		margin: 5vh 0 25vh 0;
+		position: relative;
+
+		.circle {
+			position: absolute;
+			top: -20%;
+			left: -10%;
+			width: 20%;
+			z-index: -1;
+			opacity: 0.2;
+		}
+
+		.workshop-text {
+
+			flex: 3 1 0;
+			
+			small {
+				color: $dark-grey;
+				display: block;
 			}
 
-			&.not-displayed {
-				display: none;
+			h5 {
+				margin-top: 0.5vw;
 			}
 
-			.workshop-text {
+			p {
+				margin-top: 0;
 
-				flex: 3 1 0;
-				
-				small {
+				&:last-of-type {
 					color: $dark-grey;
 				}
+			}
 
-				h5 {
-					margin-top: 0.5vw;
-				}
-
-				p {
-					margin-top: 0;
-
-					&:last-of-type {
-						color: $dark-grey;
-					}
-				}
-
-				h6 {
-					margin: 3vh 0;
-				}
+			.workshop-track {
+				margin: 3vh 0;
 			}
 		}
 	}

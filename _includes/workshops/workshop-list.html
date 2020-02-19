@@ -1,20 +1,21 @@
 <section id="workshop-list-main">
 
 	{% include workshops/search-filters.html %}
+	{% include workshops/block-descriptions.html %}
 
 	<div id="workshop-list">
 		{% for workshop in site.data.workshop_list.workshops %}
 
 			<div class="workshop" data-block="{{ workshop.block }}" data-track="{{ workshop.track }}">
-				<div class="workshop-image">
-					<img class="circle" src="img/workshop_track_circle.svg" />
-					<img class="workshop-photo" src="img/{{ workshop.name }}.png" />
-				</div>
+				<img class="circle" src="img/workshop_track_circle.svg" />
 				<div class="workshop-text">
-					<small>Block {{ workshop.block }}</small>
+					<small>Block: {{ workshop.block }}</small>
 					<h5>{{ workshop.name }}</h5>
 					<p>{{ workshop.description }}</p>
-					<h6 class="tag">{{ workshop.track }}</h6>
+					<div class="workshop-track">
+						<small>Track</small>
+						<h6 class="tag">{{ workshop.track }}</h6>
+					</div>
 					<p>Hosted by <b>{{ workshop.host }}</b> in <b>{{ workshop.location }}</b></p>
 				</div>
 			</div>	

@@ -1,5 +1,7 @@
 <section id="schedule-event-list">
-	<h3>Schedule</h3>
+	<div class="header">
+		<h3>Schedule</h3>
+	</div>
 	{% for day in site.data.event_list.events %}
 		<div class="schedule-day">
 			<h3>{{ day.day_in_week }}</h3>

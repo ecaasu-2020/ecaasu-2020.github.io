@@ -1,6 +1,6 @@
 //// Workshop Search
 
-var selectedBlock = "1"
+var selectedBlock = "Steel"
 // var selectedTracks = [];
 
 function updateWorkshopListDOM() {
@@ -20,6 +20,19 @@ function updateWorkshopListDOM() {
 	});
 }
 
+function updateBlockDescription() {
+	$(".block-description").each(function() {
+		block = $(this)[0].getAttribute("data-block");
+		// track = $(this)[0].getAttribute("data-track");
+		if(block === selectedBlock) {
+		// if(selectedBlocks.includes(block) && selectedTracks.includes(track)) {
+			$(this).removeClass("not-displayed");
+		} else {
+			$(this).addClass("not-displayed");
+		}
+	});
+}
+
 $( document ).ready(function() {
 
 // 	if($("#workshops-header").length) {
@@ -27,7 +40,8 @@ $( document ).ready(function() {
 // 		$("#track-filter-section > .tag").each(function(index, value) {
 // 			selectedTracks.push($(this).text());
 // 		});
-
+	
+	updateBlockDescription();
 	updateWorkshopListDOM();
 // 	}
 });
@@ -60,6 +74,7 @@ $("#workshops-search-filters .filter-tag").click(function(e) {
 	$(this).removeClass('unselected');
 
 	updateWorkshopListDOM();
+	updateBlockDescription();
 });
 
 // $("#workshops-deselect-all").click(function(e) {
