@@ -28,18 +28,29 @@ workshops:
     contracts lead to displacement and poverty. We will also take a look at how Philly
     based organizations have been battling gentrification and how you can organize
     to protect your own communities.
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
+- name: What MLK's 'Beyond Vietnam' Means for Our Liberation
+  block: "3"
+  track: International Relations/History
+  host: Maddie Schumacher
+  location: University of Pittsburgh,Cathedral of Learning, CL 252
+  description: 'Martin Luther King Jr. was assassinated precisely one year after giving
+    his 1967 ‘Beyond Vietnam’ speech. In it, he advised that the oppressive situations
+    felt by Black Americans and Vietnamese communities were not so different: both
+    were victims of America''s racism. Now 52 years later, his vision holds lessons
+    for interracial organizing and active allyship.'
+- name: 'The Collaborative Policy Workshop: Imagining a World Without DHS'
+  block: "3"
+  track: International Relations/History
+  host: Tiffany Wang, Jason Suh
+  location: University of Pittsburgh, Cathedral of Learning, CL 302
+  description: Have you ever heard the words “Abolish ICE”? What does a U.S. government
+    without the Department of Homeland Security look like? This workshop will give
+    a basic overview of the various ways you can influence laws and actions in the
+    US and a brief history of the creation of DHS, and then you’ll have a chance to
+    work with others to begin imagining through policy what a world would look like
+    without DHS. Whether you’ve never even heard the term “policy proposal” or you
+    work on Capitol Hill, if you care about creating more just and equitable policy,
+    this is a space for you!
 - name: We Are the Ones We've Been Waiting For
   block: "3"
   track: Civic Engagement
