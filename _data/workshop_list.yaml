@@ -1,5 +1,19 @@
 ---
 workshops:
+- name: 'Building Power: Citizenship for All'
+  block: "3"
+  track: Civic Engagement
+  host: Sam Yu, Emma Wexler, Esther Jeon
+  location: University of Pittsburgh,Cathedral of Learning, CL 218
+  description: As Asian Americans, our political identity and histories are inextricably
+    tied to the United States immigration system. 1 in 7 Asian Americans are undocumented,
+    and 35,000 intercountry adoptees live without citizenship today. How, then, do
+    we build power to achieve a just immigration system in the United States? What
+    would a just immigration system for our community look like? In this workshop,
+    we explore our personal ties to migration and review past migrant justice campaigns
+    to strategize ways to achieve our vision for migrant liberation in the United
+    States. Participants will be encouraged to come up with and collaborate on ways
+    to advocate/actualize/enact/fight for migrant justice in their local communities.
 - name: Third World Liberation Front
   block: "3"
   track: International Relations/History
