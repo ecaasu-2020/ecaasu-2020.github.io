@@ -15,24 +15,44 @@ workshops:
     American Studies within the School. Looking at some key players of the TWLF Strike,
     this workshop will inform students about the origins of Ethnic Studies and inspire
     students to expand Ethnic Studies in their own schools. '
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
+- name: The Role of AAPI Communities in the Environmental Justice Movement
+  block: "3"
+  track: Deep Dive
+  host: Zoya Goodwin, Rozette De Castro
+  location: University of Pittsburgh,Cathedral of Learning, CL 363
+  description: 'This workshop will aim to inspire audience and  to create a passionate
+    drive on environmental justice by tapping into one’s own personal interactions
+    with nature and the emotions that are evoked during that interaction - especially
+    as an AAPI. To do so, we will be initially asking questions around identity and
+    community to stimulate discussion on how as AAPI, we are partially influenced
+    by the community we grew up in. Then we will tie this in with how  identity as
+    an AAPI and your community intertwined with the environment directly and indirectly.
+    The general question is on why should the AAPI community care about the environment. '
+- name: Deportation of Cambodian Refugees
+  block: "3"
+  track: International Relations/History
+  host: Alyssa Khieu, Michael Nguyen
+  location: University of Pittsburgh, Cathedral of Learning, CL 226
+  description: 'In this workshop, we seek to educate and bring awareness to the current
+    deportation crisis of Cambodian refugees in the United States. The workshop will
+    briefly discuss how the Vietnam War and American involvement brought rise to the
+    Khmer Rouge Regime, and eventually the Cambodian Genocide. Next we will delve
+    into how the assimilation and lack of resources for Cambodian refugees has led
+    to conditions that allow for unjust deportation back to a country they have never
+    known. The workshop will feature an immersive, interactive activity, elucidating
+    the difficult situations Cambodian refugees face. Content Warning: Death/genocide,
+    mental illness, deportation, violence/gang violence.'
+- name: 'Count Us In: AAPI and the 2020 Census'
+  block: "3"
+  track: Civic Engagement
+  host: Hannah Locop, Kim Dinh
+  location: University of Pittsburgh, Cathedral of Learning, CL 235
+  description: The 2020 Census is critical for more than 22 million Asian Americans
+    and Pacific Islanders (AAPIs). As the fastest-growing population, AAPIs have to
+    ensure our communities are accurately counted and represented. Census data determines
+    how more than 800 billion dollars are spent on schools, hospitals, roads, businesses,
+    and public transportation. Join us to find out how you can be impacted by census
+    data and what you can do to get our community counted!
 - name: Championing American Diplomacy – Careers That Make A Difference
   block: "3"
   track: Professional/Career Development
@@ -390,7 +410,7 @@ workshops:
     identities for the betterment of our people. '
 - name: 'Health Policy Hot Topics in the AAPI Community '
   block: "2"
-  track: ''
+  track: Professional/Career Development
   host: Christine Chau, Krithika Pennathur
   location: University of Pittsburgh, Cathedral of Learning, CL 239
   description: "\"This workshop is intended to talk about health policy topics within
