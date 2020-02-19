@@ -260,7 +260,7 @@ workshops:
     formation.
 - name: Asian American Pacific Islander vs  Asian American AND Pacific Islander
   block: "1"
-  track: ''
+  track: Deep Dive
   host: Kimberly Moya, Kenzo Senaha Kimura
   location: Carnegie Mellon University, Porter Hall, PH 225A
   description: Asian Americans and Pacific Islanders have formed lasting coalitions
@@ -322,7 +322,7 @@ workshops:
     in our day-to-day.
 - name: 'Diffusion of Religion: Spirituality and Faith in Modern APIA Communities'
   block: "1"
-  track: ''
+  track: The Fundamentals
   host: Adrian Lee
   location: Carnegie Mellon University, Tepper School of Business, TEP 2003
   description: 'In this workshop, we will be analyzing the balance of faith and identity
@@ -375,7 +375,7 @@ workshops:
     sharing, and synthesis of new ideas.
 - name: 'Framing Adoption: AAPI Adoptees Flip the Script'
   block: "1"
-  track: ''
+  track: The Fundamentals
   host: Phoebe Balascio
   location: Carnegie Mellon University, Porter Hall, PH 226B
   description: 'This workshop will be an introduction into some of the different ways
