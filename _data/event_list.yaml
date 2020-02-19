@@ -30,7 +30,7 @@ events:
     subtitle: ''
     location: CMU
     description: ''
-  - title: Workshop 1
+  - title: Workshop Block 1
     start_time: 9:30am
     end_time: 10:45am
     subtitle: ''
@@ -42,7 +42,7 @@ events:
     subtitle: ''
     location: CMU
     description: ''
-  - title: Workshop 2
+  - title: Workshop Block 2
     start_time: 11:15am
     end_time: 12:30pm
     location: CMU
@@ -58,7 +58,7 @@ events:
     subtitle: ''
     location: ''
     description: ''
-  - title: Workshop 3
+  - title: Workshop Block 3
     start_time: 2:30pm
     end_time: 3:45pm
     subtitle: ''
