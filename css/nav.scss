@@ -88,6 +88,10 @@ header {
 	}
 }
 
+.home-link {
+	display: none;
+}
+
 #mobile-nav-screen {
 	// position
 	position: fixed;
@@ -100,17 +104,25 @@ header {
 
 	@include transition(0.5s);
 
+	.home-link {
+		display: block;
+	}
+
+	.home-section-link {
+		display: none !important;
+	}
+
 	// style
 	text-align: center;
 	padding: 3vw;
 	background: $gold;
 	color: white;
 	ul {
-		font-size: 1.5em;
+		font-size: 1.1em;
 		padding: 0;
 		list-style: none;
 		li {
-			margin: 5vh 0;
+			margin: 3vh 0;
 		}
 	}
 
@@ -118,12 +130,6 @@ header {
 
 		> a {
 			display: none;
-			// display: block;
-			// width: 30%;
-			// margin: 0 auto;
-			// margin-bottom: 10px;
-			// text-align: left;
-			// font-size: 0.5em;
 		}
 
 		ul {
