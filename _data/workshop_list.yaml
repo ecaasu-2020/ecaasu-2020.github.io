@@ -1,5 +1,35 @@
 ---
 workshops:
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
+- name: Intergenerational Trauma - Systematic Wounds and How To Navigate Them
+  block: Steel
+  track: Deep Dive
+  host: Minnie Jung, Wendy Sun, Cheyenne Cheng
+  location: Carnegie Mellon University, Porter Hall, PH 100
+  description: Intergenerational or Transgenerational trauma is the psychological
+    theory that suggests that trauma can be passed down from generation to generation.
+    For AAPIs on the East Coast, the wounds associated with immigration and assimilation
+    are still new. How do we as a community interact with our traumas and in what
+    ways do we bring them into our personal relationships? We aim for this workshop
+    to help understand the systemic roots of intergenerational trauma and how these
+    experiences have informed re/productions of AAPI identities, as well as collaborate
+    as a community on how to navigate these hardships. We hope for this to be an informative,
+    reflective, and healing experience.
+- name: State of Positive Mind
+  block: Steel
+  track: Mental Health
+  host: JR Kuo
+  location: ''
+  description: 'Emotional burdens from classes, work, family, and other personal reasons
+    can create tremendous stress. Understanding the sources of the burdens is the
+    first step in improving our mental health. This workshop will examine the causes
+    of these burdens. Once participants can identify the roots of stress, we will
+    explore ways to transform these burdens into hope, strengths, and opportunities. '
 - name: 'Kashmir: The Struggle for Self-Determination'
   block: Bridge
   track: International Relations/History
