@@ -8,8 +8,8 @@ title: Maps
 
 	{% for map in site.data.map_list.maps %}
 	<div class="map">
-		<h4>{{ map.name }}</h4>
-		<img src="img/{{ map.name }}.jpg" />
+		<h4 class="drawer">{{ map.name }}</h4>
+		<img class="map-image" src="img/{{ map.name }}.jpg" />
 	</div>
 	{% endfor %}
 </div>

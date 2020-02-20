@@ -1,5 +1,5 @@
 //// FAQ Interaction
 
-$('.faq-question').click(function() {
+$('.drawer').click(function() {
 	$(this).next().toggleClass('open');
 });

@@ -68,6 +68,23 @@ section {
 	font-weight: 500;
 }
 
+.drawer {
+	cursor: pointer;
+	position: relative;
+
+	&:after {
+		content: '⌄';
+		font-size: 3em;
+		position: absolute;
+		left: 110%;
+		top: -10px;
+		line-height: 30px;
+		font-weight: 100;
+		color: $dark-grey;
+		cursor: pointer;
+	}
+}
+
 /* 
 Curve vectors should be placed as <img> tags
 at the end of <section> tags. The parent <section>

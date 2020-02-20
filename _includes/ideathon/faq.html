@@ -2,7 +2,7 @@
 	<h3>FAQ</h3>
 	<div id="hackathon-faq-text" class="faq-text">
 		{% for q in site.data.hackathon_faq.questions %}
-			<p class="faq-question"><b>{{ q.question }}</b></p>
+			<p class="faq-question drawer"><b>{{ q.question }}</b></p>
 			<p class="faq-answer">{{ q.answer }}</p>
 		{% endfor %}
 	</div>
