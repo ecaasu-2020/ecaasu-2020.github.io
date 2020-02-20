@@ -1,11 +1,15 @@
-<div>
+<div id="workshop-block-descriptions">
 	{% for block in site.data.workshop_blocks.blocks %}
-		<div class="workshop-block-header" data-block="{{ block.short_name }}">
+		<div class="block-description not-displayed" data-block="{{ block.short_name }}">
 			<div class="workshop-block-image">
-				<img class="home-workshop-block-circle" src="img/{{ block.name }}.png" />
+				<img class="home-workshop-block-circle" src="img/{{ block.long_name }}.png" />
 			</div>
 			<div class="workshop-block-text">
-				<h5>{{ block.short_name }}</h5>
+				<h2>
+					<span>
+						{{ block.long_name }}
+					</span>
+				</h2>
 				<p>{{ block.long_description }}</p>
 			</div>
 		</div>

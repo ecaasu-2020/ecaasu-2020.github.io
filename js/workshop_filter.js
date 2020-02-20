@@ -40,6 +40,8 @@ $( document ).ready(function() {
 // 		$("#track-filter-section > .tag").each(function(index, value) {
 // 			selectedTracks.push($(this).text());
 // 		});
+
+	$("#workshops-search-filters .filter-tag").first().removeClass("unselected");
 	
 	updateBlockDescription();
 	updateWorkshopListDOM();

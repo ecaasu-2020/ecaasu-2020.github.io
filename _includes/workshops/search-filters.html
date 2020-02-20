@@ -1,9 +1,9 @@
 <div id="workshops-search-filters">
 	<div id="block-filter-section" class="filter-section">
-		<p>Block </p>
-		<a class="block-tag filter-tag tag">Steel</a>
-		<a class="block-tag filter-tag tag unselected">Forge</a>
-		<a class="block-tag filter-tag tag unselected">Bridge</a>
+		<small>Block </small>
+		{% for block in site.data.workshop_blocks.blocks %}
+			<a class="block-tag filter-tag tag unselected">{{ block.short_name }}</a>
+		{% endfor %}
 	</div>
 	{% comment %}
 	<!-- <div id="track-filter-section" class="filter-section">

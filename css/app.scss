@@ -28,7 +28,7 @@ section {
 }
 
 .not-displayed {
-	display: none;
+	display: none !important;
 }
 
 #page-not-found {
