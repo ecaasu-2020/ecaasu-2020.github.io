@@ -1,5 +1,15 @@
 ---
 workshops:
+- name: 'Palestine 101: AAPI Solidarity in the Anti-Colonial Struggle'
+  block: Bridge
+  track: International Relations/History
+  host: Naomi Li
+  location: University of Pittsburgh, Cathedral of Learning, CL 335
+  description: What does settler-colonialism actually mean? What does a settler state
+    in the present day actually look like? How are Asian-Americans connected to the
+    anti-colonial struggle? I will explore questions of modern-day colonialism in
+    the context of the Israel-Palestine conflict, and discuss the importance of AAPI
+    solidarity with anti-colonial struggles across the world.
 - name: AAPI in the LGBT+ Community
   block: Steel
   track: The Fundamentals
