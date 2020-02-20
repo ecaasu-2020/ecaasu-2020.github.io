@@ -1,7 +1,13 @@
 ---
 workshops:
+- name: ''
+  block: ''
+  track: ''
+  host: ''
+  location: ''
+  description: ''
 - name: A "Firm" View on Affirmative Action
-  block: Forge
+  block: Bridge
   track: The Fundamentals
   host: Ricky Tran, Tina Hang
   location: University of Pittsburgh, Cathedral of Learning, CL 358
