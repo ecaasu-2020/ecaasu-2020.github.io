@@ -281,7 +281,7 @@ workshops:
     a cultural home and belonging, and how they negotiate their subjectivities in
     relation to the contemporary EDM festival scene.
 - name: '2020 Census: (AANHPI) Avengers Assemble'
-  block: "2"
+  block: Forge
   track: Civic Engagement
   host: Alyssa Tulabut
   location: Carnegie Mellon University, Porter Hall, PH 226B
@@ -293,7 +293,7 @@ workshops:
     AANHPI communities' participation in the census, and how to help ensure a full
     and accurate count in 2020.
 - name: 'Colonial Legacies: Contemporary Imperialism in Southeast Asia'
-  block: "2"
+  block: Forge
   track: International Relations/History
   host: Kenny Mai, Ada Zhang, Bryan Vu
   location: Carnegie Mellon University, Porter Hall, PH 100
@@ -321,7 +321,7 @@ workshops:
     to build coalitions, keep ourselves accountable, and continually practicing inclusivity
     in our day-to-day.
 - name: 'Diffusion of Religion: Spirituality and Faith in Modern APIA Communities'
-  block: "1"
+  block: Steel
   track: The Fundamentals
   host: Adrian Lee
   location: Carnegie Mellon University, Tepper School of Business, TEP 2003
@@ -332,7 +332,7 @@ workshops:
     and government). This workshop is open to all individuals of faith or spirituality,
     although it will be led through the lens of a Christian APIA.'
 - name: Art and Mindfulness
-  block: "1"
+  block: Steel
   track: Mental Health
   host: Bo Thai
   location: Carnegie Mellon University, Tepper School of Business, TEP 2001
