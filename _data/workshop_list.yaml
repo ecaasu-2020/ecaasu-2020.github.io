@@ -1,11 +1,19 @@
 ---
 workshops:
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
+- name: Pioneerism in the APIA Community
+  block: Steel
+  track: Professional/Career Development
+  host: Randell Rueda
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2702
+  description: From representation to motivation, the APIA community can often have
+    difficulty seeing themselves amongst the leaders and innovators of the world who
+    are making commendable impact. Bound directly or indirectly by the “bamboo ceiling,”
+    leaders on the rise within the APIA community may encounter intrinsic or extrinsic
+    barriers that prevent them from successfully traversing the obstacles to impactful
+    success. In a series of stories and thought-provoking focus discussions, join
+    the conversation centered on rekindling or igniting the motivation to be an APIA
+    pioneer in your field or industry of choice. Be reminded of your value and your
+    impact!
 - name: 'In the Eye of the Beholder: Fetishization and Redefining Desirability'
   block: Steel
   track: The Fundamentals
