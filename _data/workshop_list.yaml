@@ -1,11 +1,18 @@
 ---
 workshops:
-- name: ''
-  block: ''
-  track: ''
-  host: ''
-  location: ''
-  description: ''
+- name: The Social Impact of Asian Cuisine in the US
+  block: Bridge
+  track: Pop Culture
+  host: Devin Dang, Albert Tanjaya
+  location: University of Pittsburgh, Cathedral of Learning, CL 216
+  description: "One thing that stands out about culture is the cuisine that comes
+    with it. The cuisine of our \nimmigrant families tends to be one of our few connections
+    left to the motherland as many \nof us may not know the languages that we speak,
+    have the opportunity to visit often, etc. \nWhat does it mean when someone visits
+    the land of your family for 3 months and decides \nto showcase it in a way that
+    you may not like it? Learn more as we discuss the importance \nof cuisine and
+    culture, the story it tells, and what it means to have AAPI figures tell the story
+    \nof our food."
 - name: A "Firm" View on Affirmative Action
   block: Bridge
   track: The Fundamentals
