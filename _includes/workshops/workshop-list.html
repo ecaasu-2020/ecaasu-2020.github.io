@@ -6,7 +6,7 @@
 	<div id="workshop-list">
 		{% for workshop in site.data.workshop_list.workshops %}
 
-			<div class="workshop" data-block="{{ workshop.block }}" data-track="{{ workshop.track }}">
+			<div class="workshop not-displayed" data-block="{{ workshop.block }}" data-track="{{ workshop.track }}">
 				<img class="circle" src="img/workshop_track_circle.svg" />
 				<div class="workshop-text">
 					<small>Block: {{ workshop.block }}</small>
@@ -14,7 +14,12 @@
 					<p>{{ workshop.description }}</p>
 					<div class="workshop-track">
 						<small>Track</small>
-						<h6 class="tag">{{ workshop.track }}</h6>
+						<div class="tag">
+							<small>{{ workshop.track }}</small>
+							<p class="tooltip">
+								{{ site.data.workshop_track_list.tracks[workshop.track]["description"] }}
+							</p>
+						</div>
 					</div>
 					<p>Hosted by <b>{{ workshop.host }}</b> in <b>{{ workshop.location }}</b></p>
 				</div>

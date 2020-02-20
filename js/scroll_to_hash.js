@@ -19,7 +19,7 @@ $('.home-section-link').click(function(e) {
 
 var hash = sessionStorage.getItem('hash')
 
-if(hash !== ""){
+if(hash !== null){
 	$('html, body').animate({
 		scrollTop: $(hash).offset().top
 	}, 750);

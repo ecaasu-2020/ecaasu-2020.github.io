@@ -50,25 +50,8 @@ $( document ).ready(function() {
 
 $("#workshops-search-filters .filter-tag").click(function(e) {
 	
-	let value = $(this).text();
+	let value = $(this).text().substring(3); // skip "1: "
 	selectedBlock = value;
-
-	// if($(this).hasClass("block-tag")) {
-	// 	if(selectedBlocks.indexOf(value) > -1) {
-	// 		selectedBlocks.splice(selectedBlocks.indexOf(value), 1);
-	// 	} else {
-	// 		selectedBlocks.push(value);
-	// 	}
-	// }
-	// } else {
-	// 	if(selectedTracks.indexOf(value) > -1) {
-	// 		selectedTracks.splice(selectedTracks.indexOf(value), 1);
-	// 	} else {
-	// 		selectedTracks.push(value);
-	// 	}
-	// }
-
-	// $(this).toggleClass('unselected');
 
 	$("#workshops-search-filters .filter-tag").each(function() {
 		$(this).addClass('unselected');
@@ -78,14 +61,3 @@ $("#workshops-search-filters .filter-tag").click(function(e) {
 	updateWorkshopListDOM();
 	updateBlockDescription();
 });
-
-// $("#workshops-deselect-all").click(function(e) {
-// 	selectedBlocks = [];
-// 	selectedTracks = [];
-
-// 	$(".filter-tag").each(function() {
-// 		$(this).addClass("unselected");
-// 	});
-
-// 	updateWorkshopListDOM();
-// });
