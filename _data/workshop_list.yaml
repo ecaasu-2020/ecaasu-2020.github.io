@@ -381,7 +381,7 @@ workshops:
     and provide insight on pursuing a creative career, discuss the importance of representation,
     and unpack our methods for overcoming the struggles as Asian-American creators.
 - name: Monochrome in Media
-  block: "3"
+  block: Bridge
   track: Pop Culture
   host: Ya-Ya Chen, Felicia Yan
   location: University of Pittsburgh, Cathedral of Learning, CL 221
@@ -395,7 +395,7 @@ workshops:
     workshop will ultimately discuss how we can challenge \nthe perception of skin
     color among the AAPI community and society.\""
 - name: The Social Impact of Asian Cuisine in the US
-  block: "2"
+  block: Forge
   track: Pop Culture
   host: Devin Dang, Albert Tanjaya
   location: Carnegie Mellon University, Cohen University Center, CUC Connan
@@ -408,7 +408,7 @@ workshops:
     culture, the story it tells, and what it means to have AAPI figures tell the story
     \nof our food.\""
 - name: API Civic Engagement 101
-  block: "3"
+  block: Bridge
   track: Civic Engagement
   host: Louie Tan Vital
   location: University of Pittsburgh, Cathedral of Learning, CL 253
@@ -421,7 +421,7 @@ workshops:
     steps you can take to claim your political power and to harness our political
     identities for the betterment of our people. '
 - name: 'Health Policy Topics in the AAPI Community '
-  block: "3"
+  block: Bridge
   track: Professional/Career Development
   host: Christine Chau, Krithika Pennathur
   location: University of Pittsburgh, Cathedral of Learning, CL 239
@@ -445,7 +445,7 @@ workshops:
     \nhow it affects various Asian-American cohorts, and the ramifications this has
     on \nthe Asian-American society as a whole.\""
 - name: 'Colorism the Daughter of Racism: A Narrative on Diversified Identities'
-  block: "2"
+  block: Forge
   track: Deep Dive
   host: 'Celina Wong, Mary Bagarra '
   location: Carnegie Mellon University, Tepper School of Business, TEP 2611
@@ -458,7 +458,7 @@ workshops:
     stems from and its effects within communities by telling a narrative of two communities
     with diverse identities: the Chinese Jamcaican and Filipino one.'
 - name: Food for Thought
-  block: "1"
+  block: Steel
   track: Mental Health
   host: Sam Agtarap, Julianne Williams, Steven Rubio
   location: Carnegie Mellon University, Tepper School of Business, TEP 2700
@@ -472,7 +472,7 @@ workshops:
     to hopefully get individuals out of their shell and really want to talk about
     these pressing issues!
 - name: Developing your Story of Self
-  block: "1"
+  block: Steel
   track: Professional/Career Development
   host: Ridhwan Sediqe
   location: Carnegie Mellon University, Baker Hall, BH A53
@@ -501,7 +501,7 @@ workshops:
     and fan-art! Let’s put these world-making and character development elements to
     practice by creating your own personalized tarot card as a creative fan practice.
 - name: "(Re)Model Minority: Intergenerational Perspectives on the Myth"
-  block: "1"
+  block: Steel
   track: The Fundamentals
   host: Dahyun Jessica Jeong & Emily Ye
   location: Carnegie Mellon University, Baker Hall, BH A51
@@ -515,7 +515,7 @@ workshops:
     discuss our differences in navigating the MMS, \nwhat intergenerational conflicts
     arise due to these differences, and how we can \nmanage these tensions.\""
 - name: AAPI in Healthcare Professions
-  block: "1"
+  block: Steel
   track: Professional/Career Development
   host: Naeem Aziz, Lauren Yu
   location: Carnegie Mellon University, Cohen University Center, CUC Connan
@@ -531,7 +531,7 @@ workshops:
     Asians and Pacific Islanders have come to be boxed into these “elite” roles, and
     why have we left a major portion of the demographic out of the discussion?"'
 - name: 'ABG vs. ABG: Exploring the Fetishization of Asian Women'
-  block: "2"
+  block: Forge
   track: Pop Culture
   host: Christine Chau, Krithika Pennathur
   location: Carnegie Mellon University, Cohen University Center, CUC Danforth Conference
@@ -541,7 +541,7 @@ workshops:
     The purpose of this workshop is to explore common stereotypes of Asian women throughout
     history and learn how these roles can play into the fetishization of Asian women.
 - name: A "Firm" View on Affirmative Action
-  block: "2"
+  block: Forge
   track: The Fundamentals
   host: Ricky Tran, Tina Hang
   location: Carnegie Mellon University, Tepper School of Business, TEP 2702
