@@ -1,5 +1,111 @@
 ---
 workshops:
+- name: The Social Impact of Asian Cuisine in the US
+  block: Bridge
+  track: Pop Culture
+  host: Devin Dang, Albert Tanjaya
+  location: University of Pittsburgh, Cathedral of Learning, CL 216
+  description: "One thing that stands out about culture is the cuisine that comes
+    with it. The cuisine of our \nimmigrant families tends to be one of our few connections
+    left to the motherland as many \nof us may not know the languages that we speak,
+    have the opportunity to visit often, etc. \nWhat does it mean when someone visits
+    the land of your family for 3 months and decides \nto showcase it in a way that
+    you may not like it? Learn more as we discuss the importance \nof cuisine and
+    culture, the story it tells, and what it means to have AAPI figures tell the story
+    \nof our food."
+- name: A "Firm" View on Affirmative Action
+  block: Bridge
+  track: The Fundamentals
+  host: Ricky Tran, Tina Hang
+  location: University of Pittsburgh, Cathedral of Learning, CL 358
+  description: Join us in this workshop where we will examine the effects of affirmative
+    action within the Asian American community. In this workshop, we will be discussing
+    (1) How Asian Americans are perceived in America with a more focused scope on
+    how we are viewed in the higher education system. (2) How the education system
+    has historically excluded minority groups (3) What actions have been taken by
+    the APIA community to combat issues revolving around anti-affirmative-action legislation?
+    (4) How to build solidarity with other racial groups that have been damaged affected
+    by affirmative action.
+- name: 'Palestine 101: AAPI Solidarity in the Anti-Colonial Struggle'
+  block: Bridge
+  track: International Relations/History
+  host: Naomi Li
+  location: University of Pittsburgh, Cathedral of Learning, CL 335
+  description: What does settler-colonialism actually mean? What does a settler state
+    in the present day actually look like? How are Asian-Americans connected to the
+    anti-colonial struggle? I will explore questions of modern-day colonialism in
+    the context of the Israel-Palestine conflict, and discuss the importance of AAPI
+    solidarity with anti-colonial struggles across the world.
+- name: AAPI in the LGBT+ Community
+  block: Steel
+  track: The Fundamentals
+  host: Jenny Zhen, Beatrice Fadrigon
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2612
+  description: How do we reclaim our culture in a mindset that queerness is western?
+    A study from University of Washington showed gay Asian Americans were perceived
+    as more "American" than their straight counterparts. Hosted by AQUARIUS at Pitt,
+    we will guide a discussion and reflection with the attendees on why this mindset
+    exists and how we relate to the findings. The discussion will include personal
+    anecdotes about our and attendees' experiences as queer AAPI, deconstruction on
+    this mentality, and reconstruction on what it means to be both AAPi and queer/trans.
+- name: Pioneerism in the APIA Community
+  block: Steel
+  track: Professional/Career Development
+  host: Randell Rueda
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2702
+  description: From representation to motivation, the APIA community can often have
+    difficulty seeing themselves amongst the leaders and innovators of the world who
+    are making commendable impact. Bound directly or indirectly by the “bamboo ceiling,”
+    leaders on the rise within the APIA community may encounter intrinsic or extrinsic
+    barriers that prevent them from successfully traversing the obstacles to impactful
+    success. In a series of stories and thought-provoking focus discussions, join
+    the conversation centered on rekindling or igniting the motivation to be an APIA
+    pioneer in your field or industry of choice. Be reminded of your value and your
+    impact!
+- name: 'In the Eye of the Beholder: Fetishization and Redefining Desirability'
+  block: Steel
+  track: The Fundamentals
+  host: Miru Osuga, Serena Shen
+  location: "Carnegie Mellon University, Porter Hall\tPH, 226A"
+  description: This workshop will focus on the history of AAPI fetishization and ways
+    to heal outside the fetishizing gaze. How do our multiple identities, whether
+    it’s queerness, size, ability, skin tone, or any other part of our identity, influence
+    our desirability in the eyes of others? How does fetishization influence our definitions
+    of “attractive”? And how do we in turn find ways to heal from the trauma of fetishization
+    and redefine and reclaim desirability for ourselves?
+- name: Reappropriate
+  block: Steel
+  track: The Fundamentals
+  host: Justin Chu, Mannat Thakur
+  location: Carnegie Mellon University, Cohon University Center, CUC Danforth Conference
+  description: A scratch on the surface of a normative issue where we contextualize
+    and define cultural appropriation and have a discussion dissecting many layers
+    of this controversial issue. This workshop will be interactive followed by a discussion
+    where participants can voice their opinion about this issue.
+- name: Intergenerational Trauma - Systematic Wounds and How To Navigate Them
+  block: Steel
+  track: Deep Dive
+  host: Minnie Jung, Wendy Sun, Cheyenne Cheng
+  location: Carnegie Mellon University, Porter Hall, PH 100
+  description: Intergenerational or Transgenerational trauma is the psychological
+    theory that suggests that trauma can be passed down from generation to generation.
+    For AAPIs on the East Coast, the wounds associated with immigration and assimilation
+    are still new. How do we as a community interact with our traumas and in what
+    ways do we bring them into our personal relationships? We aim for this workshop
+    to help understand the systemic roots of intergenerational trauma and how these
+    experiences have informed re/productions of AAPI identities, as well as collaborate
+    as a community on how to navigate these hardships. We hope for this to be an informative,
+    reflective, and healing experience.
+- name: State of Positive Mind
+  block: Steel
+  track: Mental Health
+  host: JR Kuo
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2002
+  description: 'Emotional burdens from classes, work, family, and other personal reasons
+    can create tremendous stress. Understanding the sources of the burdens is the
+    first step in improving our mental health. This workshop will examine the causes
+    of these burdens. Once participants can identify the roots of stress, we will
+    explore ways to transform these burdens into hope, strengths, and opportunities. '
 - name: 'Kashmir: The Struggle for Self-Determination'
   block: Bridge
   track: International Relations/History
@@ -307,7 +413,7 @@ workshops:
     of this workshop is to recognize and contextualize forms of imperialism, especially
     as it relates to current conversations of global policy.
 - name: Cross Community Inclusion
-  block: "2"
+  block: Forge
   track: Mental Health
   host: Hannah Song, Christopher Chin
   location: Carnegie Mellon University, Tepper School of Business, TEP 2001
@@ -385,28 +491,28 @@ workshops:
   track: Pop Culture
   host: Ya-Ya Chen, Felicia Yan
   location: University of Pittsburgh, Cathedral of Learning, CL 221
-  description: "\"“Monochrome in Media: Shades of Asian Representation on the Big
-    Screen” delves \ninto Asian representation in movies, TV, and social media with
-    a specific focus on a \nlack of dark-skinned Asian representation. How do Crazy
-    Rich Asians and The Sun is \nAlso a Star a portray the AAPI community in regards
-    to its preference for lighter-skinned \nfaces? We will take a deep dive into colorism,
-    anti-blackness, and white-washing in \nhistory and the media, looking at colorism
-    in Hollywood, Bollywood, Asian advertisements, \nand personal experiences. This
-    workshop will ultimately discuss how we can challenge \nthe perception of skin
-    color among the AAPI community and society.\""
+  description: "Monochrome in Media: Shades of Asian Representation on the Big Screen”
+    delves \ninto Asian representation in movies, TV, and social media with a specific
+    focus on a \nlack of dark-skinned Asian representation. How do Crazy Rich Asians
+    and The Sun is \nAlso a Star a portray the AAPI community in regards to its preference
+    for lighter-skinned \nfaces? We will take a deep dive into colorism, anti-blackness,
+    and white-washing in \nhistory and the media, looking at colorism in Hollywood,
+    Bollywood, Asian advertisements, \nand personal experiences. This workshop will
+    ultimately discuss how we can challenge \nthe perception of skin color among the
+    AAPI community and society."
 - name: The Social Impact of Asian Cuisine in the US
   block: Forge
   track: Pop Culture
   host: Devin Dang, Albert Tanjaya
   location: Carnegie Mellon University, Cohen University Center, CUC Connan
-  description: "\"One thing that stands out about culture is the cuisine that comes
+  description: "One thing that stands out about culture is the cuisine that comes
     with it. The cuisine of our \nimmigrant families tends to be one of our few connections
     left to the motherland as many \nof us may not know the languages that we speak,
     have the opportunity to visit often, etc. \nWhat does it mean when someone visits
     the land of your family for 3 months and decides \nto showcase it in a way that
     you may not like it? Learn more as we discuss the importance \nof cuisine and
     culture, the story it tells, and what it means to have AAPI figures tell the story
-    \nof our food.\""
+    \nof our food."
 - name: API Civic Engagement 101
   block: Bridge
   track: Civic Engagement
@@ -433,7 +539,7 @@ workshops:
     issues? Attendees will weigh in and conduct a short activity that \ninspires advocacy
     and change. \""
 - name: 'Challenging Our Narrative: Analyzing The Asian-American Socioeconomic Gap'
-  block: "2"
+  block: Forge
   track: Deep Dive
   host: Janani Guru, Sean Alexander
   location: Carnegie Mellon University, Baker Hall, BH 226C
@@ -444,7 +550,7 @@ workshops:
     \nand representation as a whole. This workshop analyzes the causes of this gap,
     \nhow it affects various Asian-American cohorts, and the ramifications this has
     on \nthe Asian-American society as a whole.\""
-- name: 'Colorism the Daughter of Racism: A Narrative on Diversified Identities'
+- name: 'Colorism: The Daughter of Racism'
   block: Forge
   track: Deep Dive
   host: 'Celina Wong, Mary Bagarra '
@@ -487,7 +593,7 @@ workshops:
     a unique tool that has helped Presidents and activists identify the essence of
     their passion and sense of community.
 - name: Fandom and the Asian American Community
-  block: "2"
+  block: Forge
   track: Pop Culture
   host: Linda Kuo
   location: Carnegie Mellon University, Tepper School of Business, TEP 2700
@@ -505,21 +611,21 @@ workshops:
   track: The Fundamentals
   host: Dahyun Jessica Jeong & Emily Ye
   location: Carnegie Mellon University, Baker Hall, BH A51
-  description: "\"AAPIs have been described as a “model minority” since the 1960s,\nbut
+  description: "AAPIs have been described as a “model minority” since the 1960s,\nbut
     how do different AAPI generations today view that label? Furthermore, \nhow do
     their ethnic and generational identification influence their experience\nwith
-    the stereotype in America? “(Re)Model Minority: Intergenerational Perspectives
-    \non the Myth” will present an overview of the history of the model minority stereotype
-    \n(MMS) and research on intergenerational differences in perceptions of the MMS,
-    \nspecifically among 1st-, 1.5-, and 2nd-generation Asian Americans. \nWe will
-    discuss our differences in navigating the MMS, \nwhat intergenerational conflicts
-    arise due to these differences, and how we can \nmanage these tensions.\""
+    the stereotype in America? (Re)Model Minority: Intergenerational Perspectives
+    on the Myth” will present an overview of the history of the model minority stereotype
+    (MMS) and research on intergenerational differences in perceptions of the MMS,
+    specifically among 1st-, 1.5-, and 2nd-generation Asian Americans. We will discuss
+    our differences in navigating the MMS, what intergenerational conflicts arise
+    due to these differences, and how we can manage these tensions."
 - name: AAPI in Healthcare Professions
   block: Steel
   track: Professional/Career Development
   host: Naeem Aziz, Lauren Yu
   location: Carnegie Mellon University, Cohen University Center, CUC Connan
-  description: '"We all know that dreaded phrase: “I’m a pre-med.” And we all know
+  description: 'We all know that dreaded phrase: “I’m a pre-med.” And we all know
     the immediate assumptions we make about those who speak that phrase: they are
     smart, hard-working, arrogant, and yes, some of are probably thinking it, Asian.
     Our society has created a stereotype around Asians and Asian Americans, painting
@@ -529,7 +635,7 @@ workshops:
     often not talked about or even considered; those who occupy the so-called “low
     tier” health care professions, such as nurses, home aides, etc. So why is that
     Asians and Pacific Islanders have come to be boxed into these “elite” roles, and
-    why have we left a major portion of the demographic out of the discussion?"'
+    why have we left a major portion of the demographic out of the discussion?'
 - name: 'ABG vs. ABG: Exploring the Fetishization of Asian Women'
   block: Forge
   track: Pop Culture
