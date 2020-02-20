@@ -5,8 +5,9 @@
 
 .tag {
 	margin: 0;
-	border-radius: 0.5vw;
-	padding: 0.5vw 1vw;
+	border-radius: 4px;
+	font-size: 0.8em;
+	padding: 4px 8px;
 	background: $gold;
 	border: 1px solid $gold;
 	color: white;
@@ -161,6 +162,12 @@
 		padding: 4px 8px;
 	}
 
+	#workshops-header {
+		p {
+			width: 100%;
+		}
+	}
+
 	#workshop-list-main {
 		#workshops-header {
 			margin: 3vh 0;
@@ -168,13 +175,41 @@
 			justify-content: space-between;
 		}
 		#workshops-search-filters {
-			align-self: flex-end;
-			justify-content: flex-end;
 			padding: 0;
-			text-align: right;
+
 			.filter-section {
-				justify-content: flex-end;
 				padding: 0;
+			}
+		}
+
+		#workshop-block-descriptions {
+			padding: 0;
+
+			.block-description {
+				display: block;
+				padding-left: 0;
+
+				> div {
+					padding: 0 !important;
+				}
+
+				.workshop-block-image {
+					img {
+						position: inherit;
+						left: 0;
+						transform: none;
+					}
+				}
+			}
+		}
+
+		#workshop-list {
+			.workshop {
+				padding: 0;
+				.circle {
+					top: 0;
+					left: -5%;
+				}
 			}
 		}
 	}
