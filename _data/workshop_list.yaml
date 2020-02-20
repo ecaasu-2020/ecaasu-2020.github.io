@@ -1,7 +1,7 @@
 ---
 workshops:
 - name: 'Kashmir: The Struggle for Self-Determination'
-  block: Steel
+  block: "3"
   track: International Relations/History
   host: Shajei Haider
   location: University of Pittsburgh, Cathedral of Learning, CL 202
@@ -370,17 +370,16 @@ workshops:
 - name: 'Imagination Makes It Happen: How to Pursue A Career In a Creative Field'
   block: "1"
   track: Professional/Career Development
-  host: Jessica Lee, Katie Zhao
+  host: Jessica Lee, Katie Zhao & Tony Nguyen
   location: Carnegie Mellon University, Tepper School of Business, TEP 2611
-  description: "\"Have you ever wanted to pursue a job in the creative field? What
-    keeps you from turning that artistic hobby into a full-fledged career? Maybe it’s
-    practicality, or pressure from your parents. Or even just the risk of entering
-    such a competitive field. \n<br/><br/>\nLed by two AAPI creative professionals
-    with diverse career paths, this workshop will take a close look at the intersectionality
-    of AAPI identity and working behind the scenes in the media industry. We will
-    share our experiences and provide insight on pursuing a creative career, discuss
-    the importance of representation, and unpack our methods for overcoming the struggles
-    as Asian-American creators.\""
+  description: Have you ever wanted to pursue a job in the creative field? What keeps
+    you from turning that artistic hobby into a full-fledged career? Maybe it’s practicality,
+    or pressure from your parents. Or even just the risk of entering such a competitive
+    field. Led by three AAPI creative professionals with diverse career paths, this
+    workshop will take a close look at the intersectionality of AAPI identity and
+    working behind the scenes in the media industry. We will share our experiences
+    and provide insight on pursuing a creative career, discuss the importance of representation,
+    and unpack our methods for overcoming the struggles as Asian-American creators.
 - name: Monochrome in Media
   block: "3"
   track: Track 3
@@ -421,7 +420,7 @@ workshops:
     power to influence politics in ways that strengthen our community. Learn tangible
     steps you can take to claim your political power and to harness our political
     identities for the betterment of our people. '
-- name: 'Health Policy Hot Topics in the AAPI Community '
+- name: 'Health Policy Topics in the AAPI Community '
   block: "2"
   track: Professional/Career Development
   host: Christine Chau, Krithika Pennathur
