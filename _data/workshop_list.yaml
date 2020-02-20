@@ -173,7 +173,7 @@ workshops:
     we will work to amplify AAPI voices and ensure that our community shows up at
     the polls in record numbers this election cycle!
 - name: 'Boundaries Within Community: Imagining Accessible AAPI Spaces'
-  block: "2"
+  block: Forge
   track: The Fundamentals
   host: Cheyenne Cheng
   location: Carnegie Mellon University, Porter Hall, PH 225A
@@ -189,7 +189,7 @@ workshops:
     of being AAPI and disabled manifests, and how one can make student organizational
     spaces more accessible. '
 - name: 'Building Power: AAPIs in the Labor Movement'
-  block: "2"
+  block: Forge
   track: Civic Engagement
   host: Sabrina Yow-chyi Liu, Judy Suh
   location: Carnegie Mellon University, Tepper School of Business, TEP 2002
@@ -203,7 +203,7 @@ workshops:
     will bridge our proud history and present-day by sharing coalition building examples
     in Pittsburgh.
 - name: 'Bridging the 40%: AAPI Battling Blood Cancer and Dispelling Myths'
-  block: "2"
+  block: Forge
   track: Deep Dive
   host: Lensa Jeudy
   location: Carnegie Mellon University, Tepper School of Business, TEP 2701
@@ -217,7 +217,7 @@ workshops:
     We’ll discuss ways to get involved, offer an opportunity to save lives and a chance
     to win amazing giveaways.   '
 - name: Erasing the Shame around Mental Health for AAPIs
-  block: "2"
+  block: Forge
   track: Mental Health
   host: JR Kuo, Marian Lien
   location: Carnegie Mellon University, Baker Hall, BH A51
@@ -233,7 +233,7 @@ workshops:
     own health or those you care for.
 - name: 'Where are all the non-East Asians?: The Erasure of non-East Asians in AAPI
     Discourse'
-  block: "2"
+  block: Forge
   track: 'The Fundamentals '
   host: Shania Khoo, Vinh Dang
   location: Carnegie Mellon University, Tepper School of Business, TEP 2003
@@ -248,7 +248,7 @@ workshops:
     intentional about decentering East Asians and uplifting underrepresented Asians
     in Asian American spaces. Join the discussion! '
 - name: 'How Many Sips of Boba Does it Take to Get to the Bottom of Our Identity? '
-  block: "1"
+  block: Steel
   track: The Fundamentals
   host: Nguyễn Anh Thư
   location: Carnegie Mellon University, Tepper School of Business, TEP 2701
@@ -259,7 +259,7 @@ workshops:
     5 Stages of Asian American Identity, we’ll explore today’s landscape of identity
     formation.
 - name: Asian American Pacific Islander vs  Asian American AND Pacific Islander
-  block: "1"
+  block: Steel
   track: Deep Dive
   host: Kimberly Moya, Kenzo Senaha Kimura
   location: Carnegie Mellon University, Porter Hall, PH 225A
@@ -269,7 +269,7 @@ workshops:
     on how clumping together Asian Americans and Pacific Islanders as a group has
     affected the Pacific Islander communities especially for students and their families.
 - name: Peace, Love, Understanding Rave Culture in the Asian American Community
-  block: "2"
+  block: Forge
   track: Pop Culture
   host: Stephanie Wang, Jeremy Xue
   location: Carnegie Mellon University, Porter Hall, PH 226A
