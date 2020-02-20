@@ -1,5 +1,10 @@
 ---
 maps:
+- name: Cathedral of Learning Floor 1
+- name: CMU CUC Floor 1
+- name: Cathedral of Learning Floor 3
+- name: CMU CUC Floor 2
+- name: CMU CUC Lower Level
 - name: Wyndham Ballroom Level Floor Plans
 - name: Wyndham Parking Map
 - name: Wyndham Lobby Level Floor Plans
