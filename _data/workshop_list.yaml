@@ -469,14 +469,14 @@ workshops:
   track: Pop Culture
   host: Devin Dang, Albert Tanjaya
   location: Carnegie Mellon University, Cohen University Center, CUC Connan
-  description: "\"One thing that stands out about culture is the cuisine that comes
+  description: "One thing that stands out about culture is the cuisine that comes
     with it. The cuisine of our \nimmigrant families tends to be one of our few connections
     left to the motherland as many \nof us may not know the languages that we speak,
     have the opportunity to visit often, etc. \nWhat does it mean when someone visits
     the land of your family for 3 months and decides \nto showcase it in a way that
     you may not like it? Learn more as we discuss the importance \nof cuisine and
     culture, the story it tells, and what it means to have AAPI figures tell the story
-    \nof our food.\""
+    \nof our food."
 - name: API Civic Engagement 101
   block: Bridge
   track: Civic Engagement
@@ -514,7 +514,7 @@ workshops:
     \nand representation as a whole. This workshop analyzes the causes of this gap,
     \nhow it affects various Asian-American cohorts, and the ramifications this has
     on \nthe Asian-American society as a whole.\""
-- name: 'Colorism the Daughter of Racism: A Narrative on Diversified Identities'
+- name: 'Colorism: The Daughter of Racism'
   block: Forge
   track: Deep Dive
   host: 'Celina Wong, Mary Bagarra '
