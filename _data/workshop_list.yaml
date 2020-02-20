@@ -6,6 +6,26 @@ workshops:
   host: ''
   location: ''
   description: ''
+- name: 'In the Eye of the Beholder: Fetishization and Redefining Desirability'
+  block: Steel
+  track: The Fundamentals
+  host: Miru Osuga, Serena Shen
+  location: "Carnegie Mellon University, Porter Hall\tPH, 226A"
+  description: This workshop will focus on the history of AAPI fetishization and ways
+    to heal outside the fetishizing gaze. How do our multiple identities, whether
+    it’s queerness, size, ability, skin tone, or any other part of our identity, influence
+    our desirability in the eyes of others? How does fetishization influence our definitions
+    of “attractive”? And how do we in turn find ways to heal from the trauma of fetishization
+    and redefine and reclaim desirability for ourselves?
+- name: Reappropriate
+  block: Steel
+  track: The Fundamentals
+  host: Justin Chu, Mannat Thakur
+  location: Carnegie Mellon University, Cohon University Center, CUC Danforth Conference
+  description: A scratch on the surface of a normative issue where we contextualize
+    and define cultural appropriation and have a discussion dissecting many layers
+    of this controversial issue. This workshop will be interactive followed by a discussion
+    where participants can voice their opinion about this issue.
 - name: Intergenerational Trauma - Systematic Wounds and How To Navigate Them
   block: Steel
   track: Deep Dive
@@ -24,7 +44,7 @@ workshops:
   block: Steel
   track: Mental Health
   host: JR Kuo
-  location: ''
+  location: Carnegie Mellon University, Tepper School of Business, TEP 2002
   description: 'Emotional burdens from classes, work, family, and other personal reasons
     can create tremendous stress. Understanding the sources of the burdens is the
     first step in improving our mental health. This workshop will examine the causes
