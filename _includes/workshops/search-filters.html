@@ -2,7 +2,7 @@
 	<div id="block-filter-section" class="filter-section">
 		<small>Block </small>
 		{% for block in site.data.workshop_blocks.blocks %}
-			<a class="block-tag filter-tag tag unselected">{{ block.short_name }}</a>
+			<a class="block-tag filter-tag tag unselected">{{ forloop.index }}: {{ block.short_name }}</a>
 		{% endfor %}
 	</div>
 	{% comment %}
