@@ -18,20 +18,9 @@
 }
 
 #ideathon-cases {
-	.case-section {
-		margin-bottom: 30px;
-
-		h4 {
-			margin-bottom: 15px;
-		}
-
-		p {
-			margin-top: 0;
-		}
-
-		a {
-			color: $orange;
-		}
+	a:not(.button) {
+		display: inline-block;
+		color: black;
 	}
 }
 

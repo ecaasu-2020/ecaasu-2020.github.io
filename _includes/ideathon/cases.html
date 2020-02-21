@@ -1,18 +1,16 @@
 <section id="ideathon-cases">
 	<h3>Ideathon Case Information</h3>
 	<div id="ideathon-cases">
-		{% for case in site.data.ideathon_cases.cases %}
-			<div class="case-section">
-				<h4>
-					{{ case.name }}
-				</h4>
-				<p>
-					{{ case.description }}
-				</p>
-				<a href="{{ case.link }}" target="_blank">
-					Go to case
-				</a>
-			</div>
-		{% endfor %}
+		<ul>
+			{% for case in site.data.ideathon_cases.cases %}
+				<li>
+					<a href="{{ case.link }}" target="_blank">
+						{{ case.name }} ⤻
+					</a>
+				</li>
+			{% endfor %}
+		</ul>	
 	</div>
+	<a class="button" href="https://ask.fm/ecaasusii" target="_blank">Live FAQ</a>
+	<a class="button" href="http://bit.ly/SIIsubmission " target="_blank">Register for the Ideathon</a>
 </section>
