@@ -1,9 +1,18 @@
-<section id="hackathon-faq" class="faq">
+<section id="ideathon-faq" class="faq">
 	<h3>FAQ</h3>
-	<div id="hackathon-faq-text" class="faq-text">
-		{% for q in site.data.hackathon_faq.questions %}
-			<p class="faq-question drawer"><b>{{ q.question }}</b></p>
-			<p class="faq-answer">{{ q.answer }}</p>
+	<div id="ideathon-faq-text" class="faq-text">
+		{% for q in site.data.ideathon_faq.questions %}
+			{% if q.featured == true %}
+				<p class="faq-question drawer"><b>{{ q.question }}</b></p>
+				<p class="faq-answer">{{ q.answer }}</p>
+			{% endif %}
+		{% endfor %}
+		<a class="featured-faq-toggle">View more FAQs</a>
+		{% for q in site.data.ideathon_faq.questions %}
+			{% if q.featured == false %}
+				<p class="faq-question drawer not-featured-faq not-displayed"><b>{{ q.question }}</b></p>
+				<p class="faq-answer">{{ q.answer }}</p>
+			{% endif %}
 		{% endfor %}
 	</div>
 </section>

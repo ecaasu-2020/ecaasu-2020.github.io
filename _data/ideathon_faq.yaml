@@ -1,6 +1,7 @@
 ---
 questions:
 - question: What is the format for the Social Innovation Ideathon?
+  featured: true
   answer: 'The Social Innovation Ideathon will present a prompt, or problem presented
     as a case study, relating to relevant AAPI issues to improve society. Teams will
     have the chance to propose and submit a solution to the prompt within a given
@@ -8,6 +9,7 @@ questions:
     each submission and determine the winners, whom will be awarded during the closing
     ceremony. '
 - question: What are the size of teams?
+  featured: true
   answer: 'Teams will consist of three (3) to five (5) individuals. '
 - question: Do I need to register with a full team? Can I participate as an individual?
   answer: "You may register with friends and classmates, but you do not need to register
@@ -15,14 +17,17 @@ questions:
     on the Social Innovation Ideathon registration form, we will form you into teams
     during the conference. "
 - question: Do I need to know how to code?
+  featured: true
   answer: 'No, there is no coding experience needed. The event will present prompts
     regarding Asian American issues, and participants only need to brainstorm possible
     solutions for the issues. '
 - question: What should the format be for our proposals or final submissions?
+  featured: true
   answer: The final submission should be in the form of a 3-page document. However,
     you are free to use any combination of text and graphics, or other communication
     forms of your choice.
 - question: 'What information would the prompt contain? '
+  featured: true
   answer: 'There will be three prompts for participants to choose from; each team
     can address any one of these topics in any form they choose. Each prompt will
     contain a scenario based on real-life occurrences, and the concluding paragraph
