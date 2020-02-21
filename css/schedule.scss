@@ -48,10 +48,22 @@
 
 @media screen and (max-width: $breakpoint) {
 
-	.schedule-day {
-		.schedule-event {
-			padding-left: 0;
+	#schedule-event-list {
+		.schedule-day {
+			.schedule-event {
+				padding-left: 0;
+				padding-bottom: 0;
+				margin: 0;
+
+				div {
+					padding-top: 0;
+					padding-left: 0;
+				}
+
+				.event-info {
+					padding-bottom: 0;
+				}
+			}
 		}
 	}
-
 }
