@@ -121,7 +121,7 @@
 	margin-bottom: 5vh;
 }
 
-#home-logistics {
+#home-venue {
 
 	position: relative;
 	margin-top: 0;
@@ -135,7 +135,12 @@
 		margin-bottom: 15vh;
 	}
 
-	.home-logistics-section {
+	a {
+		color: $gold;
+		font-weight: 600;
+	}
+
+	.home-venue-section {
 		background: $light-blue;
 		padding: 8vh 8vw;
 		display: flex;
@@ -144,22 +149,22 @@
 
 		&:nth-child(even) {
 			flex-direction: row-reverse;
-			.home-logistics-text {
+			.home-venue-text {
 				padding-left: 5vw;
 				padding-right: 0;
 			}
 
-			.home-logistics-image img {
+			.home-venue-image img {
 				float: right
 			}
 		}
 
-		.home-logistics-text {
+		.home-venue-text {
 			flex: 1 1 0;
 			padding-right: 5vw;
 		}
 
-		.home-logistics-image {
+		.home-venue-image {
 			flex: 1 1 0;
 			> img {
 				width: 150%;
@@ -182,17 +187,6 @@
 	.faq-question {
 		position: relative;
 		margin: 30px 0;
-
-		&:after {
-			content: '⌄';
-			font-size: 3em;
-			position: absolute;
-			left: 110%;
-			top: -0.25em;
-			font-weight: 100;
-			color: $dark-grey;
-			cursor: pointer;
-		}
 	}
 
 	.faq-answer {
@@ -310,14 +304,14 @@
 	    }
 	}
 
-	#home-logistics {
+	#home-venue {
 
 		h3 {
 			margin-top: 0;
 			margin-bottom: 1em; // match other h3s
 		}
 
-		.home-logistics-section {
+		.home-venue-section {
 
 			padding: 0;
 
@@ -325,10 +319,10 @@
 				flex-direction: column;
 			}
 
-			.home-logistics-image img {
-					max-width: 100%;
-					float: none;
-				}
+			.home-venue-image img {
+				max-width: 100%;
+				float: none;
+			}
 		}
 	}
 
