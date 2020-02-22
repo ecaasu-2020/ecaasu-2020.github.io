@@ -3,18 +3,18 @@
 
 @import 'variables.scss';
 
-#ideathon-banner {
+#ideathon-header {
 
-	padding-top: 5vh;
+	padding: 5vh 0;
 	position: relative;
-
-	p {
-		width: 60%;
-	}
 
 	.button {
 		margin: 45px 0;
 	}
+}
+
+#ideathon-curve {
+	top: 95%;
 }
 
 #ideathon-cases {
@@ -40,10 +40,16 @@
 			}
 		}
 	}
+
+	hr {
+		width: 100%;
+		background: $light-grey;
+		border: none;
+	}
 }
 
 #ideathon-faq {
-	.featured-faq-toggle {
+	a {
 		color: $gold;
 		font-weight: 600;
 	}
@@ -53,11 +59,13 @@
 @media screen and (max-width: $breakpoint) {
 
 	#ideathon-cases {
-		.case-section {
-			padding: 0;
+		#ideathon-case-info {
+			.case-section {
+				padding: 0;
 
-			p {
-				width: 100%;
+				p {
+					width: 100% !important;
+				}
 			}
 		}
 	}
