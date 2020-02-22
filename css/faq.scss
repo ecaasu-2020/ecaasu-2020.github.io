@@ -1,0 +1,29 @@
+---
+---
+
+@import 'variables.scss';
+
+.faq {
+	width: 100vw;
+	background: $light-blue;
+	padding: 3vw 10vw;
+
+	.faq-text {
+		width: 60%;
+	}
+
+	.faq-question {
+		position: relative;
+		margin: 30px 0;
+	}
+
+	.faq-answer {
+		height: 0;
+		overflow: hidden;
+
+		&.open {
+			height: auto;
+			overflow: auto;
+		}
+	}
+}
