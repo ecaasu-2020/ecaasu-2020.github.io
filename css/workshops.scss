@@ -34,10 +34,6 @@
 		margin: 0;
 	}
 
-	p {
-		width: 60%;
-	}
-
 	a {
 		color: $gold;
 	}
@@ -184,13 +180,7 @@
 	.tag {
 		padding: 4px 8px;
 	}
-
-	#workshops-header {
-		p {
-			width: 100%;
-		}
-	}
-
+	
 	#workshop-list-main {
 		#workshops-header {
 			margin: 3vh 0;

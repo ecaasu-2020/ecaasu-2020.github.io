@@ -25,6 +25,10 @@ section {
 
 .header {
 	padding-top: 4vh;
+
+	p {
+		width: 60%;
+	}
 }
 
 .not-displayed {
@@ -133,5 +137,11 @@ should have relative positioning.
 		padding: 20px;
 		margin: 0;
 		flex-direction: column;
+	}
+
+	.header {
+		p {
+			width: 100%;
+		}
 	}
 }

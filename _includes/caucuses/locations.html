@@ -1,0 +1,18 @@
+<section id="caucuses-location-list">
+	<div class="schedule-day">
+		{% for caucus in site.data.caucus_list.caucuses %}
+			<div class="schedule-event">
+				<div class="event-time-location">
+					<h6>
+						{{ caucus.location }}
+					</h6>
+					<p >{{ caucus.type }}</p>
+				</div>
+				<div class="event-info">
+					<p><b>{{ caucus.title }}</b></p>
+				</div>
+	
+			</div>
+		{% endfor %}
+	</div>
+</section>

@@ -3,7 +3,14 @@
 
 @import 'variables.scss';
 
-#schedule-event-list {
+#caucuses-location-list {
+	.event-time-location {
+		flex: 2 1 0 !important;
+	}
+}
+
+#schedule-event-list,
+#caucuses-location-list {
 
 	.schedule-day {
 
@@ -16,7 +23,7 @@
 		}
 
 		.schedule-event {
-			margin: 3vh 0;
+			margin: 5vh 0;
 			display: flex;
 
 			.event-time-location {
