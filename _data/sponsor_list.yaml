@@ -1,7 +1,5 @@
 ---
 sponsors:
-- name: CMU Heinz College
-  link: https://www.cmu.edu/information-systems/
 - name: United States Census
   link: https://2020census.gov/en.html
 - name: US State Dept
@@ -32,5 +30,7 @@ sponsors:
   link: https://www.flybyjing.com/
 - name: University of Pittsburgh ASA
   link: http://www.pittasa.com/
+- name: CMU Heinz College
+  link: https://www.cmu.edu/information-systems/
 - name: Tepper
   link: http://cmu.edu/
