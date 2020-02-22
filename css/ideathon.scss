@@ -18,9 +18,21 @@
 }
 
 #ideathon-cases {
-	a:not(.button) {
-		display: inline-block;
-		color: black;
+	.case-section {
+		margin-bottom: 30px;
+
+		h5 {
+			margin-bottom: 15px;
+			color: $dark-grey;
+		}
+
+		p {
+			margin-top: 0;
+		}
+
+		a {
+			color: $orange;
+		}
 	}
 }
 
@@ -37,6 +49,12 @@
 	#ideathon-banner {
 		p {
 			width: 100%;
+		}
+	}
+
+	#ideathon-cases {
+		.case-section {
+			padding: 0;
 		}
 	}
 
